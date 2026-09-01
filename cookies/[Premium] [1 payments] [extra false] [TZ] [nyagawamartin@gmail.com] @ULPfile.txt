@@ -1,21 +1,4 @@
 Email: Geremi
-Profiles: Geremi, Oc surusu, Cele, Settings, Nn entrare
-Country: TZ
-Since: December 2024
-
-Token: BgiQvuvcAxLCAQxD6lDsOrojj2OO9yYIIvWeCC0q224qaFFY3/h2oJY Tt76VDklbWy75IUYHfSHkOXAJ308jTp680DBmzTL9iNSwImOf8l7XA86pmmkPpzbBmiF1H0avUcV6 mpnSOfJvIAMY3rOSq6giL 3HzOhnSy9tQQsk64LSionXR 6VUvh 2PbvGNBEaqzvzWtohgIPypn08loXtMjdeNz0cmlgXp2xh4l2t5J fNRSRZ9H82v9/4N2sEAavPlYof7ynMOdMTGAYiDgoM3JBfM7mL1DrsllaS
-
-Direct Watch: https://netflix.com/?nftoken=BgiQvuvcAxLCAQxD6lDsOrojj2OO9yYIIvWeCC0q224qaFFY3/h2oJY+Tt76VDklbWy75IUYHfSHkOXAJ308jTp680DBmzTL9iNSwImOf8l7XA86pmmkPpzbBmiF1H0avUcV6+mpnSOfJvIAMY3rOSq6giL+3HzOhnSy9tQQsk64LSionXR+6VUvh+2PbvGNBEaqzvzWtohgIPypn08loXtMjdeNz0cmlgXp2xh4l2t5J+fNRSRZ9H82v9/4N2sEAavPlYof7ynMOdMTGAYiDgoM3JBfM7mL1DrsllaS
-
-Mobile Watch: To use mobile apps you need to copy the Direct Watch link and paste it to your mobile Chrome browser and enter. After you enter and open the account in the browser, change the link to https://netflix.com/unsupported. It will suggest to open the app; click that and it will direct you to the mobile app smoothly.
-
-TV Watch: https://netflix.com/tv2?nftoken=BgiQvuvcAxLCAQxD6lDsOrojj2OO9yYIIvWeCC0q224qaFFY3/h2oJY+Tt76VDklbWy75IUYHfSHkOXAJ308jTp680DBmzTL9iNSwImOf8l7XA86pmmkPpzbBmiF1H0avUcV6+mpnSOfJvIAMY3rOSq6giL+3HzOhnSy9tQQsk64LSionXR+6VUvh+2PbvGNBEaqzvzWtohgIPypn08loXtMjdeNz0cmlgXp2xh4l2t5J+fNRSRZ9H82v9/4N2sEAavPlYof7ynMOdMTGAYiDgoM3JBfM7mL1DrsllaS
-
-========================================
-       ORIGINAL DATA 
-========================================
-
-Email: Geremi
 Profiles: Geremi, Oc surusu, F, Settings, Nn entrare
 Country: TZ
 Since: diciembre de 2024
@@ -54,8 +37,5 @@ t.me/ULPfile
 .netflix.com	TRUE	/	FALSE	1792416566	netflix-sans-bold-3-loaded	true
 .netflix.com	TRUE	/	FALSE	1816176566	OptanonConsent	isGpcEnabled=0&datestamp=Tue+Jul+21+2026+06%3A29%3A26+GMT-0700+(Pacific+Daylight+Time)&version=202604.2.0&browserGpcFlag=0&isDntEnabled=0&isIABGlobal=false&hosts=&consentId=99426694-0d3b-4c59-8a17-165c07a4607e&interactionCount=1&isAnonUser=1&prevHadToken=0&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&crTime=1784640506005&AwaitingReconsent=false
 .netflix.com	TRUE	/	FALSE	1790798572	profilesNewSession	0
---------------------------------------------------
-
-
 --------------------------------------------------
 

@@ -3,23 +3,6 @@ Profiles: OKAN, Hakk&imath;, &Ccedil;i&gbreve;dem, Yi&gbreve;it
 Country: TR
 Since: Nisan 2020
 
-Token: BgiQvuvcAxLCAf9PNEmPs/QamVLnT4yiD839b1Szvxad0GZ zF6KISfcbqxQNDIPVz499SeQ2etD82eaUxyG4gmY1FbJWtCeViLolpXTHR7OdC/ngTd7GhB2vc7dtDSsbxn8KkHzWaU7ouo8IrUW1O3ASM0sM7olz5WwYl8JKyK1IqOAHXlLpshfVWETGIZpAo7Anu qjt2DjLF/xNiH6vNybjjtuo1KkHu/0KKivTEHqV0Ud/F6ImF/m4/lDUWXOVIu9owS/vuKP5BpGAYiDgoMXMKBDS0cl WgLliA
-
-Direct Watch: https://netflix.com/?nftoken=BgiQvuvcAxLCAf9PNEmPs/QamVLnT4yiD839b1Szvxad0GZ+zF6KISfcbqxQNDIPVz499SeQ2etD82eaUxyG4gmY1FbJWtCeViLolpXTHR7OdC/ngTd7GhB2vc7dtDSsbxn8KkHzWaU7ouo8IrUW1O3ASM0sM7olz5WwYl8JKyK1IqOAHXlLpshfVWETGIZpAo7Anu+qjt2DjLF/xNiH6vNybjjtuo1KkHu/0KKivTEHqV0Ud/F6ImF/m4/lDUWXOVIu9owS/vuKP5BpGAYiDgoMXMKBDS0cl+WgLliA
-
-Mobile Watch: To use mobile apps you need to copy the Direct Watch link and paste it to your mobile Chrome browser and enter. After you enter and open the account in the browser, change the link to https://netflix.com/unsupported. It will suggest to open the app; click that and it will direct you to the mobile app smoothly.
-
-TV Watch: https://netflix.com/tv2?nftoken=BgiQvuvcAxLCAf9PNEmPs/QamVLnT4yiD839b1Szvxad0GZ+zF6KISfcbqxQNDIPVz499SeQ2etD82eaUxyG4gmY1FbJWtCeViLolpXTHR7OdC/ngTd7GhB2vc7dtDSsbxn8KkHzWaU7ouo8IrUW1O3ASM0sM7olz5WwYl8JKyK1IqOAHXlLpshfVWETGIZpAo7Anu+qjt2DjLF/xNiH6vNybjjtuo1KkHu/0KKivTEHqV0Ud/F6ImF/m4/lDUWXOVIu9owS/vuKP5BpGAYiDgoMXMKBDS0cl+WgLliA
-
-========================================
-       ORIGINAL DATA 
-========================================
-
-Email: OKAN
-Profiles: OKAN, Hakk&imath;, &Ccedil;i&gbreve;dem, Yi&gbreve;it
-Country: TR
-Since: Nisan 2020
-
 Token: BgiQvuvcAxLCAT9c6DIP2OvxGZWHRfudHQL3sawKYVxfThbHpK 4C1JTT3Y0KP4WmX0A6uxV3Ky gkM2M70uax 8ERdUnzpzQ6WiTUxF4KpjMthsEUyfF7NmG uMU0Zy5rPV41oew0lhcxh4 35TC6OkGavNcZD3Z3SbH/deadavbVyiu9mNugBbrzWELBUZGJOokYa9snd0iNfi7Cun8 UI1vteQt2K8BeTfRn3TfFed4sacZsFimZJJEixezin8aGh0YPsDIiO/apKGAYiDgoMA1RA4daBGPX1sWYI
 
 Direct Watch: https://netflix.com/?nftoken=BgiQvuvcAxLCAT9c6DIP2OvxGZWHRfudHQL3sawKYVxfThbHpK+4C1JTT3Y0KP4WmX0A6uxV3Ky+gkM2M70uax+8ERdUnzpzQ6WiTUxF4KpjMthsEUyfF7NmG+uMU0Zy5rPV41oew0lhcxh4+35TC6OkGavNcZD3Z3SbH/deadavbVyiu9mNugBbrzWELBUZGJOokYa9snd0iNfi7Cun8+UI1vteQt2K8BeTfRn3TfFed4sacZsFimZJJEixezin8aGh0YPsDIiO/apKGAYiDgoMA1RA4daBGPX1sWYI
@@ -53,8 +36,5 @@ t.me/ULPfile
 .netflix.com	TRUE	/	FALSE	1790798572	netflix-sans-bold-3-loaded	true
 .netflix.com	TRUE	/	FALSE	1790798572	netflix-sans-normal-3-loaded	true
 .netflix.com	TRUE	/	FALSE	1809346393	nfvdid	BQFmAAEBEIQAOunJGRt9a7_frLfHZwtgj2iqbm_DFGikvRdijG5P7zdOj86wBlLrPfa21gJ4Uo8kwwgbUOQz8txWbNpd0x5W6llTbuvvz5lIBCKNIfAsh7jki1As4rTRvz6EG_QUioh4-uz8pOl2Z0MJRpiPyB9i
---------------------------------------------------
-
-
 --------------------------------------------------
 

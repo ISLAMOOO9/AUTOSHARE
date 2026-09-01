@@ -3,23 +3,6 @@ Profiles: Semra, Eser, Yavuz, Figen, Enis
 Country: TR
 Since: Ocak 2024
 
-Token: BgiQvuvcAxLCAUKQTGQsUYO4w 5 OnYqsdsNjechN6DHJkkdlVCVFy7CVrT8MLOSrPS42PF80zGg2k7uI99mFCehyDg3WeI9B2n3huN44rAoMCyPI4Y5B710HNj9DgNlgEgfPbiUJUYu3MOJbEBHXQA9qk28/UQ2tzdrWUfn h0RvpF6vsqaXPa1xWPRWI1R3CJlgyIUREE1LeInvK64fomoz9oIHy98O3Gnqgtx/VboMscR5g9gNMfqzEYhrmITcG07D4 PdWtCdRo1GAYiDgoMAniZVK/ejadlqTmz
-
-Direct Watch: https://netflix.com/?nftoken=BgiQvuvcAxLCAUKQTGQsUYO4w+5+OnYqsdsNjechN6DHJkkdlVCVFy7CVrT8MLOSrPS42PF80zGg2k7uI99mFCehyDg3WeI9B2n3huN44rAoMCyPI4Y5B710HNj9DgNlgEgfPbiUJUYu3MOJbEBHXQA9qk28/UQ2tzdrWUfn+h0RvpF6vsqaXPa1xWPRWI1R3CJlgyIUREE1LeInvK64fomoz9oIHy98O3Gnqgtx/VboMscR5g9gNMfqzEYhrmITcG07D4+PdWtCdRo1GAYiDgoMAniZVK/ejadlqTmz
-
-Mobile Watch: To use mobile apps you need to copy the Direct Watch link and paste it to your mobile Chrome browser and enter. After you enter and open the account in the browser, change the link to https://netflix.com/unsupported. It will suggest to open the app; click that and it will direct you to the mobile app smoothly.
-
-TV Watch: https://netflix.com/tv2?nftoken=BgiQvuvcAxLCAUKQTGQsUYO4w+5+OnYqsdsNjechN6DHJkkdlVCVFy7CVrT8MLOSrPS42PF80zGg2k7uI99mFCehyDg3WeI9B2n3huN44rAoMCyPI4Y5B710HNj9DgNlgEgfPbiUJUYu3MOJbEBHXQA9qk28/UQ2tzdrWUfn+h0RvpF6vsqaXPa1xWPRWI1R3CJlgyIUREE1LeInvK64fomoz9oIHy98O3Gnqgtx/VboMscR5g9gNMfqzEYhrmITcG07D4+PdWtCdRo1GAYiDgoMAniZVK/ejadlqTmz
-
-========================================
-       ORIGINAL DATA 
-========================================
-
-Email: Semra
-Profiles: Semra, Eser, Yavuz, Figen, Enis
-Country: TR
-Since: Ocak 2024
-
 Token: BgiQvuvcAxLCAblpPxnqMKw7eJ833wmSXVfVrRFrbn3QVqTNwEuo 7v0AgXJP2QhD2nCob2ajE4VExeWhqN2RRPSYYlQr7iqMReFPW0jfGVEVvu7WN5kNWfJqL2cwrIzW5 n2JpPF6OatswFHBk0VlIFAg4yZ9UGgQ8SrtDlhLJC2SMlmx3sAkjEhSwYofldpl0fzuatWfRFrr3lG7m92CKzUjRG/BI0g OL uIdiarZ4evPk2oI23EOp5qcuwxgGghB6MSrQ8euFI MGAYiDgoMoRHbyR0bke5MtQZx
 
 Direct Watch: https://netflix.com/?nftoken=BgiQvuvcAxLCAblpPxnqMKw7eJ833wmSXVfVrRFrbn3QVqTNwEuo+7v0AgXJP2QhD2nCob2ajE4VExeWhqN2RRPSYYlQr7iqMReFPW0jfGVEVvu7WN5kNWfJqL2cwrIzW5+n2JpPF6OatswFHBk0VlIFAg4yZ9UGgQ8SrtDlhLJC2SMlmx3sAkjEhSwYofldpl0fzuatWfRFrr3lG7m92CKzUjRG/BI0g+OL+uIdiarZ4evPk2oI23EOp5qcuwxgGghB6MSrQ8euFI+MGAYiDgoMoRHbyR0bke5MtQZx
@@ -54,8 +37,5 @@ t.me/ULPfile
 .netflix.com	TRUE	/	TRUE	1801081690	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABSpI-God9FWaWRkOzfIpxwaSXJ0PMWoYHk.%26dt%3D1769545691325
 .netflix.com	TRUE	/	FALSE	1801081724	OptanonConsent	isGpcEnabled=0&datestamp=Tue+Jan+27+2026+23%3A28%3A44+GMT%2B0300+(GMT%2B03%3A00)&version=202512.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=430c6ec7-adda-4177-a3a8-012461dbee74&interactionCount=4&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false&intType=3&geolocation=TR%3B06
 .netflix.com	TRUE	/	FALSE	1804105721	dsca	customer
---------------------------------------------------
-
-
 --------------------------------------------------
 

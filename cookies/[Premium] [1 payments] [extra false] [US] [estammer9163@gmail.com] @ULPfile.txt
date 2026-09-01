@@ -3,23 +3,6 @@ Profiles: Elizabeth, Kelly
 Country: US
 Since: October 2022
 
-Token: BgiQvuvcAxLCAZS3jWkN/PtP5SQmwqzbRS9OovSzIxyq59MuBUbntMY9ke0lp/AyD4dHJflWY6G0A0CFPNnRlzqOpkPEKxp mDTqnRFKUrMnj8eTYoPhshq3BN9o9I8CuS4VQ DInG4ToEgcUcub1HHQbb68dKLTIUqFja600uUYewKd CPMGhmOiGHxHxzo2lOgLZdj02HDNQs OWJ3noQbHhubp91FbmYfUlhD2P2yxHedKC4oWJJKx/lTbIm3VyZYPfzpVOdx7ip6GAYiDgoMPFluOC2rlUypZUr6
-
-Direct Watch: https://netflix.com/?nftoken=BgiQvuvcAxLCAZS3jWkN/PtP5SQmwqzbRS9OovSzIxyq59MuBUbntMY9ke0lp/AyD4dHJflWY6G0A0CFPNnRlzqOpkPEKxp+mDTqnRFKUrMnj8eTYoPhshq3BN9o9I8CuS4VQ+DInG4ToEgcUcub1HHQbb68dKLTIUqFja600uUYewKd+CPMGhmOiGHxHxzo2lOgLZdj02HDNQs+OWJ3noQbHhubp91FbmYfUlhD2P2yxHedKC4oWJJKx/lTbIm3VyZYPfzpVOdx7ip6GAYiDgoMPFluOC2rlUypZUr6
-
-Mobile Watch: To use mobile apps you need to copy the Direct Watch link and paste it to your mobile Chrome browser and enter. After you enter and open the account in the browser, change the link to https://netflix.com/unsupported. It will suggest to open the app; click that and it will direct you to the mobile app smoothly.
-
-TV Watch: https://netflix.com/tv2?nftoken=BgiQvuvcAxLCAZS3jWkN/PtP5SQmwqzbRS9OovSzIxyq59MuBUbntMY9ke0lp/AyD4dHJflWY6G0A0CFPNnRlzqOpkPEKxp+mDTqnRFKUrMnj8eTYoPhshq3BN9o9I8CuS4VQ+DInG4ToEgcUcub1HHQbb68dKLTIUqFja600uUYewKd+CPMGhmOiGHxHxzo2lOgLZdj02HDNQs+OWJ3noQbHhubp91FbmYfUlhD2P2yxHedKC4oWJJKx/lTbIm3VyZYPfzpVOdx7ip6GAYiDgoMPFluOC2rlUypZUr6
-
-========================================
-       ORIGINAL DATA 
-========================================
-
-Email: Elizabeth
-Profiles: Elizabeth, Kelly
-Country: US
-Since: October 2022
-
 Token: N/A
 
 Direct Watch: N/A
@@ -51,8 +34,5 @@ t.me/ULPfile
 .netflix.com	TRUE	/	TRUE	1790798572	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABRT6YQ3_uM91FVlUfTHHX_xQ87frd5fdUc.%26dt%3D1755096802447
 .netflix.com	TRUE	/	FALSE	1790798572	flwssn	89afac06-4864-41e7-b212-c8aaed3707ad
 .netflix.com	TRUE	/	FALSE	1790798572	profilesNewSession	0
---------------------------------------------------
-
-
 --------------------------------------------------
 

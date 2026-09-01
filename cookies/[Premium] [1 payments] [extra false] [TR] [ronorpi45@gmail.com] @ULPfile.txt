@@ -3,23 +3,6 @@ Profiles: Bar&imath;&scedil;, irem, X, Emine
 Country: TR
 Since: April 2020
 
-Token: BgiQvuvcAxLCAR6GwLsH006tTEkAMysKgLTaajk de7IaMsFwXicyZVAGwEusGByosbZj2mAWVeEn21EeRdu56FFyfQ2uulgZk0LlyFVNFdxRclRpOhaIfAWDqW5weJKdNC8rMgZ1L/T9CTQsNNNaWPLXToMryvsdI8afBDqJPhn/OIgFeqmyavniPs8to8p4RrujM88UeQl3ltm1i9HY9pnNf/ix2Q0xGWgqzBlV7thskxc3SaYmfgfIGRRr67gy3ORPdad3NkIkKZFGAYiDgoMX3ubXDs K2hH9pkz
-
-Direct Watch: https://netflix.com/?nftoken=BgiQvuvcAxLCAR6GwLsH006tTEkAMysKgLTaajk+de7IaMsFwXicyZVAGwEusGByosbZj2mAWVeEn21EeRdu56FFyfQ2uulgZk0LlyFVNFdxRclRpOhaIfAWDqW5weJKdNC8rMgZ1L/T9CTQsNNNaWPLXToMryvsdI8afBDqJPhn/OIgFeqmyavniPs8to8p4RrujM88UeQl3ltm1i9HY9pnNf/ix2Q0xGWgqzBlV7thskxc3SaYmfgfIGRRr67gy3ORPdad3NkIkKZFGAYiDgoMX3ubXDs+K2hH9pkz
-
-Mobile Watch: To use mobile apps you need to copy the Direct Watch link and paste it to your mobile Chrome browser and enter. After you enter and open the account in the browser, change the link to https://netflix.com/unsupported. It will suggest to open the app; click that and it will direct you to the mobile app smoothly.
-
-TV Watch: https://netflix.com/tv2?nftoken=BgiQvuvcAxLCAR6GwLsH006tTEkAMysKgLTaajk+de7IaMsFwXicyZVAGwEusGByosbZj2mAWVeEn21EeRdu56FFyfQ2uulgZk0LlyFVNFdxRclRpOhaIfAWDqW5weJKdNC8rMgZ1L/T9CTQsNNNaWPLXToMryvsdI8afBDqJPhn/OIgFeqmyavniPs8to8p4RrujM88UeQl3ltm1i9HY9pnNf/ix2Q0xGWgqzBlV7thskxc3SaYmfgfIGRRr67gy3ORPdad3NkIkKZFGAYiDgoMX3ubXDs+K2hH9pkz
-
-========================================
-       ORIGINAL DATA 
-========================================
-
-Email: Barış
-Profiles: Bar&imath;&scedil;, irem, X, Emine
-Country: TR
-Since: April 2020
-
 Token: BgiQvuvcAxLCAUy3sJi/ pqYwl crr mfFAUFnCfWhuOKT3ar6EFK4TYStR4P1NFIFfYIlA0Nv4AwpIav2SQVWRLTFwNy9/NiFbJDmV0Pzasy17adzF3ni11GnNxMq3p2a2IXL02uMRRqBRteA Kxn9OSwEmnPECf4rLM6UPhK4cmDHZkBsQ6JPRILHQtKF/ yLSksdUxiJ/IDUPQdTghtxojXkQyOsTvWoEaq9ftX5EQMli5CFLnNixixfCv YONE5CearR9uWLmLF3GAYiDgoMloQaVhPawTWYQs/v
 
 Direct Watch: https://netflix.com/?nftoken=BgiQvuvcAxLCAUy3sJi/+pqYwl+crr+mfFAUFnCfWhuOKT3ar6EFK4TYStR4P1NFIFfYIlA0Nv4AwpIav2SQVWRLTFwNy9/NiFbJDmV0Pzasy17adzF3ni11GnNxMq3p2a2IXL02uMRRqBRteA+Kxn9OSwEmnPECf4rLM6UPhK4cmDHZkBsQ6JPRILHQtKF/+yLSksdUxiJ/IDUPQdTghtxojXkQyOsTvWoEaq9ftX5EQMli5CFLnNixixfCv+YONE5CearR9uWLmLF3GAYiDgoMloQaVhPawTWYQs/v
@@ -58,8 +41,5 @@ t.me/ULPfile
 .netflix.com	TRUE	/	TRUE	1811145796	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABTwKbc0okyT6_1jlOx7tWGuormfA9IGQ_M.%26dt%3D1779609796083
 .netflix.com	TRUE	/	TRUE	1814169798	dsca	true
 .netflix.com	TRUE	/	FALSE	1790798572	profilesNewSession	0
---------------------------------------------------
-
-
 --------------------------------------------------
 

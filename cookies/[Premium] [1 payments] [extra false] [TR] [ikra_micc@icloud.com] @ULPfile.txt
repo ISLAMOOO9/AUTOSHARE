@@ -1,21 +1,4 @@
 Email: ikooo
-Profiles: ikooo, Eminerdal, 5, reys, pepe
-Country: TR
-Since: diciembre de 2020
-
-Token: BgiQvuvcAxLDAeykbo9BHXHTNhq3iGAM7IZgBt0sHnTyScnKB1noI aCs TR8nl9JHTguYaIDMrnU2IjQNPSJWNnJ9IUWW2exLiFjnRkxZJfzwI6WvTTa58KDHxNjf3qpep9JpTY8h 2DxZHURNHs8yhIJGlh70hSFr2ZE47PfUpLhScEQf9qccReQwMEIvUsAWGsxjjQMle45f9XwK9Sue9zXwG4zXD89ovDS0XnJ2EOsHxuQkyTelT4VLGSyyESFwCA KB4Hk2gPI4dxgGIg4KDH3W4NqlxVUuUauY7g==
-
-Direct Watch: https://netflix.com/?nftoken=BgiQvuvcAxLDAeykbo9BHXHTNhq3iGAM7IZgBt0sHnTyScnKB1noI+aCs+TR8nl9JHTguYaIDMrnU2IjQNPSJWNnJ9IUWW2exLiFjnRkxZJfzwI6WvTTa58KDHxNjf3qpep9JpTY8h+2DxZHURNHs8yhIJGlh70hSFr2ZE47PfUpLhScEQf9qccReQwMEIvUsAWGsxjjQMle45f9XwK9Sue9zXwG4zXD89ovDS0XnJ2EOsHxuQkyTelT4VLGSyyESFwCA+KB4Hk2gPI4dxgGIg4KDH3W4NqlxVUuUauY7g==
-
-Mobile Watch: To use mobile apps you need to copy the Direct Watch link and paste it to your mobile Chrome browser and enter. After you enter and open the account in the browser, change the link to https://netflix.com/unsupported. It will suggest to open the app; click that and it will direct you to the mobile app smoothly.
-
-TV Watch: https://netflix.com/tv2?nftoken=BgiQvuvcAxLDAeykbo9BHXHTNhq3iGAM7IZgBt0sHnTyScnKB1noI+aCs+TR8nl9JHTguYaIDMrnU2IjQNPSJWNnJ9IUWW2exLiFjnRkxZJfzwI6WvTTa58KDHxNjf3qpep9JpTY8h+2DxZHURNHs8yhIJGlh70hSFr2ZE47PfUpLhScEQf9qccReQwMEIvUsAWGsxjjQMle45f9XwK9Sue9zXwG4zXD89ovDS0XnJ2EOsHxuQkyTelT4VLGSyyESFwCA+KB4Hk2gPI4dxgGIg4KDH3W4NqlxVUuUauY7g==
-
-========================================
-       ORIGINAL DATA 
-========================================
-
-Email: ikooo
 Profiles: ikooo, Eminerdal, KESHAV, 5, reys
 Country: TR
 Since: Desember 2020
@@ -53,8 +36,5 @@ t.me/ULPfile
 .netflix.com	TRUE	/	TRUE	1807535043	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABR63sjrsZE0Ejwi-FsrC7n2VSzvxCgOW1k.%26dt%3D1775999043066
 .netflix.com	TRUE	/	TRUE	1790798572	gsid	dd030583-7e52-4488-9dfc-3b4e36fd3887
 .netflix.com	TRUE	/	FALSE	1790798572	profilesNewSession	0
---------------------------------------------------
-
-
 --------------------------------------------------
 

@@ -3,23 +3,6 @@ Profiles: jrrodas890, Le Bron James, DaddyBigJ, Kids
 Country: US
 Since: July 2026
 
-Token: BgiQvuvcAxLDAcqiZYzPPiuKdmM55kJt/i5ePSKPO3KbSnrvMgun6JSyIQ5VhMRfkmorzYu8OCjV6uFG42LUz2UD 4ZjejgmW0cHSEhpNxgAX9rh3Co0xZSzd2HWmFfjd3Jv/Bd2IHC E2QytAcTcM9WiMS Sca32Wq6tPdzZ9VuoxGdE48IF20O5L/eYeDlxn8rp gu72vS3ALOkI VQqaT0qLI 7Uv228WzKzd5d2QnbCC4cskZNcV7h20Y56Mo8Gt5IHaJAt45jBkFxgGIg4KDGZH 8i2jBPYxODZOw==
-
-Direct Watch: https://netflix.com/?nftoken=BgiQvuvcAxLDAcqiZYzPPiuKdmM55kJt/i5ePSKPO3KbSnrvMgun6JSyIQ5VhMRfkmorzYu8OCjV6uFG42LUz2UD+4ZjejgmW0cHSEhpNxgAX9rh3Co0xZSzd2HWmFfjd3Jv/Bd2IHC+E2QytAcTcM9WiMS+Sca32Wq6tPdzZ9VuoxGdE48IF20O5L/eYeDlxn8rp+gu72vS3ALOkI+VQqaT0qLI+7Uv228WzKzd5d2QnbCC4cskZNcV7h20Y56Mo8Gt5IHaJAt45jBkFxgGIg4KDGZH+8i2jBPYxODZOw==
-
-Mobile Watch: To use mobile apps you need to copy the Direct Watch link and paste it to your mobile Chrome browser and enter. After you enter and open the account in the browser, change the link to https://netflix.com/unsupported. It will suggest to open the app; click that and it will direct you to the mobile app smoothly.
-
-TV Watch: https://netflix.com/tv2?nftoken=BgiQvuvcAxLDAcqiZYzPPiuKdmM55kJt/i5ePSKPO3KbSnrvMgun6JSyIQ5VhMRfkmorzYu8OCjV6uFG42LUz2UD+4ZjejgmW0cHSEhpNxgAX9rh3Co0xZSzd2HWmFfjd3Jv/Bd2IHC+E2QytAcTcM9WiMS+Sca32Wq6tPdzZ9VuoxGdE48IF20O5L/eYeDlxn8rp+gu72vS3ALOkI+VQqaT0qLI+7Uv228WzKzd5d2QnbCC4cskZNcV7h20Y56Mo8Gt5IHaJAt45jBkFxgGIg4KDGZH+8i2jBPYxODZOw==
-
-========================================
-       ORIGINAL DATA 
-========================================
-
-Email: jrrodas890
-Profiles: jrrodas890, Le Bron James, DaddyBigJ, Kids
-Country: US
-Since: July 2026
-
 Token: BgiQvuvcAxLDAdnLIl6mzkBuCWfl4s7 S2f/x/lyDY6gL2CrYT9Y/4pKGdvjGWr8uhDsfjMMF4orndCyB3gVIRqUWzZzWLCo3WiRkBrCDGrH0ScUqk5tjbSYLuIHhYWqe6CSUJSBVvbdVsQr a3KvtAA0syK0abdWcuKLHDoPv49nHppeVEFBNCHFumm2oWwT5GbCRjllVSyEiiXeWdalnUd3J04cFL9nXwMocz9yNu oyTi46Ei7aSD8WVZLjEw0d4nOZPPlXV6cELtHBgGIg4KDHWk/6J1bK9e5PxVwg==
 
 Direct Watch: https://netflix.com/?nftoken=BgiQvuvcAxLDAdnLIl6mzkBuCWfl4s7+S2f/x/lyDY6gL2CrYT9Y/4pKGdvjGWr8uhDsfjMMF4orndCyB3gVIRqUWzZzWLCo3WiRkBrCDGrH0ScUqk5tjbSYLuIHhYWqe6CSUJSBVvbdVsQr+a3KvtAA0syK0abdWcuKLHDoPv49nHppeVEFBNCHFumm2oWwT5GbCRjllVSyEiiXeWdalnUd3J04cFL9nXwMocz9yNu+oyTi46Ei7aSD8WVZLjEw0d4nOZPPlXV6cELtHBgGIg4KDHWk/6J1bK9e5PxVwg==
@@ -52,8 +35,5 @@ t.me/ULPfile
 .netflix.com	TRUE	/	FALSE	1793468382	netflix-sans-bold-3-loaded	true
 .netflix.com	TRUE	/	FALSE	1793468382	netflix-sans-normal-3-loaded	true
 .netflix.com	TRUE	/	FALSE	1793468382	pas	%7B%22supplementals%22%3A%7B%22muted%22%3Afalse%7D%7D
---------------------------------------------------
-
-
 --------------------------------------------------
 

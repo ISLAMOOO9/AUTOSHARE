@@ -3,23 +3,6 @@ Profiles: Hasan, Melih, Adem, H&uuml;seyin, &Ccedil;ocuk
 Country: TR
 Since: Ağustos 2025
 
-Token: BgiQvuvcAxLCAfygdSpCJ4M hJwKVjotgCOjDMlPxQEuuX0KqIzmXaSAf/kz4zZodfL1r13bGXPjEX7HDcQA5eCTAxAF1Xq8MBbfQYHarbBu5KDhdqVDZvSAu d4wrCZ4Q874XzoXMAD9HetugOVFgJIGe8 pmoMfoUrAsqelH0BEE1UWlegYyVG83vc1z7WwDf1NQkep9aRVV0kPyPqnovfWFlA3zrESbcZHe5TvbMoxX/FwjNdAy56WFIzrO6g2ORSYmvaCiTOAQjZGAYiDgoM1xfnIQ5MR V3yRVA
-
-Direct Watch: https://netflix.com/?nftoken=BgiQvuvcAxLCAfygdSpCJ4M+hJwKVjotgCOjDMlPxQEuuX0KqIzmXaSAf/kz4zZodfL1r13bGXPjEX7HDcQA5eCTAxAF1Xq8MBbfQYHarbBu5KDhdqVDZvSAu+d4wrCZ4Q874XzoXMAD9HetugOVFgJIGe8+pmoMfoUrAsqelH0BEE1UWlegYyVG83vc1z7WwDf1NQkep9aRVV0kPyPqnovfWFlA3zrESbcZHe5TvbMoxX/FwjNdAy56WFIzrO6g2ORSYmvaCiTOAQjZGAYiDgoM1xfnIQ5MR+V3yRVA
-
-Mobile Watch: To use mobile apps you need to copy the Direct Watch link and paste it to your mobile Chrome browser and enter. After you enter and open the account in the browser, change the link to https://netflix.com/unsupported. It will suggest to open the app; click that and it will direct you to the mobile app smoothly.
-
-TV Watch: https://netflix.com/tv2?nftoken=BgiQvuvcAxLCAfygdSpCJ4M+hJwKVjotgCOjDMlPxQEuuX0KqIzmXaSAf/kz4zZodfL1r13bGXPjEX7HDcQA5eCTAxAF1Xq8MBbfQYHarbBu5KDhdqVDZvSAu+d4wrCZ4Q874XzoXMAD9HetugOVFgJIGe8+pmoMfoUrAsqelH0BEE1UWlegYyVG83vc1z7WwDf1NQkep9aRVV0kPyPqnovfWFlA3zrESbcZHe5TvbMoxX/FwjNdAy56WFIzrO6g2ORSYmvaCiTOAQjZGAYiDgoM1xfnIQ5MR+V3yRVA
-
-========================================
-       ORIGINAL DATA 
-========================================
-
-Email: Hasan
-Profiles: Hasan, Melih, Adem, H&uuml;seyin, &Ccedil;ocuk
-Country: TR
-Since: Ağustos 2025
-
 Token: BgiQvuvcAxLCAQgJdrP 7LQKNpwUrleqj5IzjYjLJCc8zj8vW5cUjiiy3EE4tppGMsppgcJFrJr1qYJnUyEfZLgOzmf/WJt9ZUOwxYnOsnRPHPbYA8JHQZsc0AU6n/8zHvekR0879eSfRgKdmpBhthpMizmqA9J2FZNsan9RsibK/9w3ByObkNphwm ddjjWg0ildr4/I8Awf0rTeRAVbAfCQP6fwMjwmZke3FhUoUAbLwbFwIMtZFNhuv1oWpDafbgmq8TBH6LDIoZzGAYiDgoMVBr/l5/6FF5solc 
 
 Direct Watch: https://netflix.com/?nftoken=BgiQvuvcAxLCAQgJdrP+7LQKNpwUrleqj5IzjYjLJCc8zj8vW5cUjiiy3EE4tppGMsppgcJFrJr1qYJnUyEfZLgOzmf/WJt9ZUOwxYnOsnRPHPbYA8JHQZsc0AU6n/8zHvekR0879eSfRgKdmpBhthpMizmqA9J2FZNsan9RsibK/9w3ByObkNphwm+ddjjWg0ildr4/I8Awf0rTeRAVbAfCQP6fwMjwmZke3FhUoUAbLwbFwIMtZFNhuv1oWpDafbgmq8TBH6LDIoZzGAYiDgoMVBr/l5/6FF5solc+
@@ -54,8 +37,5 @@ t.me/ULPfile
 .netflix.com	TRUE	/	FALSE	1789382219	netflix-sans-normal-3-loaded	true
 .netflix.com	TRUE	/	FALSE	1813142219	OptanonConsent	isGpcEnabled=0&datestamp=Tue+Jun+16+2026+13%3A36%3A59+GMT%2B0300+(T%C3%BCrkiye+Standart+Saati)&version=202604.2.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=1c56406d-b0c4-4dc2-89aa-77b665ecf34d&interactionCount=2&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A0%2CC0004%3A0&AwaitingReconsent=false&intType=3&geolocation=TR%3B42&isDntEnabled=0&prevHadToken=0
 .netflix.com	TRUE	/	FALSE	1790798572	profilesNewSession	0
---------------------------------------------------
-
-
 --------------------------------------------------
 
