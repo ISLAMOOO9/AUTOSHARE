@@ -3,23 +3,6 @@ Profiles: Wandile Nsibande, Bongiwe Nsibande, Wiseman Nsibande, LM, Kids
 Country: ZA
 Since: June 2025
 
-Token: BgiQvuvcAxLCAam0FhJYxcZByEQ3irq7AzRZ6WomH0uC84EHqZpVEjklyW1htXeXd0MVsytcwwcqm6tm8mBzQ8b PZm E1T4wBWl8lw0xyXjPK4JBs/b7O1RxmGx8G/ibqvky4hywVnkP3v7gYaJu7NV8j9FCdWqhnUPFFd2VWdTwVYgT6f83oz/JghLBq 9yDxkakMiqLj5O1 qlzMLAwW9MnPdUOTff0PHllwFAv/A8GNIZzvAqqoieNOIRi ihx8h9OqKlbOy/swSGAYiDgoMeBjrx1a4XZvCgEE3
-
-Direct Watch: https://netflix.com/?nftoken=BgiQvuvcAxLCAam0FhJYxcZByEQ3irq7AzRZ6WomH0uC84EHqZpVEjklyW1htXeXd0MVsytcwwcqm6tm8mBzQ8b+PZm+E1T4wBWl8lw0xyXjPK4JBs/b7O1RxmGx8G/ibqvky4hywVnkP3v7gYaJu7NV8j9FCdWqhnUPFFd2VWdTwVYgT6f83oz/JghLBq+9yDxkakMiqLj5O1+qlzMLAwW9MnPdUOTff0PHllwFAv/A8GNIZzvAqqoieNOIRi+ihx8h9OqKlbOy/swSGAYiDgoMeBjrx1a4XZvCgEE3
-
-Mobile Watch: To use mobile apps you need to copy the Direct Watch link and paste it to your mobile Chrome browser and enter. After you enter and open the account in the browser, change the link to https://netflix.com/unsupported. It will suggest to open the app; click that and it will direct you to the mobile app smoothly.
-
-TV Watch: https://netflix.com/tv2?nftoken=BgiQvuvcAxLCAam0FhJYxcZByEQ3irq7AzRZ6WomH0uC84EHqZpVEjklyW1htXeXd0MVsytcwwcqm6tm8mBzQ8b+PZm+E1T4wBWl8lw0xyXjPK4JBs/b7O1RxmGx8G/ibqvky4hywVnkP3v7gYaJu7NV8j9FCdWqhnUPFFd2VWdTwVYgT6f83oz/JghLBq+9yDxkakMiqLj5O1+qlzMLAwW9MnPdUOTff0PHllwFAv/A8GNIZzvAqqoieNOIRi+ihx8h9OqKlbOy/swSGAYiDgoMeBjrx1a4XZvCgEE3
-
-========================================
-       ORIGINAL DATA 
-========================================
-
-Email: Wandile Nsibande
-Profiles: Wandile Nsibande, Bongiwe Nsibande, Wiseman Nsibande, LM, Kids
-Country: ZA
-Since: June 2025
-
 Token: BgiQvuvcAxLCATnosHurwNET6Q5hjxFrOTIQqOZm2B3GlB3pgt3fXV5Rhi3Pbu67cEd0 Rf0P66G1xmYbNIm3B9BXhV41t47yoC9k04PxrEaLP3expl1UI/1lb8ktT2Jfw 9K2dCf7DsT U8gBfC90VWADar4xLrjRZoKHpMymE48t38K7ibCZ7eHQE6tbYzcU1ND3ESFYHXmH2e/K0EI2WFA1 OEAMNFBMPQs5VfOQjJpDg47Vsbau5Ac1UW mPqlQUbQ5ea1a0a7FlGAYiDgoMhr1RWSv9iW8Nmg3h
 
 Direct Watch: https://netflix.com/?nftoken=BgiQvuvcAxLCATnosHurwNET6Q5hjxFrOTIQqOZm2B3GlB3pgt3fXV5Rhi3Pbu67cEd0+Rf0P66G1xmYbNIm3B9BXhV41t47yoC9k04PxrEaLP3expl1UI/1lb8ktT2Jfw+9K2dCf7DsT+U8gBfC90VWADar4xLrjRZoKHpMymE48t38K7ibCZ7eHQE6tbYzcU1ND3ESFYHXmH2e/K0EI2WFA1+OEAMNFBMPQs5VfOQjJpDg47Vsbau5Ac1UW+mPqlQUbQ5ea1a0a7FlGAYiDgoMhr1RWSv9iW8Nmg3h
@@ -55,8 +38,5 @@ t.me/ULPfile
 .netflix.com	TRUE	/	FALSE	1814280408	nfvdid	BQFmAAEBEEoubETUIHwol8Qt3kyVGYZgsJUjRGQ5mH5ywNijlnLdyD8FxO3mjGcWVlBcSwCPNZ6VJERl-6SpASqL3xoNwIY3NhSmkAoIyerUfWWRU7lGd28cyIk3bYK_CMKJMJfHmCVcRsfDtOVx8R3c3EEpvaPq
 .netflix.com	TRUE	/	FALSE	1790520435	pas	%7B%22supplementals%22%3A%7B%22muted%22%3Atrue%7D%7D
 .netflix.com	TRUE	/	FALSE	1790798572	profilesNewSession	0
---------------------------------------------------
-
-
 --------------------------------------------------
 

@@ -3,23 +3,6 @@ Profiles: Coreaje Family, KUBA, PLAYSTATION 4, PAULINA, Igor
 Country: PL
 Since: październik 2019
 
-Token: BgiQvuvcAxLCASCQZbtiUFQfgT5lKmx/C41h0Y7901OKVFubzRRtvkTrp8jO68QVv1HUJ0vsT2ITp3ZXqJhWT2QZvhdVV5S9TBD6xgdR92wsqDfr0 N4c/j3Mq7v0R47NDNyu1zY7H09o2j6bQMGxkS0GQCBKZp7W2 9s9lT4kCX41o1iP68NoThnsIN1wtQprO4EjiDxYYaCFVbf zkdSKr/1D8H3 hEYNeYb/BjetOYHDgBQNUajxJVfRyUPoT MlfLtpr7aTSJHK4GAYiDgoMVizubxKbenN0NKvY
-
-Direct Watch: https://netflix.com/?nftoken=BgiQvuvcAxLCASCQZbtiUFQfgT5lKmx/C41h0Y7901OKVFubzRRtvkTrp8jO68QVv1HUJ0vsT2ITp3ZXqJhWT2QZvhdVV5S9TBD6xgdR92wsqDfr0+N4c/j3Mq7v0R47NDNyu1zY7H09o2j6bQMGxkS0GQCBKZp7W2+9s9lT4kCX41o1iP68NoThnsIN1wtQprO4EjiDxYYaCFVbf+zkdSKr/1D8H3+hEYNeYb/BjetOYHDgBQNUajxJVfRyUPoT+MlfLtpr7aTSJHK4GAYiDgoMVizubxKbenN0NKvY
-
-Mobile Watch: To use mobile apps you need to copy the Direct Watch link and paste it to your mobile Chrome browser and enter. After you enter and open the account in the browser, change the link to https://netflix.com/unsupported. It will suggest to open the app; click that and it will direct you to the mobile app smoothly.
-
-TV Watch: https://netflix.com/tv2?nftoken=BgiQvuvcAxLCASCQZbtiUFQfgT5lKmx/C41h0Y7901OKVFubzRRtvkTrp8jO68QVv1HUJ0vsT2ITp3ZXqJhWT2QZvhdVV5S9TBD6xgdR92wsqDfr0+N4c/j3Mq7v0R47NDNyu1zY7H09o2j6bQMGxkS0GQCBKZp7W2+9s9lT4kCX41o1iP68NoThnsIN1wtQprO4EjiDxYYaCFVbf+zkdSKr/1D8H3+hEYNeYb/BjetOYHDgBQNUajxJVfRyUPoT+MlfLtpr7aTSJHK4GAYiDgoMVizubxKbenN0NKvY
-
-========================================
-       ORIGINAL DATA 
-========================================
-
-Email: Coreaje Family
-Profiles: Coreaje Family, KUBA, PLAYSTATION 4, PAULINA, Igor
-Country: PL
-Since: październik 2019
-
 Token: BgiQvuvcAxLCAXXdgPOtutPPuECoL CzgqmYHdRqEf4FSpZpDIYFjYo8OwWTRdPNGGaG53f1pxH5111B0SvXF1vxIYOjUmnAeqsi7wqhOW83XE1SvT8XX214JShViSCtscHz1GnLTmUEVhfb1KgGnO3UmvTYKn Mn1os55ydLwDlrpIGznF3n4KkbWhWbwFiDlaQwvjmeO7YAwUUYGM3uLautWOcKnPEanmVN bNEumzYW4SnQHkrjkd2nJQy9mKeA0O1 VXLVIcJYfaGAYiDgoMiTivgthoDQw0PINt
 
 Direct Watch: https://netflix.com/?nftoken=BgiQvuvcAxLCAXXdgPOtutPPuECoL+CzgqmYHdRqEf4FSpZpDIYFjYo8OwWTRdPNGGaG53f1pxH5111B0SvXF1vxIYOjUmnAeqsi7wqhOW83XE1SvT8XX214JShViSCtscHz1GnLTmUEVhfb1KgGnO3UmvTYKn+Mn1os55ydLwDlrpIGznF3n4KkbWhWbwFiDlaQwvjmeO7YAwUUYGM3uLautWOcKnPEanmVN+bNEumzYW4SnQHkrjkd2nJQy9mKeA0O1+VXLVIcJYfaGAYiDgoMiTivgthoDQw0PINt
@@ -54,8 +37,5 @@ t.me/ULPfile
 .netflix.com	TRUE	/	FALSE	1791133317	netflix-sans-bold-3-loaded	true
 .netflix.com	TRUE	/	FALSE	1791133317	netflix-sans-normal-3-loaded	true
 .netflix.com	TRUE	/	FALSE	1791133317	pas	%7B%22supplementals%22%3A%7B%22muted%22%3Afalse%7D%7D
---------------------------------------------------
-
-
 --------------------------------------------------
 

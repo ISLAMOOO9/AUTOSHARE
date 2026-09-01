@@ -3,23 +3,6 @@ Profiles: Diz, Anafrank, Mar&iacute;a, Georgina
 Country: VE
 Since: noviembre de 2025
 
-Token: BgiQvuvcAxLCAeYgLmpSpFCHNI9yI0Mze8QZ1pE88 952DicAC4DifgSfpsW04QM96z4Zv9/opkmXIlCnwAXajYyV4PCvQ3k3bCT gy1HidCy9x2zaOk8Neb9hH6OBzeLx/dlkIk0bJ4ju5A17tgag7sicIouz1DW0663nmCwCdzPKhpMpfJJCwcP2EQ2 YDKOf/ytbiKwT8j0JtdfrPsKFaaPPE691M7lwZVoriupqwOXgOAiA5njpaUGTckIE5viEqyjs lmsdGQmFGAYiDgoMG9juNiSgtQYn4WNG
-
-Direct Watch: https://netflix.com/?nftoken=BgiQvuvcAxLCAeYgLmpSpFCHNI9yI0Mze8QZ1pE88+952DicAC4DifgSfpsW04QM96z4Zv9/opkmXIlCnwAXajYyV4PCvQ3k3bCT+gy1HidCy9x2zaOk8Neb9hH6OBzeLx/dlkIk0bJ4ju5A17tgag7sicIouz1DW0663nmCwCdzPKhpMpfJJCwcP2EQ2+YDKOf/ytbiKwT8j0JtdfrPsKFaaPPE691M7lwZVoriupqwOXgOAiA5njpaUGTckIE5viEqyjs+lmsdGQmFGAYiDgoMG9juNiSgtQYn4WNG
-
-Mobile Watch: To use mobile apps you need to copy the Direct Watch link and paste it to your mobile Chrome browser and enter. After you enter and open the account in the browser, change the link to https://netflix.com/unsupported. It will suggest to open the app; click that and it will direct you to the mobile app smoothly.
-
-TV Watch: https://netflix.com/tv2?nftoken=BgiQvuvcAxLCAeYgLmpSpFCHNI9yI0Mze8QZ1pE88+952DicAC4DifgSfpsW04QM96z4Zv9/opkmXIlCnwAXajYyV4PCvQ3k3bCT+gy1HidCy9x2zaOk8Neb9hH6OBzeLx/dlkIk0bJ4ju5A17tgag7sicIouz1DW0663nmCwCdzPKhpMpfJJCwcP2EQ2+YDKOf/ytbiKwT8j0JtdfrPsKFaaPPE691M7lwZVoriupqwOXgOAiA5njpaUGTckIE5viEqyjs+lmsdGQmFGAYiDgoMG9juNiSgtQYn4WNG
-
-========================================
-       ORIGINAL DATA 
-========================================
-
-Email: Diz
-Profiles: Diz, Anafrank, Mar&iacute;a, Georgina
-Country: VE
-Since: noviembre de 2025
-
 Token: BgiQvuvcAxLCAbOe03a7JS4ppZtKGuzNfnmku4 1o3Dg29QPKU7wYDoVTuNzf8Q98JSjBsDnxyZzeTR1VCKdQmhMaoGu4nF7Nv2NcBltyLrRtFQiY5zVzRIC2bBTk3rntrgdHuKUq7oNuhkQvs pDFNkQjWilSG1p7hf05ysC/8E5XVk6FVyEaEPMQeKPF50c4b y7FAvC0MRZXRuljOMB/gkPSLVb5XhyhUES69d 1eCVeWi7RqGUUee4PI6N JKcOWWw3BBfcBgpyFGAYiDgoMAveVeHpUIOC7D8kw
 
 Direct Watch: https://netflix.com/?nftoken=BgiQvuvcAxLCAbOe03a7JS4ppZtKGuzNfnmku4+1o3Dg29QPKU7wYDoVTuNzf8Q98JSjBsDnxyZzeTR1VCKdQmhMaoGu4nF7Nv2NcBltyLrRtFQiY5zVzRIC2bBTk3rntrgdHuKUq7oNuhkQvs+pDFNkQjWilSG1p7hf05ysC/8E5XVk6FVyEaEPMQeKPF50c4b+y7FAvC0MRZXRuljOMB/gkPSLVb5XhyhUES69d+1eCVeWi7RqGUUee4PI6N+JKcOWWw3BBfcBgpyFGAYiDgoMAveVeHpUIOC7D8kw
@@ -55,8 +38,5 @@ t.me/ULPfile
 .netflix.com	TRUE	/	FALSE	1791336628	netflix-sans-normal-3-loaded	true
 .netflix.com	TRUE	/	FALSE	1791336628	pas	%7B%22supplementals%22%3A%7B%22muted%22%3Afalse%7D%7D
 .netflix.com	TRUE	/	FALSE	1790798572	profilesNewSession	0
---------------------------------------------------
-
-
 --------------------------------------------------
 

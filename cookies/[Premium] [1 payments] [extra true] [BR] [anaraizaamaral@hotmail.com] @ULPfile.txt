@@ -3,23 +3,6 @@ Profiles: Ana Laura, Ana clara, Ana raiza, Lorens|3_04, Enrico
 Country: BR
 Since: fevereiro de 2024
 
-Token: BgiQvuvcAxLCAQBsvcEvAilIeHwAHh O4RYA/CyL1CmHSnfeAKnaQbabbGD0ZzfESCdArIdcgXDTeh1Lp56mk0YK6YBZWEAIqg4UachxDnc O6Zsg7RVc//fO3jP3QuDNwJgMtzS4NUDHi1WnvK3T2sIwG B4FsqvwoExaxpQvIa7j4nw3iVFXSeceWUQfHOw/hkXdmXksyuDjzlKmd55pAZUX6trq44N64CePdaq6PY2Ik34pPLFQtx3mV8qZaDTmn49DBFHTe3rorBGAYiDgoMGS6bHBbW5mi5WuMg
-
-Direct Watch: https://netflix.com/?nftoken=BgiQvuvcAxLCAQBsvcEvAilIeHwAHh+O4RYA/CyL1CmHSnfeAKnaQbabbGD0ZzfESCdArIdcgXDTeh1Lp56mk0YK6YBZWEAIqg4UachxDnc+O6Zsg7RVc//fO3jP3QuDNwJgMtzS4NUDHi1WnvK3T2sIwG+B4FsqvwoExaxpQvIa7j4nw3iVFXSeceWUQfHOw/hkXdmXksyuDjzlKmd55pAZUX6trq44N64CePdaq6PY2Ik34pPLFQtx3mV8qZaDTmn49DBFHTe3rorBGAYiDgoMGS6bHBbW5mi5WuMg
-
-Mobile Watch: To use mobile apps you need to copy the Direct Watch link and paste it to your mobile Chrome browser and enter. After you enter and open the account in the browser, change the link to https://netflix.com/unsupported. It will suggest to open the app; click that and it will direct you to the mobile app smoothly.
-
-TV Watch: https://netflix.com/tv2?nftoken=BgiQvuvcAxLCAQBsvcEvAilIeHwAHh+O4RYA/CyL1CmHSnfeAKnaQbabbGD0ZzfESCdArIdcgXDTeh1Lp56mk0YK6YBZWEAIqg4UachxDnc+O6Zsg7RVc//fO3jP3QuDNwJgMtzS4NUDHi1WnvK3T2sIwG+B4FsqvwoExaxpQvIa7j4nw3iVFXSeceWUQfHOw/hkXdmXksyuDjzlKmd55pAZUX6trq44N64CePdaq6PY2Ik34pPLFQtx3mV8qZaDTmn49DBFHTe3rorBGAYiDgoMGS6bHBbW5mi5WuMg
-
-========================================
-       ORIGINAL DATA 
-========================================
-
-Email: Ana Laura
-Profiles: Ana Laura, Ana clara, Ana raiza, Lorens|3_04, Enrico
-Country: BR
-Since: fevereiro de 2024
-
 Token: BgiQvuvcAxLCAWfu5wre1JDX/Z4FjcjLgE038Pdk/VBtP9cqTVl6b tKYwn05rn wHmmXRyKQr6dBQvdwiwXenhSylNVAzsXXlrwVY1pDCE/5iVG6xJBA9ccTsgtzRHln6ZLjc6j2q lSwsmkb4hnbnJwQgNxDCeo CB45d64thK4DmVkqV7MTwu0qpCtz4tf P8Y86LsbYcB0IN/qA44mH6yNJ2wZ8/TOHwVaa6we5HSKCSdhqkZepgNlatONQonaoTSjLlIvoxrvARGAYiDgoM/x3RlHav x9m6ZBS
 
 Direct Watch: https://netflix.com/?nftoken=BgiQvuvcAxLCAWfu5wre1JDX/Z4FjcjLgE038Pdk/VBtP9cqTVl6b+tKYwn05rn+wHmmXRyKQr6dBQvdwiwXenhSylNVAzsXXlrwVY1pDCE/5iVG6xJBA9ccTsgtzRHln6ZLjc6j2q+lSwsmkb4hnbnJwQgNxDCeo+CB45d64thK4DmVkqV7MTwu0qpCtz4tf+P8Y86LsbYcB0IN/qA44mH6yNJ2wZ8/TOHwVaa6we5HSKCSdhqkZepgNlatONQonaoTSjLlIvoxrvARGAYiDgoM/x3RlHav+x9m6ZBS
@@ -54,8 +37,5 @@ t.me/ULPfile
 .netflix.com	TRUE	/	TRUE	1814143176	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABTsEQRmDrgK6WXN8HOUl-w9AAjmQHFKO1g.%26dt%3D1783439310948
 .netflix.com	TRUE	/	FALSE	1814143176	nfvdid	BQFmAAEBEMHZegzTwQn7veWjNXFWY8hgWRmo1BaC9xrf9zoG9KmDnenwQ4yrB7v_cjkbmUrZiSkBAys6H9LwelM_vB3wPhKgTYuPPWlUWFVaAy7CC9xv3SoWF09H5z0j0dsb_1BW_gjWjEC43bMU_eCzTC3OPlQU
 .netflix.com	TRUE	/	FALSE	1814143193	OptanonConsent	isGpcEnabled=0&datestamp=Sat+Jun+27+2026+21%3A39%3A53+GMT-0300+(Hor%C3%A1rio+Padr%C3%A3o+de+Bras%C3%ADlia)&version=202604.2.0&browserGpcFlag=0&isDntEnabled=0&isIABGlobal=false&hosts=&consentId=de00e15b-2e6f-4d98-9b0a-e6babc6bd90a&interactionCount=2&isAnonUser=1&prevHadToken=0&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&crTime=1777903417014&AwaitingReconsent=false&intType=3&geolocation=BR%3BSP
---------------------------------------------------
-
-
 --------------------------------------------------
 

@@ -3,23 +3,6 @@ Profiles: MARIELA, BELEN, PABLO
 Country: UY
 Since: enero de 2014
 
-Token: BgiQvuvcAxLCAT6WGmgTKHLmKAy4bisPZpSbt374eOsaDM86/ehGQVUMRU/hsJ0yfDn4JUi9Vq3 0QU4WeBBMNf5puN3KOr42vJnaADhgkioNYERQ0lJCt0CtcbLmbiDEoMqbpWz/mmILL8QEY4rTK81 jbxRc7VMdtc0 FH1VPSSUpVU82WcLy0iixtkDD8bg7DF5IwQ 6unKtnD4KoHM77L ZCK0ZCj5Od/zKwQhR5X4vpMNIScH68u kylOnRkdDlHvZ9zE9F6r/hGAYiDgoMFS6/5Wh7JDfDzSIA
-
-Direct Watch: https://netflix.com/?nftoken=BgiQvuvcAxLCAT6WGmgTKHLmKAy4bisPZpSbt374eOsaDM86/ehGQVUMRU/hsJ0yfDn4JUi9Vq3+0QU4WeBBMNf5puN3KOr42vJnaADhgkioNYERQ0lJCt0CtcbLmbiDEoMqbpWz/mmILL8QEY4rTK81+jbxRc7VMdtc0+FH1VPSSUpVU82WcLy0iixtkDD8bg7DF5IwQ+6unKtnD4KoHM77L+ZCK0ZCj5Od/zKwQhR5X4vpMNIScH68u+kylOnRkdDlHvZ9zE9F6r/hGAYiDgoMFS6/5Wh7JDfDzSIA
-
-Mobile Watch: To use mobile apps you need to copy the Direct Watch link and paste it to your mobile Chrome browser and enter. After you enter and open the account in the browser, change the link to https://netflix.com/unsupported. It will suggest to open the app; click that and it will direct you to the mobile app smoothly.
-
-TV Watch: https://netflix.com/tv2?nftoken=BgiQvuvcAxLCAT6WGmgTKHLmKAy4bisPZpSbt374eOsaDM86/ehGQVUMRU/hsJ0yfDn4JUi9Vq3+0QU4WeBBMNf5puN3KOr42vJnaADhgkioNYERQ0lJCt0CtcbLmbiDEoMqbpWz/mmILL8QEY4rTK81+jbxRc7VMdtc0+FH1VPSSUpVU82WcLy0iixtkDD8bg7DF5IwQ+6unKtnD4KoHM77L+ZCK0ZCj5Od/zKwQhR5X4vpMNIScH68u+kylOnRkdDlHvZ9zE9F6r/hGAYiDgoMFS6/5Wh7JDfDzSIA
-
-========================================
-       ORIGINAL DATA 
-========================================
-
-Email: MARIELA
-Profiles: MARIELA, BELEN, PABLO
-Country: UY
-Since: enero de 2014
-
 Token: BgiQvuvcAxLCAdkVUEHPzeZmHDMr2NqVPF c0cklUjNC YEOHi6Z4JLaO7CnJnb9YOqwWTs/7Wa qlxNSmKweMUqIxSE2ktED1RotTQvGkU5ag7kkz4GOwSI2ioXK395mNpikM1w6K7/AmnInXmVo/MWaxDYHOeLADi /iB0lJbfH  gqrFywiT0e87293Tilwf/BEZGBAycWE1GMNVwGDgJCzgChAX8zU l4gKnPrVvX3rm2EqUAxsyNTiGmipQG7QwVwi4ASK0 gIqGAYiDgoMGPAC b11ESgpG0oj
 
 Direct Watch: https://netflix.com/?nftoken=BgiQvuvcAxLCAdkVUEHPzeZmHDMr2NqVPF+c0cklUjNC+YEOHi6Z4JLaO7CnJnb9YOqwWTs/7Wa+qlxNSmKweMUqIxSE2ktED1RotTQvGkU5ag7kkz4GOwSI2ioXK395mNpikM1w6K7/AmnInXmVo/MWaxDYHOeLADi+/iB0lJbfH++gqrFywiT0e87293Tilwf/BEZGBAycWE1GMNVwGDgJCzgChAX8zU+l4gKnPrVvX3rm2EqUAxsyNTiGmipQG7QwVwi4ASK0+gIqGAYiDgoMGPAC+b11ESgpG0oj
@@ -53,8 +36,5 @@ t.me/ULPfile
 .netflix.com	TRUE	/	TRUE	1814876362	NetflixId	ct%3DBgjHlOvcAxKDBJWbrRoA70Uuv4Wyphw6-jXsLsPfN_VEm1q7Ya_eLHBT610cxyqGrEQOGdk7w3MYFqL6dhy6MLY-RmKuXnx20hH9ET-z7Cwcrf84GBuMF3YdXDg7rCvJr6gIfweGkKP5fU0oUGbll6jrapWpSu08fjPMPEXA-d1TaSXBt7gQ0NEzHPDo4WklwVVo5POlJJRDlxxYWpGNW4pW3l8N7sNmQbN014Sx9eymMEOcqoIa07_ZyxyKkr7ndlxIcuCmNPgEwA1SXcTe99FjjR0Kxo7iYolAlhiHznG_KNlnUKLI2C_tBpe1SyjWKG9QERas3kQ8gpy4EMu73UGdEvOkwKFT9gu200HdMTS8VBulEYu8_78KP8iGcoeAbObhKBiYX46j8oSg9_6R-89vfO8vqqRDg0VjTW8TuihjXKP4zuLJszudOLrvJtpm95fsGcAqLtAY4dITKg96EpQs4EIFs3Vh1UV6ubJunFELmTGP6S0UunuElCbWbMjMMlKIwq6Nn74sdQca78_n3ZxkDOwyMGS-1riqvgStS8oURU5aYWSEfqoS0J3aFxBRIVNUnpfI2MZXA2c3KQL--5JIgOpOZEBU3zLiJXJoN9FWQMBPYOkYUlQEfWFuPuoAfqICctlFsxjErt_MGDybvv-sWMpxg1biYnL9nsH51NNEzAEkRxN2q1c0erH2GAYiDgoMkCjnhYxHx_XBYv2V%26ch%3DAQEAEAABABRHG_nbeT3x8kLiRfZIfv-lacdkv4ccZ7w.%26v%3D3%26pg%3DFORBKCY2LNCTZOIKTPMYAY6NBE
 .netflix.com	TRUE	/	TRUE	1790798572	gsid	ff601e6b-63f1-460f-b922-113d547775b8
 .netflix.com	TRUE	/	FALSE	1814893144	OptanonConsent	isGpcEnabled=0&datestamp=Mon+Jul+06+2026+13%3A59%3A04+GMT-0300+(hora+est%C3%A1ndar+de+Uruguay)&version=202604.2.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=aeb3c3e6-db4e-41ba-8563-4713cb93f8ae&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false&prevHadToken=0&isDntEnabled=0
---------------------------------------------------
-
-
 --------------------------------------------------
 

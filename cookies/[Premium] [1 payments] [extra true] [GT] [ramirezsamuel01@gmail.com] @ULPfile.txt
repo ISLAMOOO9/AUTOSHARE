@@ -3,23 +3,6 @@ Profiles: Samuel, Amy, Salo, jorge, Chepe
 Country: GT
 Since: agosto de 2022
 
-Token: BgiQvuvcAxLCAQDZSXmtn/ J/n8dpCUwr3ezfOtBapo7WKFyXx7Aa6EDJjoZhclffiTVLRYxb52pS6uo/fis0Jorh0CwZmxJDslXlRFRwI34gMN1FPzSTe7K9iPcakF7hzJn9KkF9/NGix44z71uoTnEbbgrro qKY7JIU4oPBOROrngYAgUnhebdwFSuWWlBf9D7t9o0kQP4smkUKwgiJKluYrvJ/knew2wFEoD4FPoCDo1Ika5lHvhSnbA5cLDocki2nJTBVPD3Y7 GAYiDgoMeuA9nlSM5mTkVkU8
-
-Direct Watch: https://netflix.com/?nftoken=BgiQvuvcAxLCAQDZSXmtn/+J/n8dpCUwr3ezfOtBapo7WKFyXx7Aa6EDJjoZhclffiTVLRYxb52pS6uo/fis0Jorh0CwZmxJDslXlRFRwI34gMN1FPzSTe7K9iPcakF7hzJn9KkF9/NGix44z71uoTnEbbgrro+qKY7JIU4oPBOROrngYAgUnhebdwFSuWWlBf9D7t9o0kQP4smkUKwgiJKluYrvJ/knew2wFEoD4FPoCDo1Ika5lHvhSnbA5cLDocki2nJTBVPD3Y7+GAYiDgoMeuA9nlSM5mTkVkU8
-
-Mobile Watch: To use mobile apps you need to copy the Direct Watch link and paste it to your mobile Chrome browser and enter. After you enter and open the account in the browser, change the link to https://netflix.com/unsupported. It will suggest to open the app; click that and it will direct you to the mobile app smoothly.
-
-TV Watch: https://netflix.com/tv2?nftoken=BgiQvuvcAxLCAQDZSXmtn/+J/n8dpCUwr3ezfOtBapo7WKFyXx7Aa6EDJjoZhclffiTVLRYxb52pS6uo/fis0Jorh0CwZmxJDslXlRFRwI34gMN1FPzSTe7K9iPcakF7hzJn9KkF9/NGix44z71uoTnEbbgrro+qKY7JIU4oPBOROrngYAgUnhebdwFSuWWlBf9D7t9o0kQP4smkUKwgiJKluYrvJ/knew2wFEoD4FPoCDo1Ika5lHvhSnbA5cLDocki2nJTBVPD3Y7+GAYiDgoMeuA9nlSM5mTkVkU8
-
-========================================
-       ORIGINAL DATA 
-========================================
-
-Email: Samuel
-Profiles: Samuel, Amy, Salo, jorge, Chepe
-Country: GT
-Since: agosto de 2022
-
 Token: BgiQvuvcAxLCARhzSyhQE94osD4YwpqTDWCvdUlH6Tv4M9MWfM2fYUcqv9pxIodeJ9KL3uZ1glJkpXQW92umQWcmWazeYSPolQJG69iRFeCdPHJi2D89SZuE1Hm/pmnbDar8o4sQL3dBrOSYYVW8L2VqephKaaRTSG5YDA82bFjYm0 waRr6qjb862h3yGoNhU3F2mcKJs0IpCBdmhdFoAwfIsUwHixwfQFoYgy/LCJucxXR/Tgt3iDsXZy8UDvnWAX wiyHFfLKtwOTGAYiDgoMAV6CrRbrAPzLq71z
 
 Direct Watch: https://netflix.com/?nftoken=BgiQvuvcAxLCARhzSyhQE94osD4YwpqTDWCvdUlH6Tv4M9MWfM2fYUcqv9pxIodeJ9KL3uZ1glJkpXQW92umQWcmWazeYSPolQJG69iRFeCdPHJi2D89SZuE1Hm/pmnbDar8o4sQL3dBrOSYYVW8L2VqephKaaRTSG5YDA82bFjYm0+waRr6qjb862h3yGoNhU3F2mcKJs0IpCBdmhdFoAwfIsUwHixwfQFoYgy/LCJucxXR/Tgt3iDsXZy8UDvnWAX+wiyHFfLKtwOTGAYiDgoMAV6CrRbrAPzLq71z
@@ -51,8 +34,5 @@ t.me/ULPfile
 .netflix.com	TRUE	/	TRUE	1790798572	gsid	709585c0-3319-42c7-90ec-fed6ba90f152
 .netflix.com	TRUE	/	FALSE	1815501853	nfvdid	BQFmAAEBEIXkdLtwEvUkLYEHGMoHwwpggmNUGfMzsrv07UySQqiyyG7e3pGglalowq13r4Y2EmKwF8NL0pCXc1xWgfvr1ibfDqIY8FK2Yi4xndmyqon_PGiQ-HSSlXXziwrj9wP9QRDDK9VKiqgZ7J9PM8Rk7mcd
 .netflix.com	TRUE	/	FALSE	1791741859	pas	%7B%22supplementals%22%3A%7B%22muted%22%3Atrue%7D%7D
---------------------------------------------------
-
-
 --------------------------------------------------
 

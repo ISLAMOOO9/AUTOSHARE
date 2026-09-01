@@ -3,23 +3,6 @@ Profiles: C&ocirc; iem t&oacute;c h&#x1B0;&#x1EDD;ng, Petite, PandaToss, Troi oi
 Country: VN
 Since: tháng 5 năm 2024
 
-Token: BgiQvuvcAxLCAdhZzIO7J0b DfHiKwkZJPULAMwIT4gsIKGLSLctF0k0RwAh6bjC4i5IYhDsc2DCrjLU4u97KktoPkhrZj8hAdt33S7SE4PdioK6Sgc//cRztk2vE //C2MF6E15VEropZ13/8yTHFAd6crEbvLDeY9cKMDVldsyyF3XJR49vrgccbLPLGc0DGOaqyBMy5xheiTnlUq4 M5dC2D5yyzTrnG668K 0p5Kj5yPTNkx9BStcB3eirW7uksGdL6gkNVgKVfLGAYiDgoMLalkmbVNZnQHYRXI
-
-Direct Watch: https://netflix.com/?nftoken=BgiQvuvcAxLCAdhZzIO7J0b+DfHiKwkZJPULAMwIT4gsIKGLSLctF0k0RwAh6bjC4i5IYhDsc2DCrjLU4u97KktoPkhrZj8hAdt33S7SE4PdioK6Sgc//cRztk2vE+//C2MF6E15VEropZ13/8yTHFAd6crEbvLDeY9cKMDVldsyyF3XJR49vrgccbLPLGc0DGOaqyBMy5xheiTnlUq4+M5dC2D5yyzTrnG668K+0p5Kj5yPTNkx9BStcB3eirW7uksGdL6gkNVgKVfLGAYiDgoMLalkmbVNZnQHYRXI
-
-Mobile Watch: To use mobile apps you need to copy the Direct Watch link and paste it to your mobile Chrome browser and enter. After you enter and open the account in the browser, change the link to https://netflix.com/unsupported. It will suggest to open the app; click that and it will direct you to the mobile app smoothly.
-
-TV Watch: https://netflix.com/tv2?nftoken=BgiQvuvcAxLCAdhZzIO7J0b+DfHiKwkZJPULAMwIT4gsIKGLSLctF0k0RwAh6bjC4i5IYhDsc2DCrjLU4u97KktoPkhrZj8hAdt33S7SE4PdioK6Sgc//cRztk2vE+//C2MF6E15VEropZ13/8yTHFAd6crEbvLDeY9cKMDVldsyyF3XJR49vrgccbLPLGc0DGOaqyBMy5xheiTnlUq4+M5dC2D5yyzTrnG668K+0p5Kj5yPTNkx9BStcB3eirW7uksGdL6gkNVgKVfLGAYiDgoMLalkmbVNZnQHYRXI
-
-========================================
-       ORIGINAL DATA 
-========================================
-
-Email: Cô iem tóc hường
-Profiles: C&ocirc; iem t&oacute;c h&#x1B0;&#x1EDD;ng, Petite, PandaToss, Troi oiiii tui ne paza, ChauZu
-Country: VN
-Since: tháng 5 năm 2024
-
 Token: BgiQvuvcAxLCAflXcGPjqDbciUdzP3dygfLRQ5qUpzSa9UphG2B9pz L2NEI5/U8qJofQwUe6YySAQElO2Hd8XJrHfHKet8qd/ nvpCx0A73YFfFs7MvimeB6CWbr9sxkwInTZylijiSEI k6fTQq/0H7ef0p/3warSH7tHSgn6oxa3ORvIEWXtqKdHJ/TKmpiR/LaD0EFVT1JCRjOHxyL5oIxThSiqPGFRYmgTKZqHxhIIVtCcciclHTdXd cE AWxsK2kHAZfuCE SGAYiDgoMRX/6HQp/JXCR61dQ
 
 Direct Watch: https://netflix.com/?nftoken=BgiQvuvcAxLCAflXcGPjqDbciUdzP3dygfLRQ5qUpzSa9UphG2B9pz+L2NEI5/U8qJofQwUe6YySAQElO2Hd8XJrHfHKet8qd/+nvpCx0A73YFfFs7MvimeB6CWbr9sxkwInTZylijiSEI+k6fTQq/0H7ef0p/3warSH7tHSgn6oxa3ORvIEWXtqKdHJ/TKmpiR/LaD0EFVT1JCRjOHxyL5oIxThSiqPGFRYmgTKZqHxhIIVtCcciclHTdXd+cE+AWxsK2kHAZfuCE+SGAYiDgoMRX/6HQp/JXCR61dQ
@@ -52,8 +35,5 @@ t.me/ULPfile
 .netflix.com	TRUE	/	TRUE	1790798572	gsid	725e1607-2a13-4a4e-866d-82820f775dd6
 .netflix.com	TRUE	/	FALSE	1790667869	pas	%7B%22supplementals%22%3A%7B%22muted%22%3Afalse%7D%7D
 .netflix.com	TRUE	/	FALSE	1790798572	profilesNewSession	0
---------------------------------------------------
-
-
 --------------------------------------------------
 

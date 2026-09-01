@@ -3,23 +3,6 @@ Profiles: mackychacks15, Macky, Chloe, Mum, Carlton
 Country: ZA
 Since: July 2024
 
-Token: BgiQvuvcAxLCAY06d7sy7x8pacQIlcgswv/sXsFPKCtLLxv 2 yKVjeU/GPffRGWv10SyEX36nPC/yXsjMTmW1TwEro6XSQvPteAR5H LLcXxjdY7JjeRPcSIKCyenc3aFjGZ49utqLH0nRifKo9ZQlP9TTeygRLOwbIvRUH9s4b7timRVTkUAGUDUMgxlXLMM5YRufkGorPyxze5uMjqZGRr8qYFMUcQUUQccGg0mLBJliXIa27UZh4ChZ nkzdjwahhEpxHMwOqo0VGAYiDgoMlforEGsfdgRbhSqG
-
-Direct Watch: https://netflix.com/?nftoken=BgiQvuvcAxLCAY06d7sy7x8pacQIlcgswv/sXsFPKCtLLxv+2+yKVjeU/GPffRGWv10SyEX36nPC/yXsjMTmW1TwEro6XSQvPteAR5H+LLcXxjdY7JjeRPcSIKCyenc3aFjGZ49utqLH0nRifKo9ZQlP9TTeygRLOwbIvRUH9s4b7timRVTkUAGUDUMgxlXLMM5YRufkGorPyxze5uMjqZGRr8qYFMUcQUUQccGg0mLBJliXIa27UZh4ChZ+nkzdjwahhEpxHMwOqo0VGAYiDgoMlforEGsfdgRbhSqG
-
-Mobile Watch: To use mobile apps you need to copy the Direct Watch link and paste it to your mobile Chrome browser and enter. After you enter and open the account in the browser, change the link to https://netflix.com/unsupported. It will suggest to open the app; click that and it will direct you to the mobile app smoothly.
-
-TV Watch: https://netflix.com/tv2?nftoken=BgiQvuvcAxLCAY06d7sy7x8pacQIlcgswv/sXsFPKCtLLxv+2+yKVjeU/GPffRGWv10SyEX36nPC/yXsjMTmW1TwEro6XSQvPteAR5H+LLcXxjdY7JjeRPcSIKCyenc3aFjGZ49utqLH0nRifKo9ZQlP9TTeygRLOwbIvRUH9s4b7timRVTkUAGUDUMgxlXLMM5YRufkGorPyxze5uMjqZGRr8qYFMUcQUUQccGg0mLBJliXIa27UZh4ChZ+nkzdjwahhEpxHMwOqo0VGAYiDgoMlforEGsfdgRbhSqG
-
-========================================
-       ORIGINAL DATA 
-========================================
-
-Email: mackychacks15
-Profiles: mackychacks15, Macky, Chloe, Mum, Carlton
-Country: ZA
-Since: July 2024
-
 Token: BgiQvuvcAxLCAV5Dugoy7GAxRjk2AGc2jGDjg6iFcP9Zoo7 EqwpFeaHiE 7x TBEjQvlKzIfI5W ZcTRKfL3MH8WPEGjIHxLTlMH3HcYwNoA4Q8b1tYThlvS4FOphAseuDV iSXjb7XxHNBAVyz3MnMy5zKnLBbiHRWpAi Lpph8OUaYu9kgX9lgS9j778YpnTRDw/fMG Zv6AHXwTEa40QMDdhlOLZuSWOCfGf3Kx5LWSoUyIwjqOdK0UrdRCneCPlKrBDZv4/0ragGAYiDgoMKBNWYCu4YwbW/a4e
 
 Direct Watch: https://netflix.com/?nftoken=BgiQvuvcAxLCAV5Dugoy7GAxRjk2AGc2jGDjg6iFcP9Zoo7+EqwpFeaHiE+7x+TBEjQvlKzIfI5W+ZcTRKfL3MH8WPEGjIHxLTlMH3HcYwNoA4Q8b1tYThlvS4FOphAseuDV+iSXjb7XxHNBAVyz3MnMy5zKnLBbiHRWpAi+Lpph8OUaYu9kgX9lgS9j778YpnTRDw/fMG+Zv6AHXwTEa40QMDdhlOLZuSWOCfGf3Kx5LWSoUyIwjqOdK0UrdRCneCPlKrBDZv4/0ragGAYiDgoMKBNWYCu4YwbW/a4e
@@ -53,8 +36,5 @@ t.me/ULPfile
 .netflix.com	TRUE	/	FALSE	1790934104	netflix-sans-normal-3-loaded	true
 .netflix.com	TRUE	/	FALSE	1790934104	pas	%7B%22supplementals%22%3A%7B%22muted%22%3Atrue%7D%7D
 .netflix.com	TRUE	/	FALSE	1814694110	OptanonConsent	isGpcEnabled=0&datestamp=Sat+Jul+04+2026+11%3A41%3A50+GMT%2B0200+(South+Africa+Standard+Time)&version=202604.2.0&browserGpcFlag=0&isDntEnabled=0&isIABGlobal=false&hosts=&consentId=e29770fe-1e92-4ad3-bdf2-6b1a2bb5cdfc&interactionCount=1&isAnonUser=1&prevHadToken=0&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&crTime=1782056594147&AwaitingReconsent=false
---------------------------------------------------
-
-
 --------------------------------------------------
 
