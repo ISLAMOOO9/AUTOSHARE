@@ -1,0 +1,38 @@
+Email: MASAKO
+Profiles: MASAKO, &#x30B3;&#x30A6;&#x30A4;&#x30C1;, 4, furab&#x1F61C;&#x1F49C;, &#x30AD;&#x30C3;&#x30BA;
+Country: JP
+Since: May 2017
+
+Token: BgiQvuvcAxLCAbt6tPU/6IV8kXk1G6iHW2OHRU5LBczt49A4KZSfkcTKds8NEszCAUwfF9lyfOZTyfQYFWYqHvsBs0oUe5WwA5K3ZyceWRerMOTaTe0wkOSzbLn1k0ce0Xkq2xVdAz16iluc4nQMetd3fm3epht3gJw8k2vYtQAgPdxrjHigl9F2Z7uKeCpvgeXXPeyPoaBf9HwxAQ2JcLJ9fNUDg8jVw0fZiVlDsqstNK0fiRjS FK8r5tt0IOYHeDMKCBREH z/zcHGAYiDgoMicm5tQMyIohHOQwa
+
+Direct Watch: https://netflix.com/?nftoken=BgiQvuvcAxLCAbt6tPU/6IV8kXk1G6iHW2OHRU5LBczt49A4KZSfkcTKds8NEszCAUwfF9lyfOZTyfQYFWYqHvsBs0oUe5WwA5K3ZyceWRerMOTaTe0wkOSzbLn1k0ce0Xkq2xVdAz16iluc4nQMetd3fm3epht3gJw8k2vYtQAgPdxrjHigl9F2Z7uKeCpvgeXXPeyPoaBf9HwxAQ2JcLJ9fNUDg8jVw0fZiVlDsqstNK0fiRjS+FK8r5tt0IOYHeDMKCBREH+z/zcHGAYiDgoMicm5tQMyIohHOQwa
+
+Mobile Watch: To use mobile apps you need to copy the Direct Watch link and paste it to your mobile Chrome browser and enter. After you enter and open the account in the browser, change the link to https://netflix.com/unsupported. It will suggest to open the app; click that and it will direct you to the mobile app smoothly.
+
+TV Watch: https://netflix.com/tv2?nftoken=BgiQvuvcAxLCAbt6tPU/6IV8kXk1G6iHW2OHRU5LBczt49A4KZSfkcTKds8NEszCAUwfF9lyfOZTyfQYFWYqHvsBs0oUe5WwA5K3ZyceWRerMOTaTe0wkOSzbLn1k0ce0Xkq2xVdAz16iluc4nQMetd3fm3epht3gJw8k2vYtQAgPdxrjHigl9F2Z7uKeCpvgeXXPeyPoaBf9HwxAQ2JcLJ9fNUDg8jVw0fZiVlDsqstNK0fiRjS+FK8r5tt0IOYHeDMKCBREH+z/zcHGAYiDgoMicm5tQMyIohHOQwa
+
+========================================
+       ORIGINAL DATA 
+========================================
+
+﻿Valid Cookie / Every day!
+t.me/ULPfile
+
+– Email: sutekirecipe@yahoo.co.jp
+– Verified: false
+– Profile: MASAKO
+– Plan: Premium
+– Next billing: 2026年9月3日
+– Extra members: false
+– Country: JP
+– Payments: 1 | CC (MASTERCARD 5108)
+– Cookies: Telegram : @U L P f i l e
+
+.netflix.com	TRUE	/	FALSE	1805987491	nfvdid	BQFmAAEBELFfDquUXe_ibPZXGd7u7wdgTYQaiPRVoZnccAvjcVKxc6cLVtWWkIEBKKQX4Juy-y-iUJrokEUoUGVjRkr2xMBqznwVDDyY2EFt9itqvdIfaY9p6YImXdm25emNniL5oPRwrblX1UAsitDJtx93XLDz
+.netflix.com	TRUE	/	TRUE	1806003648	NetflixId	v%3D3%26ct%3DBgjHlOvcAxL7Ar7D_V4izxR9-cykk1pKuhHvzSK9F_egMF2CXEjwZ3lSUXg8RNBIb8oKBj2BkPRnNtQJXHkpXu-HDk5i9rqnAbBZzxqXqBSG3qr5lCObm93U51m-qc_gqzoEYkzDm1kNnenMUaAOhD_Ge5zEiTgpLmzkNj6ENHPJaSn9MNXie2TrTUsqNhMUjN22J3416WDjMRPIHN9ti5pu7_VDHrHFy_Qq4C1kjdd9ne1rtxh1il7cPKPTzZ6cmQjB4AP-jQuB-qsGNKHsmSJlqeAlN0X0iVusZtfYiYipin_CPj-A2OvsM5ysI43Bs8L_ATYNN1ZkW3qpxmQ2nRDS6Qn1PMlKYjiO5EDvvIVXhIAMBlFMOcv3X-J6JVH3UyRtVFhP_JPjw8-xSj6TTNVLYmxhq9k4WSkCDIfe3MMuVJQ8uk3-erLEIJ7--P0hPaNTYrtm0jnrbpEyiVaLoG6GsDyDUvGCan1WmuwpXx4g0KenhFW4EMHQgj2BNzY2c10LyigYBiIOCgy5as04msqhONYjpAQ.%26pg%3DS5DL25T4AFEB7DPMTW5IQZXQ34%26ch%3DAQEAEAABABS3YOd1saEvRRsr5GDZa0KPdTAjJOX78i4.
+.netflix.com	TRUE	/	TRUE	1806003648	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABSY7x5gcuww5UNWEmSGiD_TWpkpzCjoAjs.%26dt%3D1774467645938
+.netflix.com	TRUE	/	FALSE	1806003694	OptanonConsent	isGpcEnabled=0&datestamp=Thu+Mar+26+2026+02%3A41%3A34+GMT%2B0700+(Western+Indonesia+Time)&version=202601.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=0a26c27f-31e5-4086-a816-f21a337c2ce9&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&crTime=1774451491587&AwaitingReconsent=false
+.netflix.com	TRUE	/	FALSE	1790798572	netflix-sans-normal-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1790798572	pas	%7B%22supplementals%22%3A%7B%22muted%22%3Atrue%7D%7D
+--------------------------------------------------
+

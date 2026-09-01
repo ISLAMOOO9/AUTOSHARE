@@ -3,30 +3,13 @@ Profiles: ayushdhangar12345, Children
 Country: IN
 Since: August 2026
 
-Token: BgiQvuvcAxLCAfFXpN6uynqknC4icgVezrC2g RXR77wRSdxkPrPHKw/uQIe85AY5BMyst3ySgE2RumGzS0a21UIXBTH8u8BHjWAJU9IR4Fy0IuBXkOZ5ctson p3zZGrRriHsMXqQ 5IE11k Lv9liFDJrlDR/AZptpA6A XSt8wBVTkbpV9hCzHg4P 2XreMNAT0rsHNWa8sALjH8C3PPi59CAcBAfuUwhmAzEYN2UTcCYqAGKP2 k6 GyKMa2o/7o0fW4iFr 3Et9GAYiDgoM7Ca17QL0rTLOlmkI
+Token: BgiQvuvcAxLCAR9Rm9mKs3q1hmEcG42J5iynOjqcPo6et0NDx dbfVoyO0KDZfTZDjyxOUgLTatgpsUrnGWUgR6PIPcAXXKvgt5sby 6PMz8Du1H6us/Eo tShRy8BKejagPRPpPmkfuBumSXk8VV/PNcPDce7dTA3dS0kQSss5Z6xxiblwxOrqlBm6dZx341/GTzLgzP7oWMTuk5XoxZCBHDadwo0uEiLENGKeshecAZUlo7iJDelmi xicLpv9oBX8mHrvkBE/F1TJGAYiDgoMrEcANLGXegv WOj3
 
-Direct Watch: https://netflix.com/?nftoken=BgiQvuvcAxLCAfFXpN6uynqknC4icgVezrC2g+RXR77wRSdxkPrPHKw/uQIe85AY5BMyst3ySgE2RumGzS0a21UIXBTH8u8BHjWAJU9IR4Fy0IuBXkOZ5ctson+p3zZGrRriHsMXqQ+5IE11k+Lv9liFDJrlDR/AZptpA6A+XSt8wBVTkbpV9hCzHg4P+2XreMNAT0rsHNWa8sALjH8C3PPi59CAcBAfuUwhmAzEYN2UTcCYqAGKP2+k6+GyKMa2o/7o0fW4iFr+3Et9GAYiDgoM7Ca17QL0rTLOlmkI
-
-Mobile Watch: To use mobile apps you need to copy the Direct Watch link and paste it to your mobile Chrome browser and enter. After you enter and open the account in the browser, change the link to https://netflix.com/unsupported. It will suggest to open the app; click that and it will direct you to the mobile app smoothly.
-
-TV Watch: https://netflix.com/tv2?nftoken=BgiQvuvcAxLCAfFXpN6uynqknC4icgVezrC2g+RXR77wRSdxkPrPHKw/uQIe85AY5BMyst3ySgE2RumGzS0a21UIXBTH8u8BHjWAJU9IR4Fy0IuBXkOZ5ctson+p3zZGrRriHsMXqQ+5IE11k+Lv9liFDJrlDR/AZptpA6A+XSt8wBVTkbpV9hCzHg4P+2XreMNAT0rsHNWa8sALjH8C3PPi59CAcBAfuUwhmAzEYN2UTcCYqAGKP2+k6+GyKMa2o/7o0fW4iFr+3Et9GAYiDgoM7Ca17QL0rTLOlmkI
-
-========================================
-       ORIGINAL DATA 
-========================================
-
-Email: ayushdhangar12345
-Profiles: ayushdhangar12345, Children
-Country: IN
-Since: August 2026
-
-Token: BgiQvuvcAxLCAT6Cgj8ScKq0O1jH/kKumztu9ijuztODxX3lSzSpDOjMweNZbnICBGPphxoMyWnD7gXXZGXGNnJyNsbLOFc5WZHo8QNapxo7QwzMN iC 88i3q2cjEOgguSsDdE5wLVD6Z0B/wAE1AHamQshl6Ivti/XEKabgq4Bq1XbaUtU49k6RLt1i7OcICURm36TnPc97Sd33N36suaDqGl F76W3MvNcRnHcp5Eq0ksv6vz4QJgBAMLD0LqIofZZi l2J8ghiFYGAYiDgoMqSvVjvV8yuEr57oq
-
-Direct Watch: https://netflix.com/?nftoken=BgiQvuvcAxLCAT6Cgj8ScKq0O1jH/kKumztu9ijuztODxX3lSzSpDOjMweNZbnICBGPphxoMyWnD7gXXZGXGNnJyNsbLOFc5WZHo8QNapxo7QwzMN+iC+88i3q2cjEOgguSsDdE5wLVD6Z0B/wAE1AHamQshl6Ivti/XEKabgq4Bq1XbaUtU49k6RLt1i7OcICURm36TnPc97Sd33N36suaDqGl+F76W3MvNcRnHcp5Eq0ksv6vz4QJgBAMLD0LqIofZZi+l2J8ghiFYGAYiDgoMqSvVjvV8yuEr57oq
+Direct Watch: https://netflix.com/?nftoken=BgiQvuvcAxLCAR9Rm9mKs3q1hmEcG42J5iynOjqcPo6et0NDx+dbfVoyO0KDZfTZDjyxOUgLTatgpsUrnGWUgR6PIPcAXXKvgt5sby+6PMz8Du1H6us/Eo+tShRy8BKejagPRPpPmkfuBumSXk8VV/PNcPDce7dTA3dS0kQSss5Z6xxiblwxOrqlBm6dZx341/GTzLgzP7oWMTuk5XoxZCBHDadwo0uEiLENGKeshecAZUlo7iJDelmi+xicLpv9oBX8mHrvkBE/F1TJGAYiDgoMrEcANLGXegv+WOj3
 
 Mobile Watch: To use mobile apps you need to copy the Direct Watch link and paste it to your mobile Chrome browser and enter. After you enter and open the account in the browser, change the link to https://netflix.com/unsupported. It will suggest to open the app; click that and it will direct you to the mobile app smoothly.
 
-TV Watch: https://netflix.com/tv2?nftoken=BgiQvuvcAxLCAT6Cgj8ScKq0O1jH/kKumztu9ijuztODxX3lSzSpDOjMweNZbnICBGPphxoMyWnD7gXXZGXGNnJyNsbLOFc5WZHo8QNapxo7QwzMN+iC+88i3q2cjEOgguSsDdE5wLVD6Z0B/wAE1AHamQshl6Ivti/XEKabgq4Bq1XbaUtU49k6RLt1i7OcICURm36TnPc97Sd33N36suaDqGl+F76W3MvNcRnHcp5Eq0ksv6vz4QJgBAMLD0LqIofZZi+l2J8ghiFYGAYiDgoMqSvVjvV8yuEr57oq
+TV Watch: https://netflix.com/tv2?nftoken=BgiQvuvcAxLCAR9Rm9mKs3q1hmEcG42J5iynOjqcPo6et0NDx+dbfVoyO0KDZfTZDjyxOUgLTatgpsUrnGWUgR6PIPcAXXKvgt5sby+6PMz8Du1H6us/Eo+tShRy8BKejagPRPpPmkfuBumSXk8VV/PNcPDce7dTA3dS0kQSss5Z6xxiblwxOrqlBm6dZx341/GTzLgzP7oWMTuk5XoxZCBHDadwo0uEiLENGKeshecAZUlo7iJDelmi+xicLpv9oBX8mHrvkBE/F1TJGAYiDgoMrEcANLGXegv+WOj3
 
 ========================================
        ORIGINAL DATA 
@@ -49,8 +32,5 @@ t.me/ULPfile
 .netflix.com	TRUE	/	TRUE	1794129806	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABTxH7W4vQsoMQIEGN2JRQvPr7uLzQU6nwQ.%26dt%3D1762593805571
 .netflix.com	TRUE	/	FALSE	1794129806	nfvdid	BQFmAAEBENj3_E4Sydgof1S6zdF6AyNg-3IYlPO8VpTJ6jZF0knCdhJ0S0lwtxmTozGshveRFGrQWFnhkFMTK7Y5PXwAMm9_xFlC2lh_zhCVOwJg7TS2YmtIc4fB9hBAmlRL35_HW4E6D5IRyjyO4dkSrbahUQI2
 .netflix.com	TRUE	/	FALSE	1794129948	OptanonConsent	isGpcEnabled=0&datestamp=Sat+Nov+08+2025+14%3A55%3A48+GMT%2B0530+(India+Standard+Time)&version=202508.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=ba422a4e-3983-471c-a8a0-00cae826dd58&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false
---------------------------------------------------
-
-
 --------------------------------------------------
 

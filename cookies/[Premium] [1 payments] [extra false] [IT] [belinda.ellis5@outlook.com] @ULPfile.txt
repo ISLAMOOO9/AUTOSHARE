@@ -3,30 +3,13 @@ Profiles: belinda.ellis5, Joke, Barn
 Country: IT
 Since: maj 2026
 
-Token: BgiQvuvcAxLCAcAbLM7w8Bhza3 Lq5c4Kp81sdFHUk2Y4DVR7ppXhLM6cVTjKbO9EHw3HjWmFdfCm0QrGenCjbDrgrMMc0/MPXtLDQoeRNR5OHK1yL5BCKFYy0BSe0OHzsU1cxy4NHcQQpdq27 rP7q d7KJ4CSEvKJwpaA0vb9K6ecxfO4hXnZAjIRx1/RruUem6xzbjYCU0zb5yDvKAWulLwtFfp83J/9vCrlkWLvA0UIMLsbvDYaTqZuqjIVuvt7RgmLBdHMWhDz0GAYiDgoMcUs2HvXTdwFgQBwe
+Token: BgiQvuvcAxLCAbLaWU3iSUBMpNMdnw5zjNutNUhcZr7mPOL6zwrg1RxmMm3HTd67hi5UnuU/YQkwmKNJhYaeGog9L7O1gmPja/btzT8GF9rL9/wK n6REsdDcj0OOeO6jHnKRaBnsAprKbd1Gc5QXq5B/xzyxTr ZGhZXN/IX9bKcZc12CAPKcY33FD/I JIRJDxVJyW0GvhYdJHBOTEGUU4I6S9dLgmUovXVItcdmxcXlqFt2zHExsvfXiMVyJC8Y7306px2jKMYEnYGAYiDgoMXmQ0r8Bg3zybejtU
 
-Direct Watch: https://netflix.com/?nftoken=BgiQvuvcAxLCAcAbLM7w8Bhza3+Lq5c4Kp81sdFHUk2Y4DVR7ppXhLM6cVTjKbO9EHw3HjWmFdfCm0QrGenCjbDrgrMMc0/MPXtLDQoeRNR5OHK1yL5BCKFYy0BSe0OHzsU1cxy4NHcQQpdq27+rP7q+d7KJ4CSEvKJwpaA0vb9K6ecxfO4hXnZAjIRx1/RruUem6xzbjYCU0zb5yDvKAWulLwtFfp83J/9vCrlkWLvA0UIMLsbvDYaTqZuqjIVuvt7RgmLBdHMWhDz0GAYiDgoMcUs2HvXTdwFgQBwe
-
-Mobile Watch: To use mobile apps you need to copy the Direct Watch link and paste it to your mobile Chrome browser and enter. After you enter and open the account in the browser, change the link to https://netflix.com/unsupported. It will suggest to open the app; click that and it will direct you to the mobile app smoothly.
-
-TV Watch: https://netflix.com/tv2?nftoken=BgiQvuvcAxLCAcAbLM7w8Bhza3+Lq5c4Kp81sdFHUk2Y4DVR7ppXhLM6cVTjKbO9EHw3HjWmFdfCm0QrGenCjbDrgrMMc0/MPXtLDQoeRNR5OHK1yL5BCKFYy0BSe0OHzsU1cxy4NHcQQpdq27+rP7q+d7KJ4CSEvKJwpaA0vb9K6ecxfO4hXnZAjIRx1/RruUem6xzbjYCU0zb5yDvKAWulLwtFfp83J/9vCrlkWLvA0UIMLsbvDYaTqZuqjIVuvt7RgmLBdHMWhDz0GAYiDgoMcUs2HvXTdwFgQBwe
-
-========================================
-       ORIGINAL DATA 
-========================================
-
-Email: belinda.ellis5
-Profiles: belinda.ellis5, Joke, Barn
-Country: IT
-Since: maj 2026
-
-Token: BgiQvuvcAxLCAezGmsB3vEJeFk/Sp2s9LyKgXztvwoCqCh7Qt2tVvMJn/Lw 4oN11EQvuCANPgFC6HgtIyiQUe7fX 39KN Ht8VE3z/8m5xXQp/l/WpJbYl2WFBfRZHINGDE21y NbGZ2Ccu7VAzlIup5f/9BzcUoTIM8wPLfFl0tSrRSHI5cFhee7bNn4mSRUw0kJVDqr1DpN7oLMdTGiTSSuTX5PclNig8E8Ld2POt5mNVUmn 1g9hip8c5kKIBgO2uteXSbmJRQrmGAYiDgoMZ1DTpHM1XKJfLd X
-
-Direct Watch: https://netflix.com/?nftoken=BgiQvuvcAxLCAezGmsB3vEJeFk/Sp2s9LyKgXztvwoCqCh7Qt2tVvMJn/Lw+4oN11EQvuCANPgFC6HgtIyiQUe7fX+39KN+Ht8VE3z/8m5xXQp/l/WpJbYl2WFBfRZHINGDE21y+NbGZ2Ccu7VAzlIup5f/9BzcUoTIM8wPLfFl0tSrRSHI5cFhee7bNn4mSRUw0kJVDqr1DpN7oLMdTGiTSSuTX5PclNig8E8Ld2POt5mNVUmn+1g9hip8c5kKIBgO2uteXSbmJRQrmGAYiDgoMZ1DTpHM1XKJfLd+X
+Direct Watch: https://netflix.com/?nftoken=BgiQvuvcAxLCAbLaWU3iSUBMpNMdnw5zjNutNUhcZr7mPOL6zwrg1RxmMm3HTd67hi5UnuU/YQkwmKNJhYaeGog9L7O1gmPja/btzT8GF9rL9/wK+n6REsdDcj0OOeO6jHnKRaBnsAprKbd1Gc5QXq5B/xzyxTr+ZGhZXN/IX9bKcZc12CAPKcY33FD/I+JIRJDxVJyW0GvhYdJHBOTEGUU4I6S9dLgmUovXVItcdmxcXlqFt2zHExsvfXiMVyJC8Y7306px2jKMYEnYGAYiDgoMXmQ0r8Bg3zybejtU
 
 Mobile Watch: To use mobile apps you need to copy the Direct Watch link and paste it to your mobile Chrome browser and enter. After you enter and open the account in the browser, change the link to https://netflix.com/unsupported. It will suggest to open the app; click that and it will direct you to the mobile app smoothly.
 
-TV Watch: https://netflix.com/tv2?nftoken=BgiQvuvcAxLCAezGmsB3vEJeFk/Sp2s9LyKgXztvwoCqCh7Qt2tVvMJn/Lw+4oN11EQvuCANPgFC6HgtIyiQUe7fX+39KN+Ht8VE3z/8m5xXQp/l/WpJbYl2WFBfRZHINGDE21y+NbGZ2Ccu7VAzlIup5f/9BzcUoTIM8wPLfFl0tSrRSHI5cFhee7bNn4mSRUw0kJVDqr1DpN7oLMdTGiTSSuTX5PclNig8E8Ld2POt5mNVUmn+1g9hip8c5kKIBgO2uteXSbmJRQrmGAYiDgoMZ1DTpHM1XKJfLd+X
+TV Watch: https://netflix.com/tv2?nftoken=BgiQvuvcAxLCAbLaWU3iSUBMpNMdnw5zjNutNUhcZr7mPOL6zwrg1RxmMm3HTd67hi5UnuU/YQkwmKNJhYaeGog9L7O1gmPja/btzT8GF9rL9/wK+n6REsdDcj0OOeO6jHnKRaBnsAprKbd1Gc5QXq5B/xzyxTr+ZGhZXN/IX9bKcZc12CAPKcY33FD/I+JIRJDxVJyW0GvhYdJHBOTEGUU4I6S9dLgmUovXVItcdmxcXlqFt2zHExsvfXiMVyJC8Y7306px2jKMYEnYGAYiDgoMXmQ0r8Bg3zybejtU
 
 ========================================
        ORIGINAL DATA 
@@ -51,8 +34,5 @@ t.me/ULPfile
 .netflix.com	TRUE	/	TRUE	1790798572	gsid	076b9bbe-b000-419a-b62a-9bdb66d81841
 .netflix.com	TRUE	/	FALSE	1790798572	netflix-sans-bold-3-loaded	true
 .netflix.com	TRUE	/	FALSE	1790798572	netflix-sans-normal-3-loaded	true
---------------------------------------------------
-
-
 --------------------------------------------------
 

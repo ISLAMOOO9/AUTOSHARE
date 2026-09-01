@@ -3,30 +3,13 @@ Profiles: Shalini, Ranjana, Nirmala, SHANTONA, Somali
 Country: IN
 Since: October 2018
 
-Token: BgiQvuvcAxLCAV0c50mV8vIYpXIzbwSrS anROiElJ0wg/EhpxovaCbqc0aYNcvc0112rKuMchP8M0Ko3EsakxyCpG5RW4q4MgSJSb6rtu6tCOEdgo9nYunlW57vK1N 19/wKv6IORgcEzOM593ObSPK83jUr8hW1k8euzIuP C3MNTBv5SkpPKko/tU4kw90dGSSzd8C3D5o6C hb8lx ZSfo/jN9tuIxvQnix1bsCAZ90XriPvlKM6N9WkD2Dn3NnPu4F95uiZQMbPGAYiDgoMpIdnK7jEr0sQyiiw
+Token: BgiQvuvcAxLCASb87Un81BWiJ/FzbfTuMBCqX IEwCpuLLrlQtHUfTRjParWCGg53gMTrZhj3jdDg4GkgAJp6OScif6feBVQ7NRRF708XbjpxwcRvEe 10IE35vMn7DM7fVpsdqhDgluhecT0uXxGHMVPdXXfIaWkTRqKfLDrbFzO/G7oyZlOjV6hSDgCn26li6ngyLhWg7PwFY3x95uw/MphaoKlD6UskvvIp4/RoLEllcwrq5RziRKv9w82ncdvIfUsky3eIDYfqckGAYiDgoMMiy2NiKDLs/NCRiq
 
-Direct Watch: https://netflix.com/?nftoken=BgiQvuvcAxLCAV0c50mV8vIYpXIzbwSrS+anROiElJ0wg/EhpxovaCbqc0aYNcvc0112rKuMchP8M0Ko3EsakxyCpG5RW4q4MgSJSb6rtu6tCOEdgo9nYunlW57vK1N+19/wKv6IORgcEzOM593ObSPK83jUr8hW1k8euzIuP+C3MNTBv5SkpPKko/tU4kw90dGSSzd8C3D5o6C+hb8lx+ZSfo/jN9tuIxvQnix1bsCAZ90XriPvlKM6N9WkD2Dn3NnPu4F95uiZQMbPGAYiDgoMpIdnK7jEr0sQyiiw
-
-Mobile Watch: To use mobile apps you need to copy the Direct Watch link and paste it to your mobile Chrome browser and enter. After you enter and open the account in the browser, change the link to https://netflix.com/unsupported. It will suggest to open the app; click that and it will direct you to the mobile app smoothly.
-
-TV Watch: https://netflix.com/tv2?nftoken=BgiQvuvcAxLCAV0c50mV8vIYpXIzbwSrS+anROiElJ0wg/EhpxovaCbqc0aYNcvc0112rKuMchP8M0Ko3EsakxyCpG5RW4q4MgSJSb6rtu6tCOEdgo9nYunlW57vK1N+19/wKv6IORgcEzOM593ObSPK83jUr8hW1k8euzIuP+C3MNTBv5SkpPKko/tU4kw90dGSSzd8C3D5o6C+hb8lx+ZSfo/jN9tuIxvQnix1bsCAZ90XriPvlKM6N9WkD2Dn3NnPu4F95uiZQMbPGAYiDgoMpIdnK7jEr0sQyiiw
-
-========================================
-       ORIGINAL DATA 
-========================================
-
-Email: Shalini
-Profiles: Shalini, Ranjana, Nirmala, SHANTONA, Somali
-Country: IN
-Since: October 2018
-
-Token: BgiQvuvcAxLCASb apyBzuTKrfnxbZRG5F5r2fAeeTvKb t5/GGbrZGNTCP4ZzN7bs2peO6WPyf8fxMYxlFB6qid96P5XKpxg0Bgrw X5EZKgJv SAab/JDSms/qejmlM0dIRF5/XN U/3Q8iTakZVlaTEkiEj28Cc/Ps/fdog9NpqW8cTV1CUNhlBGJFxk5mr73QKY6hUpU2 uV ca/WikZZa0nk6EAvEkMLhVtgPvGfauCHxF3Mpq5pZEl7WMKEqrKxZj3TNlqQHGlGAYiDgoMNuOl95qf/ yVHwks
-
-Direct Watch: https://netflix.com/?nftoken=BgiQvuvcAxLCASb+apyBzuTKrfnxbZRG5F5r2fAeeTvKb+t5/GGbrZGNTCP4ZzN7bs2peO6WPyf8fxMYxlFB6qid96P5XKpxg0Bgrw+X5EZKgJv+SAab/JDSms/qejmlM0dIRF5/XN+U/3Q8iTakZVlaTEkiEj28Cc/Ps/fdog9NpqW8cTV1CUNhlBGJFxk5mr73QKY6hUpU2+uV+ca/WikZZa0nk6EAvEkMLhVtgPvGfauCHxF3Mpq5pZEl7WMKEqrKxZj3TNlqQHGlGAYiDgoMNuOl95qf/+yVHwks
+Direct Watch: https://netflix.com/?nftoken=BgiQvuvcAxLCASb87Un81BWiJ/FzbfTuMBCqX+IEwCpuLLrlQtHUfTRjParWCGg53gMTrZhj3jdDg4GkgAJp6OScif6feBVQ7NRRF708XbjpxwcRvEe+10IE35vMn7DM7fVpsdqhDgluhecT0uXxGHMVPdXXfIaWkTRqKfLDrbFzO/G7oyZlOjV6hSDgCn26li6ngyLhWg7PwFY3x95uw/MphaoKlD6UskvvIp4/RoLEllcwrq5RziRKv9w82ncdvIfUsky3eIDYfqckGAYiDgoMMiy2NiKDLs/NCRiq
 
 Mobile Watch: To use mobile apps you need to copy the Direct Watch link and paste it to your mobile Chrome browser and enter. After you enter and open the account in the browser, change the link to https://netflix.com/unsupported. It will suggest to open the app; click that and it will direct you to the mobile app smoothly.
 
-TV Watch: https://netflix.com/tv2?nftoken=BgiQvuvcAxLCASb+apyBzuTKrfnxbZRG5F5r2fAeeTvKb+t5/GGbrZGNTCP4ZzN7bs2peO6WPyf8fxMYxlFB6qid96P5XKpxg0Bgrw+X5EZKgJv+SAab/JDSms/qejmlM0dIRF5/XN+U/3Q8iTakZVlaTEkiEj28Cc/Ps/fdog9NpqW8cTV1CUNhlBGJFxk5mr73QKY6hUpU2+uV+ca/WikZZa0nk6EAvEkMLhVtgPvGfauCHxF3Mpq5pZEl7WMKEqrKxZj3TNlqQHGlGAYiDgoMNuOl95qf/+yVHwks
+TV Watch: https://netflix.com/tv2?nftoken=BgiQvuvcAxLCASb87Un81BWiJ/FzbfTuMBCqX+IEwCpuLLrlQtHUfTRjParWCGg53gMTrZhj3jdDg4GkgAJp6OScif6feBVQ7NRRF708XbjpxwcRvEe+10IE35vMn7DM7fVpsdqhDgluhecT0uXxGHMVPdXXfIaWkTRqKfLDrbFzO/G7oyZlOjV6hSDgCn26li6ngyLhWg7PwFY3x95uw/MphaoKlD6UskvvIp4/RoLEllcwrq5RziRKv9w82ncdvIfUsky3eIDYfqckGAYiDgoMMiy2NiKDLs/NCRiq
 
 ========================================
        ORIGINAL DATA 
@@ -52,8 +35,5 @@ t.me/ULPfile
 .netflix.com	TRUE	/	FALSE	1790513178	netflix-sans-bold-3-loaded	true
 .netflix.com	TRUE	/	FALSE	1790513178	netflix-sans-normal-3-loaded	true
 .netflix.com	TRUE	/	FALSE	1790513178	pas	%7B%22supplementals%22%3A%7B%22muted%22%3Afalse%7D%7D
---------------------------------------------------
-
-
 --------------------------------------------------
 

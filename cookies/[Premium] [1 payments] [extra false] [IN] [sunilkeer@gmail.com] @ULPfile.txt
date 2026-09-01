@@ -3,30 +3,13 @@ Profiles: Suneet Singh, Barkha, Nimrit kaur, Sartaaj, Anhad singh
 Country: IN
 Since: November 2023
 
-Token: BgiQvuvcAxLCAUcqsiMvtdGBA5R9 LfL62O5dE3XmJ8uqS vSUmthMv7cSGdmkOb9EOdpTnVXv/F4JFh0b7ODmzNr6WwqjQQJoJ95TYaTXjQCZmk dscdWUodhELRlWrptObFzo5OjfmAuHLz8xjieXEBiEcXG1CVNOJ2d0uI8zCw76X/Vm1VyuVakw2uOW4olT6Odd2PxUxR8RpsGWp0KTCK66FIMIAqd q77Lu/VnRQzmaZGn5xqxsRe2G3iP9se0 MDs0ENXXuR4fGAYiDgoM1ZVza2ZwOAUQFy/s
+Token: BgiQvuvcAxLCAVG0gzWRDrVGB5FmM7vsP4ZGm9KwMMWAwnTKk/QSpMpU5xLmyNYwxOLdOXcOtLOMgCah8ckee6ZCmijChKQb5GlDlidJtylIq8sOZijOGQu8tMg0jSgQomdsmpzMRGdhtCPPcEUcEeZuG7 LnPoiGGt4PBmVrtylH4n6DiLpJE8znVTGWNU2ZLH9KOoUFvz67Ru2Zs0rNBAgS7sE 2jZ1QvQe/l8S1aYY1pEtxA6icOCtMvraqtf1kREnTFYF EDTRDmGAYiDgoMKV8rXLXBPehVdSuE
 
-Direct Watch: https://netflix.com/?nftoken=BgiQvuvcAxLCAUcqsiMvtdGBA5R9+LfL62O5dE3XmJ8uqS+vSUmthMv7cSGdmkOb9EOdpTnVXv/F4JFh0b7ODmzNr6WwqjQQJoJ95TYaTXjQCZmk+dscdWUodhELRlWrptObFzo5OjfmAuHLz8xjieXEBiEcXG1CVNOJ2d0uI8zCw76X/Vm1VyuVakw2uOW4olT6Odd2PxUxR8RpsGWp0KTCK66FIMIAqd+q77Lu/VnRQzmaZGn5xqxsRe2G3iP9se0+MDs0ENXXuR4fGAYiDgoM1ZVza2ZwOAUQFy/s
-
-Mobile Watch: To use mobile apps you need to copy the Direct Watch link and paste it to your mobile Chrome browser and enter. After you enter and open the account in the browser, change the link to https://netflix.com/unsupported. It will suggest to open the app; click that and it will direct you to the mobile app smoothly.
-
-TV Watch: https://netflix.com/tv2?nftoken=BgiQvuvcAxLCAUcqsiMvtdGBA5R9+LfL62O5dE3XmJ8uqS+vSUmthMv7cSGdmkOb9EOdpTnVXv/F4JFh0b7ODmzNr6WwqjQQJoJ95TYaTXjQCZmk+dscdWUodhELRlWrptObFzo5OjfmAuHLz8xjieXEBiEcXG1CVNOJ2d0uI8zCw76X/Vm1VyuVakw2uOW4olT6Odd2PxUxR8RpsGWp0KTCK66FIMIAqd+q77Lu/VnRQzmaZGn5xqxsRe2G3iP9se0+MDs0ENXXuR4fGAYiDgoM1ZVza2ZwOAUQFy/s
-
-========================================
-       ORIGINAL DATA 
-========================================
-
-Email: Suneet Singh
-Profiles: Suneet Singh, Barkha, Nimrit kaur, Sartaaj, Anhad singh
-Country: IN
-Since: November 2023
-
-Token: BgiQvuvcAxLCAYnx6iMLx1cc9jOVTInU8gNPE7oYGxGu0sEy6xVqLyli7BxsGVoa q00RmjRw3n0LwMKTX9/bRpH/8aN9fASctejAqhRDxqxx9CW2CCuBhXuNTKIuvYPGBQqrZtkUjeXA5ogmVTRrTcylRAfac3PZuMbQ7PuSFhhqa5ph0cdv1bYg7V BRA6fubcftIZZZoQAHWNXBnph4xgKmZE 287 /bEt1tiHvCYUHiJf83IKSF9PcDO8LE3kxM34U5QG5Gtbes4GAYiDgoMafdUdjZp5WrOfOxH
-
-Direct Watch: https://netflix.com/?nftoken=BgiQvuvcAxLCAYnx6iMLx1cc9jOVTInU8gNPE7oYGxGu0sEy6xVqLyli7BxsGVoa+q00RmjRw3n0LwMKTX9/bRpH/8aN9fASctejAqhRDxqxx9CW2CCuBhXuNTKIuvYPGBQqrZtkUjeXA5ogmVTRrTcylRAfac3PZuMbQ7PuSFhhqa5ph0cdv1bYg7V+BRA6fubcftIZZZoQAHWNXBnph4xgKmZE+287+/bEt1tiHvCYUHiJf83IKSF9PcDO8LE3kxM34U5QG5Gtbes4GAYiDgoMafdUdjZp5WrOfOxH
+Direct Watch: https://netflix.com/?nftoken=BgiQvuvcAxLCAVG0gzWRDrVGB5FmM7vsP4ZGm9KwMMWAwnTKk/QSpMpU5xLmyNYwxOLdOXcOtLOMgCah8ckee6ZCmijChKQb5GlDlidJtylIq8sOZijOGQu8tMg0jSgQomdsmpzMRGdhtCPPcEUcEeZuG7+LnPoiGGt4PBmVrtylH4n6DiLpJE8znVTGWNU2ZLH9KOoUFvz67Ru2Zs0rNBAgS7sE+2jZ1QvQe/l8S1aYY1pEtxA6icOCtMvraqtf1kREnTFYF+EDTRDmGAYiDgoMKV8rXLXBPehVdSuE
 
 Mobile Watch: To use mobile apps you need to copy the Direct Watch link and paste it to your mobile Chrome browser and enter. After you enter and open the account in the browser, change the link to https://netflix.com/unsupported. It will suggest to open the app; click that and it will direct you to the mobile app smoothly.
 
-TV Watch: https://netflix.com/tv2?nftoken=BgiQvuvcAxLCAYnx6iMLx1cc9jOVTInU8gNPE7oYGxGu0sEy6xVqLyli7BxsGVoa+q00RmjRw3n0LwMKTX9/bRpH/8aN9fASctejAqhRDxqxx9CW2CCuBhXuNTKIuvYPGBQqrZtkUjeXA5ogmVTRrTcylRAfac3PZuMbQ7PuSFhhqa5ph0cdv1bYg7V+BRA6fubcftIZZZoQAHWNXBnph4xgKmZE+287+/bEt1tiHvCYUHiJf83IKSF9PcDO8LE3kxM34U5QG5Gtbes4GAYiDgoMafdUdjZp5WrOfOxH
+TV Watch: https://netflix.com/tv2?nftoken=BgiQvuvcAxLCAVG0gzWRDrVGB5FmM7vsP4ZGm9KwMMWAwnTKk/QSpMpU5xLmyNYwxOLdOXcOtLOMgCah8ckee6ZCmijChKQb5GlDlidJtylIq8sOZijOGQu8tMg0jSgQomdsmpzMRGdhtCPPcEUcEeZuG7+LnPoiGGt4PBmVrtylH4n6DiLpJE8znVTGWNU2ZLH9KOoUFvz67Ru2Zs0rNBAgS7sE+2jZ1QvQe/l8S1aYY1pEtxA6icOCtMvraqtf1kREnTFYF+EDTRDmGAYiDgoMKV8rXLXBPehVdSuE
 
 ========================================
        ORIGINAL DATA 
@@ -51,8 +34,5 @@ t.me/ULPfile
 .netflix.com	TRUE	/	TRUE	1811841017	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABSu0A6HVQVg08-8a8l7Klq7YpXSY4APB8I.%26dt%3D1780305017855
 .netflix.com	TRUE	/	FALSE	1790798572	netflix-sans-bold-3-loaded	true
 .netflix.com	TRUE	/	FALSE	1790798572	netflix-sans-normal-3-loaded	true
---------------------------------------------------
-
-
 --------------------------------------------------
 

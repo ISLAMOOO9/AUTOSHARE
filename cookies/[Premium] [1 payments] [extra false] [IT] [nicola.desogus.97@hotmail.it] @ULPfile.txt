@@ -3,30 +3,13 @@ Profiles: Nicola, Giorgia, Ste Deni, kriko
 Country: IT
 Since: July 2022
 
-Token: BgiQvuvcAxLCAZosdANfQpBBVVpBM6cAvF2bOpGmqxQBHy1c7L8HABmo0x6v1tiQIhCStjSnktTyD3Hy2JhcwUBcuIlE2Gh3KGvsz9GRZVqt7b10CnI/TdvMF/bjUMFrztooHGHvGZq2LkOsLIUaIz0ehXpBCK8hFEJ B9hSbe5FmVZmhHAKgBBkF2mDtjNC E0ACY73N4xI0XlzIlhXVih7SZ/qYb4CI3dhBVu3DWVMbiUrYWJjKES4azh/LioSd  Pg93FN18mpfFbGAYiDgoMu71aqesqpNc5wKwX
+Token: BgiQvuvcAxLCAStKf1/9RPq/YuwDtLI 2qICgmEaThQa AjFRSB0owpUnVgFD7/lEHKzYe uaqvI56Mu02aD2w4Hjs enRpBromtCu624A6wxyPvjiDeQV4qzui6qaUw/TsC3JmKiukRYgeJOUSdJyMbbCdSe3kZCRR7GJ0NxgfHXhfEWkyV5rMCkFE1P0V9e0eOh2yN9FdIel18oGIhKczAHHmVn6FYvQaSnJZbc WQFUXV4I4AeB 10jq4Djss/sU10kzdxp28rHImGAYiDgoMZ3/YDko4 QGZTt64
 
-Direct Watch: https://netflix.com/?nftoken=BgiQvuvcAxLCAZosdANfQpBBVVpBM6cAvF2bOpGmqxQBHy1c7L8HABmo0x6v1tiQIhCStjSnktTyD3Hy2JhcwUBcuIlE2Gh3KGvsz9GRZVqt7b10CnI/TdvMF/bjUMFrztooHGHvGZq2LkOsLIUaIz0ehXpBCK8hFEJ+B9hSbe5FmVZmhHAKgBBkF2mDtjNC+E0ACY73N4xI0XlzIlhXVih7SZ/qYb4CI3dhBVu3DWVMbiUrYWJjKES4azh/LioSd++Pg93FN18mpfFbGAYiDgoMu71aqesqpNc5wKwX
-
-Mobile Watch: To use mobile apps you need to copy the Direct Watch link and paste it to your mobile Chrome browser and enter. After you enter and open the account in the browser, change the link to https://netflix.com/unsupported. It will suggest to open the app; click that and it will direct you to the mobile app smoothly.
-
-TV Watch: https://netflix.com/tv2?nftoken=BgiQvuvcAxLCAZosdANfQpBBVVpBM6cAvF2bOpGmqxQBHy1c7L8HABmo0x6v1tiQIhCStjSnktTyD3Hy2JhcwUBcuIlE2Gh3KGvsz9GRZVqt7b10CnI/TdvMF/bjUMFrztooHGHvGZq2LkOsLIUaIz0ehXpBCK8hFEJ+B9hSbe5FmVZmhHAKgBBkF2mDtjNC+E0ACY73N4xI0XlzIlhXVih7SZ/qYb4CI3dhBVu3DWVMbiUrYWJjKES4azh/LioSd++Pg93FN18mpfFbGAYiDgoMu71aqesqpNc5wKwX
-
-========================================
-       ORIGINAL DATA 
-========================================
-
-Email: Nicola
-Profiles: Nicola, Giorgia, Ste Deni, kriko
-Country: IT
-Since: luglio 2022
-
-Token: BgiQvuvcAxLCAShXz28LGz9hTJdt0YyRCM2xVgkHuhYrMKyjYNGHUrT1O8e0NzHuhMh8vneEbs6tfiudawtaCB3b7bCvMFAgIu5o24rJEXYCuBmi1KgwYQXuRFmto3H 9hkX9vYuOkX1fYfwOPmCm hJxGT7AKCjm/LfezkRB5UKrv3al6dADdwTJRvD/BANmGYHMrtmsK5RazCRPfpzF2oJozAbtbAJsLohDqB0pRTAGcWiP8IOIxg4zjY6U0CTykV9uxzhctjNDOhcGAYiDgoMYg9lY0 38tDdT4rB
-
-Direct Watch: https://netflix.com/?nftoken=BgiQvuvcAxLCAShXz28LGz9hTJdt0YyRCM2xVgkHuhYrMKyjYNGHUrT1O8e0NzHuhMh8vneEbs6tfiudawtaCB3b7bCvMFAgIu5o24rJEXYCuBmi1KgwYQXuRFmto3H+9hkX9vYuOkX1fYfwOPmCm+hJxGT7AKCjm/LfezkRB5UKrv3al6dADdwTJRvD/BANmGYHMrtmsK5RazCRPfpzF2oJozAbtbAJsLohDqB0pRTAGcWiP8IOIxg4zjY6U0CTykV9uxzhctjNDOhcGAYiDgoMYg9lY0+38tDdT4rB
+Direct Watch: https://netflix.com/?nftoken=BgiQvuvcAxLCAStKf1/9RPq/YuwDtLI+2qICgmEaThQa+AjFRSB0owpUnVgFD7/lEHKzYe+uaqvI56Mu02aD2w4Hjs+enRpBromtCu624A6wxyPvjiDeQV4qzui6qaUw/TsC3JmKiukRYgeJOUSdJyMbbCdSe3kZCRR7GJ0NxgfHXhfEWkyV5rMCkFE1P0V9e0eOh2yN9FdIel18oGIhKczAHHmVn6FYvQaSnJZbc+WQFUXV4I4AeB+10jq4Djss/sU10kzdxp28rHImGAYiDgoMZ3/YDko4+QGZTt64
 
 Mobile Watch: To use mobile apps you need to copy the Direct Watch link and paste it to your mobile Chrome browser and enter. After you enter and open the account in the browser, change the link to https://netflix.com/unsupported. It will suggest to open the app; click that and it will direct you to the mobile app smoothly.
 
-TV Watch: https://netflix.com/tv2?nftoken=BgiQvuvcAxLCAShXz28LGz9hTJdt0YyRCM2xVgkHuhYrMKyjYNGHUrT1O8e0NzHuhMh8vneEbs6tfiudawtaCB3b7bCvMFAgIu5o24rJEXYCuBmi1KgwYQXuRFmto3H+9hkX9vYuOkX1fYfwOPmCm+hJxGT7AKCjm/LfezkRB5UKrv3al6dADdwTJRvD/BANmGYHMrtmsK5RazCRPfpzF2oJozAbtbAJsLohDqB0pRTAGcWiP8IOIxg4zjY6U0CTykV9uxzhctjNDOhcGAYiDgoMYg9lY0+38tDdT4rB
+TV Watch: https://netflix.com/tv2?nftoken=BgiQvuvcAxLCAStKf1/9RPq/YuwDtLI+2qICgmEaThQa+AjFRSB0owpUnVgFD7/lEHKzYe+uaqvI56Mu02aD2w4Hjs+enRpBromtCu624A6wxyPvjiDeQV4qzui6qaUw/TsC3JmKiukRYgeJOUSdJyMbbCdSe3kZCRR7GJ0NxgfHXhfEWkyV5rMCkFE1P0V9e0eOh2yN9FdIel18oGIhKczAHHmVn6FYvQaSnJZbc+WQFUXV4I4AeB+10jq4Djss/sU10kzdxp28rHImGAYiDgoMZ3/YDko4+QGZTt64
 
 ========================================
        ORIGINAL DATA 
@@ -54,8 +37,5 @@ t.me/ULPfile
 .netflix.com	TRUE	/	TRUE	1811764590	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABQ8sbYYPG-rKrhFS1HoYtOrTfMAp4Uep9s.%26dt%3D1780228591724
 .netflix.com	TRUE	/	FALSE	1790798572	pas	%7B%22supplementals%22%3A%7B%22muted%22%3Afalse%7D%7D
 .netflix.com	TRUE	/	FALSE	1790798572	profilesNewSession	0
---------------------------------------------------
-
-
 --------------------------------------------------
 

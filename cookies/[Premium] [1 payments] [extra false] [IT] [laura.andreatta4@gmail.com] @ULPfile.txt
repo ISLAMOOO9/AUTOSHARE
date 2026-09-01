@@ -3,30 +3,13 @@ Profiles: Laura, Samuele, Arianna, Leonardo, lorenzo
 Country: IT
 Since: marzo 2018
 
-Token: BgiQvuvcAxLCAbwc3pFQ0rL/u5gpK40Bqk49DnqOco4RB90A4AyNQMUn5rZqSWBDxZ6n8VLX0Sg5hXgm81lP55c8br02SVfdBDKew4EBVkL2i5HLgR0H2aM/89PTEwBEAzzIb0Q9p4XOfiXUx51TFlMUzglQnGeYPligYgrAVC6VtPYnLcbojS9lAUodyxuHIkeRCalN3h6Dv8chydVjKl4uk9TKGxXxMq/RyviEI6 4nkE1GioX9LkbSm5N48NNKwbSQH7gMvacxcKoGAYiDgoMQn3Qy5ZigPE95prt
+Token: BgiQvuvcAxLCAcs2hkJroFxnIe4UVUlOYUor0p8lcnj3NHdtoSYf0Uv1xcL00Iq eiiYXhmFukXCsI23tDitNNtXcW7DlZC0/BVEMkZLbNOLkiGGg1n6IJo6QdhAMvzYIMcbpnLThBNW/Y1IR3 WQT5fjpqDPbs/kS6gkYfx3IXeSddTi6tjwxd5onQrasWmNtr0pkmrixT9KZo3Ww4mE1AZSlwGDE4zykvualK0IN6BQqPD1RpFNB3IpXIBB8ngAnv tGMa0ilbqaVxGAYiDgoMWysi9lFJcUGxFe8z
 
-Direct Watch: https://netflix.com/?nftoken=BgiQvuvcAxLCAbwc3pFQ0rL/u5gpK40Bqk49DnqOco4RB90A4AyNQMUn5rZqSWBDxZ6n8VLX0Sg5hXgm81lP55c8br02SVfdBDKew4EBVkL2i5HLgR0H2aM/89PTEwBEAzzIb0Q9p4XOfiXUx51TFlMUzglQnGeYPligYgrAVC6VtPYnLcbojS9lAUodyxuHIkeRCalN3h6Dv8chydVjKl4uk9TKGxXxMq/RyviEI6+4nkE1GioX9LkbSm5N48NNKwbSQH7gMvacxcKoGAYiDgoMQn3Qy5ZigPE95prt
-
-Mobile Watch: To use mobile apps you need to copy the Direct Watch link and paste it to your mobile Chrome browser and enter. After you enter and open the account in the browser, change the link to https://netflix.com/unsupported. It will suggest to open the app; click that and it will direct you to the mobile app smoothly.
-
-TV Watch: https://netflix.com/tv2?nftoken=BgiQvuvcAxLCAbwc3pFQ0rL/u5gpK40Bqk49DnqOco4RB90A4AyNQMUn5rZqSWBDxZ6n8VLX0Sg5hXgm81lP55c8br02SVfdBDKew4EBVkL2i5HLgR0H2aM/89PTEwBEAzzIb0Q9p4XOfiXUx51TFlMUzglQnGeYPligYgrAVC6VtPYnLcbojS9lAUodyxuHIkeRCalN3h6Dv8chydVjKl4uk9TKGxXxMq/RyviEI6+4nkE1GioX9LkbSm5N48NNKwbSQH7gMvacxcKoGAYiDgoMQn3Qy5ZigPE95prt
-
-========================================
-       ORIGINAL DATA 
-========================================
-
-Email: Laura
-Profiles: Laura, Samuele, Arianna, Leonardo, lorenzo
-Country: IT
-Since: marzo 2018
-
-Token: BgiQvuvcAxLCAUe3uOmQ4TpdhVov/CsKp/dfLCEJq5qQihGiP1i1 eaBdONVW2vbld3F6AqMMarWqg4Lwf5Mp7qFnoa7fSkKJbAm1 74lYfk71 j98NLnDzNRlUghNuh4WltgiOW6xYT3XymXoPdxlLRyI26E plxuQRVUuxxH/dUlcwGxK1250KXxharH9OmwsAWNYs5ae2q1smr wFhAbHQIfUz oDBJP/8Kc9v1H4hg J1o uUaCLIVwxIj4nubP4ypIMxYJTlf rGAYiDgoMZmQ6aEsX/moZCTTe
-
-Direct Watch: https://netflix.com/?nftoken=BgiQvuvcAxLCAUe3uOmQ4TpdhVov/CsKp/dfLCEJq5qQihGiP1i1+eaBdONVW2vbld3F6AqMMarWqg4Lwf5Mp7qFnoa7fSkKJbAm1+74lYfk71+j98NLnDzNRlUghNuh4WltgiOW6xYT3XymXoPdxlLRyI26E+plxuQRVUuxxH/dUlcwGxK1250KXxharH9OmwsAWNYs5ae2q1smr+wFhAbHQIfUz+oDBJP/8Kc9v1H4hg+J1o+uUaCLIVwxIj4nubP4ypIMxYJTlf+rGAYiDgoMZmQ6aEsX/moZCTTe
+Direct Watch: https://netflix.com/?nftoken=BgiQvuvcAxLCAcs2hkJroFxnIe4UVUlOYUor0p8lcnj3NHdtoSYf0Uv1xcL00Iq+eiiYXhmFukXCsI23tDitNNtXcW7DlZC0/BVEMkZLbNOLkiGGg1n6IJo6QdhAMvzYIMcbpnLThBNW/Y1IR3+WQT5fjpqDPbs/kS6gkYfx3IXeSddTi6tjwxd5onQrasWmNtr0pkmrixT9KZo3Ww4mE1AZSlwGDE4zykvualK0IN6BQqPD1RpFNB3IpXIBB8ngAnv+tGMa0ilbqaVxGAYiDgoMWysi9lFJcUGxFe8z
 
 Mobile Watch: To use mobile apps you need to copy the Direct Watch link and paste it to your mobile Chrome browser and enter. After you enter and open the account in the browser, change the link to https://netflix.com/unsupported. It will suggest to open the app; click that and it will direct you to the mobile app smoothly.
 
-TV Watch: https://netflix.com/tv2?nftoken=BgiQvuvcAxLCAUe3uOmQ4TpdhVov/CsKp/dfLCEJq5qQihGiP1i1+eaBdONVW2vbld3F6AqMMarWqg4Lwf5Mp7qFnoa7fSkKJbAm1+74lYfk71+j98NLnDzNRlUghNuh4WltgiOW6xYT3XymXoPdxlLRyI26E+plxuQRVUuxxH/dUlcwGxK1250KXxharH9OmwsAWNYs5ae2q1smr+wFhAbHQIfUz+oDBJP/8Kc9v1H4hg+J1o+uUaCLIVwxIj4nubP4ypIMxYJTlf+rGAYiDgoMZmQ6aEsX/moZCTTe
+TV Watch: https://netflix.com/tv2?nftoken=BgiQvuvcAxLCAcs2hkJroFxnIe4UVUlOYUor0p8lcnj3NHdtoSYf0Uv1xcL00Iq+eiiYXhmFukXCsI23tDitNNtXcW7DlZC0/BVEMkZLbNOLkiGGg1n6IJo6QdhAMvzYIMcbpnLThBNW/Y1IR3+WQT5fjpqDPbs/kS6gkYfx3IXeSddTi6tjwxd5onQrasWmNtr0pkmrixT9KZo3Ww4mE1AZSlwGDE4zykvualK0IN6BQqPD1RpFNB3IpXIBB8ngAnv+tGMa0ilbqaVxGAYiDgoMWysi9lFJcUGxFe8z
 
 ========================================
        ORIGINAL DATA 
@@ -56,8 +39,5 @@ t.me/ULPfile
 .netflix.com	TRUE	/	FALSE	1789735512	netflix-sans-normal-3-loaded	true
 .netflix.com	TRUE	/	FALSE	1789735512	pas	%7B%22supplementals%22%3A%7B%22muted%22%3Atrue%7D%7D
 .netflix.com	TRUE	/	FALSE	1790798572	profilesNewSession	0
---------------------------------------------------
-
-
 --------------------------------------------------
 

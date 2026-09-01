@@ -3,30 +3,13 @@ Profiles: parthkishorrana, Sony briva, Parth Dell, aadii, Panda
 Country: IN
 Since: September 2025
 
-Token: BgiQvuvcAxLCAUKeMpbMZt hgKXOaI38yZVFd2o72Xi/Kztyl54CFty1Ep2rw2mkQRmiPF55nqbd6XID0tpIxiSrIRDs63bRGSB7svnXBBx/O1G9N6njj7a47EqQHtPxMVLz3INLkY8SCFZfPoJn9yI6B0a zafTLEkCTPgoVnUh4GC0My4MrJqGY3l5ylQYmdNBG/VkbzlRtFOuPlIY/QTGFqS7kWoOwkoFXTkhG2qc0PSIS3SOmmEhCu3O WW8XLNBOuMxvBLTq4AwGAYiDgoMEklt2mSffN2R9OWF
+Token: BgiQvuvcAxLCAWj5f47piyePU/zqNpkNw tPCM4aOYZi7SYutaoCSRxKbSUwCTDZnASrwNMwt1429CJvRFWdLhwKFyuTwBNWEgdBuhVgldl0RbYT8Vy1OUhPjH/BGyKtUrPZV3mohCjFMTsQqebmGKstCPVQBxU7QSmx1S6rY37sC/gYjiIFwf AMGVMoDNZhiHaSLrqYChx0YGPws/LezexxamV2XH4TmY5Axcmc7MH7pEYNd l1et1epm9p3D60asFf56vVOhNPqb4GAYiDgoMW6cHH dK55GjI6XS
 
-Direct Watch: https://netflix.com/?nftoken=BgiQvuvcAxLCAUKeMpbMZt+hgKXOaI38yZVFd2o72Xi/Kztyl54CFty1Ep2rw2mkQRmiPF55nqbd6XID0tpIxiSrIRDs63bRGSB7svnXBBx/O1G9N6njj7a47EqQHtPxMVLz3INLkY8SCFZfPoJn9yI6B0a+zafTLEkCTPgoVnUh4GC0My4MrJqGY3l5ylQYmdNBG/VkbzlRtFOuPlIY/QTGFqS7kWoOwkoFXTkhG2qc0PSIS3SOmmEhCu3O+WW8XLNBOuMxvBLTq4AwGAYiDgoMEklt2mSffN2R9OWF
-
-Mobile Watch: To use mobile apps you need to copy the Direct Watch link and paste it to your mobile Chrome browser and enter. After you enter and open the account in the browser, change the link to https://netflix.com/unsupported. It will suggest to open the app; click that and it will direct you to the mobile app smoothly.
-
-TV Watch: https://netflix.com/tv2?nftoken=BgiQvuvcAxLCAUKeMpbMZt+hgKXOaI38yZVFd2o72Xi/Kztyl54CFty1Ep2rw2mkQRmiPF55nqbd6XID0tpIxiSrIRDs63bRGSB7svnXBBx/O1G9N6njj7a47EqQHtPxMVLz3INLkY8SCFZfPoJn9yI6B0a+zafTLEkCTPgoVnUh4GC0My4MrJqGY3l5ylQYmdNBG/VkbzlRtFOuPlIY/QTGFqS7kWoOwkoFXTkhG2qc0PSIS3SOmmEhCu3O+WW8XLNBOuMxvBLTq4AwGAYiDgoMEklt2mSffN2R9OWF
-
-========================================
-       ORIGINAL DATA 
-========================================
-
-Email: parthkishorrana
-Profiles: parthkishorrana, Sony briva, Parth Dell, aadii, Panda
-Country: IN
-Since: September 2025
-
-Token: BgiQvuvcAxLCARiDfB6N1OhHn9FR8vq1zUCWHWUGDcaQd5QYB62GV/EohuRnbUKS028MQTh93FbGNlzuwFVdfJjK6EEoXEusF6YS6unLPk15s7tydYoCbaVYZr3s b62E79jFUQ2WQgsu8RajxuONKudJUuW2DHCHd3kUdTTt6ZANHb2lLVQvGCHwVUyx8GUb2Kh0BZn8gSuRDWtkmnMA4H9QZ8ch4IznzsffmmW8mEeqtXHKamRbbnlXDH49v5ggqQsEpqp1hP8mwdTGAYiDgoMRw8GVQs4wDcVQwlu
-
-Direct Watch: https://netflix.com/?nftoken=BgiQvuvcAxLCARiDfB6N1OhHn9FR8vq1zUCWHWUGDcaQd5QYB62GV/EohuRnbUKS028MQTh93FbGNlzuwFVdfJjK6EEoXEusF6YS6unLPk15s7tydYoCbaVYZr3s+b62E79jFUQ2WQgsu8RajxuONKudJUuW2DHCHd3kUdTTt6ZANHb2lLVQvGCHwVUyx8GUb2Kh0BZn8gSuRDWtkmnMA4H9QZ8ch4IznzsffmmW8mEeqtXHKamRbbnlXDH49v5ggqQsEpqp1hP8mwdTGAYiDgoMRw8GVQs4wDcVQwlu
+Direct Watch: https://netflix.com/?nftoken=BgiQvuvcAxLCAWj5f47piyePU/zqNpkNw+tPCM4aOYZi7SYutaoCSRxKbSUwCTDZnASrwNMwt1429CJvRFWdLhwKFyuTwBNWEgdBuhVgldl0RbYT8Vy1OUhPjH/BGyKtUrPZV3mohCjFMTsQqebmGKstCPVQBxU7QSmx1S6rY37sC/gYjiIFwf+AMGVMoDNZhiHaSLrqYChx0YGPws/LezexxamV2XH4TmY5Axcmc7MH7pEYNd+l1et1epm9p3D60asFf56vVOhNPqb4GAYiDgoMW6cHH+dK55GjI6XS
 
 Mobile Watch: To use mobile apps you need to copy the Direct Watch link and paste it to your mobile Chrome browser and enter. After you enter and open the account in the browser, change the link to https://netflix.com/unsupported. It will suggest to open the app; click that and it will direct you to the mobile app smoothly.
 
-TV Watch: https://netflix.com/tv2?nftoken=BgiQvuvcAxLCARiDfB6N1OhHn9FR8vq1zUCWHWUGDcaQd5QYB62GV/EohuRnbUKS028MQTh93FbGNlzuwFVdfJjK6EEoXEusF6YS6unLPk15s7tydYoCbaVYZr3s+b62E79jFUQ2WQgsu8RajxuONKudJUuW2DHCHd3kUdTTt6ZANHb2lLVQvGCHwVUyx8GUb2Kh0BZn8gSuRDWtkmnMA4H9QZ8ch4IznzsffmmW8mEeqtXHKamRbbnlXDH49v5ggqQsEpqp1hP8mwdTGAYiDgoMRw8GVQs4wDcVQwlu
+TV Watch: https://netflix.com/tv2?nftoken=BgiQvuvcAxLCAWj5f47piyePU/zqNpkNw+tPCM4aOYZi7SYutaoCSRxKbSUwCTDZnASrwNMwt1429CJvRFWdLhwKFyuTwBNWEgdBuhVgldl0RbYT8Vy1OUhPjH/BGyKtUrPZV3mohCjFMTsQqebmGKstCPVQBxU7QSmx1S6rY37sC/gYjiIFwf+AMGVMoDNZhiHaSLrqYChx0YGPws/LezexxamV2XH4TmY5Axcmc7MH7pEYNd+l1et1epm9p3D60asFf56vVOhNPqb4GAYiDgoMW6cHH+dK55GjI6XS
 
 ========================================
        ORIGINAL DATA 
@@ -55,8 +38,5 @@ t.me/ULPfile
 .netflix.com	TRUE	/	FALSE	1791477671	netflix-sans-normal-3-loaded	true
 .netflix.com	TRUE	/	FALSE	1791477671	pas	%7B%22supplementals%22%3A%7B%22muted%22%3Afalse%7D%7D
 .netflix.com	TRUE	/	FALSE	1790798572	profilesNewSession	0
---------------------------------------------------
-
-
 --------------------------------------------------
 

@@ -3,30 +3,13 @@ Profiles: Manjeet, Rashika, Shiva, Crax
 Country: IN
 Since: March 2022
 
-Token: BgiQvuvcAxLCAQWeAUacrL rrhjE2gasapZK2wx8RhbYdCtgo3oxOJmbs75/6X nmy5JwL6z0p0 K tbILV95VGop5BqO4435AM8zPme6U5udcJ5eYzKBOfdzog8514JJ7HTG5OHcgyQ9N92vXQ6sJODisQutX0LNprTgKdEdpJXHtheaPff5F5zcm0uNZgHdeyjF0VDkmg/enTzmAHT9R5uVeEiqqk687Qw38wdnwqf2t1mNNrtnlM/DZ/gavsaZ7bKUtGvQUMrVmuqGAYiDgoM5JXm8A2V2szLD84N
+Token: BgiQvuvcAxLCAWtwJklZOdITdoKxY1pAfERLXcNPqiPJf5sG86nKpAMVQ0d34WTScrWbMp0BJ1TPfQuq seW2uy1TaxiYKDxp1wzxrQOik/oRrAFc24R7COxb657HxExdQ1LAHsc1jHEFUmWQ6K9pgM8 LNo7ZWszyVSt5qVLMnPJTmJ9d3cThWD3c/2jWzcHc6Uk/N8n8mZguXLaqFKay0/pTxeBgDO/e0Bx1VDXgJrB16 WQVr3c79pHpXJZp/L2pQ97wnGgPFuk6EGAYiDgoMfhXhwVpQ2Qq4UYjH
 
-Direct Watch: https://netflix.com/?nftoken=BgiQvuvcAxLCAQWeAUacrL+rrhjE2gasapZK2wx8RhbYdCtgo3oxOJmbs75/6X+nmy5JwL6z0p0+K+tbILV95VGop5BqO4435AM8zPme6U5udcJ5eYzKBOfdzog8514JJ7HTG5OHcgyQ9N92vXQ6sJODisQutX0LNprTgKdEdpJXHtheaPff5F5zcm0uNZgHdeyjF0VDkmg/enTzmAHT9R5uVeEiqqk687Qw38wdnwqf2t1mNNrtnlM/DZ/gavsaZ7bKUtGvQUMrVmuqGAYiDgoM5JXm8A2V2szLD84N
-
-Mobile Watch: To use mobile apps you need to copy the Direct Watch link and paste it to your mobile Chrome browser and enter. After you enter and open the account in the browser, change the link to https://netflix.com/unsupported. It will suggest to open the app; click that and it will direct you to the mobile app smoothly.
-
-TV Watch: https://netflix.com/tv2?nftoken=BgiQvuvcAxLCAQWeAUacrL+rrhjE2gasapZK2wx8RhbYdCtgo3oxOJmbs75/6X+nmy5JwL6z0p0+K+tbILV95VGop5BqO4435AM8zPme6U5udcJ5eYzKBOfdzog8514JJ7HTG5OHcgyQ9N92vXQ6sJODisQutX0LNprTgKdEdpJXHtheaPff5F5zcm0uNZgHdeyjF0VDkmg/enTzmAHT9R5uVeEiqqk687Qw38wdnwqf2t1mNNrtnlM/DZ/gavsaZ7bKUtGvQUMrVmuqGAYiDgoM5JXm8A2V2szLD84N
-
-========================================
-       ORIGINAL DATA 
-========================================
-
-Email: Manjeet
-Profiles: Manjeet, Rashika, Shiva, Crax
-Country: IN
-Since: March 2022
-
-Token: BgiQvuvcAxLCAfUeDt6a3hcucRA5kq4X31q3DJAfLpcMaaRfFlM z0mcl9adsLDSykH9Z6JkaO9hRpT8xa2YOQCRMc9fnvF4HC4JK4lckUCi00PxAoKxCyY7XfquwT2SoCEhblb9QEnC4uj2yggGWIwxFPDmwod0GdZxvWQeFJ9XGyrQdfJ7NpvoyWDopW6OwwmZRXJZuB9n0Aj DjaMrXY91iHkcXXJjbp4zq8kJHXiLtptfsozxfsIshAr/FrxqME69IMMfC/ DyWWGAYiDgoMqossQECOwl60CCWY
-
-Direct Watch: https://netflix.com/?nftoken=BgiQvuvcAxLCAfUeDt6a3hcucRA5kq4X31q3DJAfLpcMaaRfFlM+z0mcl9adsLDSykH9Z6JkaO9hRpT8xa2YOQCRMc9fnvF4HC4JK4lckUCi00PxAoKxCyY7XfquwT2SoCEhblb9QEnC4uj2yggGWIwxFPDmwod0GdZxvWQeFJ9XGyrQdfJ7NpvoyWDopW6OwwmZRXJZuB9n0Aj+DjaMrXY91iHkcXXJjbp4zq8kJHXiLtptfsozxfsIshAr/FrxqME69IMMfC/+DyWWGAYiDgoMqossQECOwl60CCWY
+Direct Watch: https://netflix.com/?nftoken=BgiQvuvcAxLCAWtwJklZOdITdoKxY1pAfERLXcNPqiPJf5sG86nKpAMVQ0d34WTScrWbMp0BJ1TPfQuq+seW2uy1TaxiYKDxp1wzxrQOik/oRrAFc24R7COxb657HxExdQ1LAHsc1jHEFUmWQ6K9pgM8+LNo7ZWszyVSt5qVLMnPJTmJ9d3cThWD3c/2jWzcHc6Uk/N8n8mZguXLaqFKay0/pTxeBgDO/e0Bx1VDXgJrB16+WQVr3c79pHpXJZp/L2pQ97wnGgPFuk6EGAYiDgoMfhXhwVpQ2Qq4UYjH
 
 Mobile Watch: To use mobile apps you need to copy the Direct Watch link and paste it to your mobile Chrome browser and enter. After you enter and open the account in the browser, change the link to https://netflix.com/unsupported. It will suggest to open the app; click that and it will direct you to the mobile app smoothly.
 
-TV Watch: https://netflix.com/tv2?nftoken=BgiQvuvcAxLCAfUeDt6a3hcucRA5kq4X31q3DJAfLpcMaaRfFlM+z0mcl9adsLDSykH9Z6JkaO9hRpT8xa2YOQCRMc9fnvF4HC4JK4lckUCi00PxAoKxCyY7XfquwT2SoCEhblb9QEnC4uj2yggGWIwxFPDmwod0GdZxvWQeFJ9XGyrQdfJ7NpvoyWDopW6OwwmZRXJZuB9n0Aj+DjaMrXY91iHkcXXJjbp4zq8kJHXiLtptfsozxfsIshAr/FrxqME69IMMfC/+DyWWGAYiDgoMqossQECOwl60CCWY
+TV Watch: https://netflix.com/tv2?nftoken=BgiQvuvcAxLCAWtwJklZOdITdoKxY1pAfERLXcNPqiPJf5sG86nKpAMVQ0d34WTScrWbMp0BJ1TPfQuq+seW2uy1TaxiYKDxp1wzxrQOik/oRrAFc24R7COxb657HxExdQ1LAHsc1jHEFUmWQ6K9pgM8+LNo7ZWszyVSt5qVLMnPJTmJ9d3cThWD3c/2jWzcHc6Uk/N8n8mZguXLaqFKay0/pTxeBgDO/e0Bx1VDXgJrB16+WQVr3c79pHpXJZp/L2pQ97wnGgPFuk6EGAYiDgoMfhXhwVpQ2Qq4UYjH
 
 ========================================
        ORIGINAL DATA 
@@ -53,8 +36,5 @@ t.me/ULPfile
 .netflix.com	TRUE	/	FALSE	1790798572	netflix-sans-normal-3-loaded	true
 .netflix.com	TRUE	/	FALSE	1804176302	OptanonConsent	isGpcEnabled=0&datestamp=Wed+Mar+04+2026+21%3A35%3A02+GMT%2B0530+(India+Standard+Time)&version=202601.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=f5ae510f-be88-4ef0-8182-dcd1d799996c&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&AwaitingReconsent=false&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1
 .netflix.com	TRUE	/	FALSE	1790798572	profilesNewSession	0
---------------------------------------------------
-
-
 --------------------------------------------------
 

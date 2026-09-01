@@ -3,30 +3,13 @@ Profiles: 215puranchauhan98, Abhishek, ZORO, Rohan, Children
 Country: IN
 Since: September 2022
 
-Token: BgiQvuvcAxLDAbr94CSdfniq/jEKi4/oDWFx3 Ytxt39WDmrIAPKgrgp6IYZMVw9OciCp48m7mOsVpIBmbN6p7zQPPyIly5EaW4bTikRqTeMLbmrrlcOL1Mw3tzeRFx9pauJoPNs/Tv5 7xits 59Z7mFSL0RDr4uEk9Z8uYPKk0gPtGsVFaTMUFxBwxWC9g0mtyzV2KKaBVFv nwjqSz3GxRveMME24 RBTAMyBLrC/bgST0TRfAMFclMIsWWiA0EQVvsI35w8lEK0oWBgGIg4KDKt6lNRk/Iqx3SAb3w==
+Token: BgiQvuvcAxLDAdE0RmZLH w4EFd46vJ3/YEZsEf6ItIKNNCD24E6pM979s/LBaNtQHZCqvmFuemUcXl1cndnxY5BRQuvdOTdgaKOi312z2BL9zxNsqqEz2JkwRnXts9LxQVLXz1EuZcnfRwN2UrxVbj/vx37lxS07SclxqQTwtIwZnK2VHjAf8fNKK8C0SNVp DOKLbKizPb5Qd/vjilaJof8Mzl6FAwp4gAhDN 2jDuKLr9DB0I0guVCCkaXXJETrrevJOmVyANU3SWNhgGIg4KDCiKvxPNm7FpiemrZw==
 
-Direct Watch: https://netflix.com/?nftoken=BgiQvuvcAxLDAbr94CSdfniq/jEKi4/oDWFx3+Ytxt39WDmrIAPKgrgp6IYZMVw9OciCp48m7mOsVpIBmbN6p7zQPPyIly5EaW4bTikRqTeMLbmrrlcOL1Mw3tzeRFx9pauJoPNs/Tv5+7xits+59Z7mFSL0RDr4uEk9Z8uYPKk0gPtGsVFaTMUFxBwxWC9g0mtyzV2KKaBVFv+nwjqSz3GxRveMME24+RBTAMyBLrC/bgST0TRfAMFclMIsWWiA0EQVvsI35w8lEK0oWBgGIg4KDKt6lNRk/Iqx3SAb3w==
-
-Mobile Watch: To use mobile apps you need to copy the Direct Watch link and paste it to your mobile Chrome browser and enter. After you enter and open the account in the browser, change the link to https://netflix.com/unsupported. It will suggest to open the app; click that and it will direct you to the mobile app smoothly.
-
-TV Watch: https://netflix.com/tv2?nftoken=BgiQvuvcAxLDAbr94CSdfniq/jEKi4/oDWFx3+Ytxt39WDmrIAPKgrgp6IYZMVw9OciCp48m7mOsVpIBmbN6p7zQPPyIly5EaW4bTikRqTeMLbmrrlcOL1Mw3tzeRFx9pauJoPNs/Tv5+7xits+59Z7mFSL0RDr4uEk9Z8uYPKk0gPtGsVFaTMUFxBwxWC9g0mtyzV2KKaBVFv+nwjqSz3GxRveMME24+RBTAMyBLrC/bgST0TRfAMFclMIsWWiA0EQVvsI35w8lEK0oWBgGIg4KDKt6lNRk/Iqx3SAb3w==
-
-========================================
-       ORIGINAL DATA 
-========================================
-
-Email: 215puranchauhan98
-Profiles: 215puranchauhan98, Abhishek, ZORO, Rohan, Children
-Country: IN
-Since: September 2022
-
-Token: BgiQvuvcAxLDAVrBwX39eac5ZuKFylz0MXoFz6UuooycvJdxTLvX/nG9sI7KvGIcH9SsteBQY8EsdUJeSecDvvVMyjTFPgLDXO98rff0gbwheE BEwU26qWxbEzIGYju6h54dDoCIanCFvJMTYCjkVXhoscnYlG9Q/0IqmzdYq2Mma6gYMd/sxeugp1Q1jo5JVzzO9/wvUFqMroSLlPXtsgYtNylUqgV3ed6NFjL2WwVuh lpWhkgB3Mh2Vwk1lQBkZcOhUn5L2OD2gvPhgGIg4KDBAean8luZu8uJr5JA==
-
-Direct Watch: https://netflix.com/?nftoken=BgiQvuvcAxLDAVrBwX39eac5ZuKFylz0MXoFz6UuooycvJdxTLvX/nG9sI7KvGIcH9SsteBQY8EsdUJeSecDvvVMyjTFPgLDXO98rff0gbwheE+BEwU26qWxbEzIGYju6h54dDoCIanCFvJMTYCjkVXhoscnYlG9Q/0IqmzdYq2Mma6gYMd/sxeugp1Q1jo5JVzzO9/wvUFqMroSLlPXtsgYtNylUqgV3ed6NFjL2WwVuh+lpWhkgB3Mh2Vwk1lQBkZcOhUn5L2OD2gvPhgGIg4KDBAean8luZu8uJr5JA==
+Direct Watch: https://netflix.com/?nftoken=BgiQvuvcAxLDAdE0RmZLH+w4EFd46vJ3/YEZsEf6ItIKNNCD24E6pM979s/LBaNtQHZCqvmFuemUcXl1cndnxY5BRQuvdOTdgaKOi312z2BL9zxNsqqEz2JkwRnXts9LxQVLXz1EuZcnfRwN2UrxVbj/vx37lxS07SclxqQTwtIwZnK2VHjAf8fNKK8C0SNVp+DOKLbKizPb5Qd/vjilaJof8Mzl6FAwp4gAhDN+2jDuKLr9DB0I0guVCCkaXXJETrrevJOmVyANU3SWNhgGIg4KDCiKvxPNm7FpiemrZw==
 
 Mobile Watch: To use mobile apps you need to copy the Direct Watch link and paste it to your mobile Chrome browser and enter. After you enter and open the account in the browser, change the link to https://netflix.com/unsupported. It will suggest to open the app; click that and it will direct you to the mobile app smoothly.
 
-TV Watch: https://netflix.com/tv2?nftoken=BgiQvuvcAxLDAVrBwX39eac5ZuKFylz0MXoFz6UuooycvJdxTLvX/nG9sI7KvGIcH9SsteBQY8EsdUJeSecDvvVMyjTFPgLDXO98rff0gbwheE+BEwU26qWxbEzIGYju6h54dDoCIanCFvJMTYCjkVXhoscnYlG9Q/0IqmzdYq2Mma6gYMd/sxeugp1Q1jo5JVzzO9/wvUFqMroSLlPXtsgYtNylUqgV3ed6NFjL2WwVuh+lpWhkgB3Mh2Vwk1lQBkZcOhUn5L2OD2gvPhgGIg4KDBAean8luZu8uJr5JA==
+TV Watch: https://netflix.com/tv2?nftoken=BgiQvuvcAxLDAdE0RmZLH+w4EFd46vJ3/YEZsEf6ItIKNNCD24E6pM979s/LBaNtQHZCqvmFuemUcXl1cndnxY5BRQuvdOTdgaKOi312z2BL9zxNsqqEz2JkwRnXts9LxQVLXz1EuZcnfRwN2UrxVbj/vx37lxS07SclxqQTwtIwZnK2VHjAf8fNKK8C0SNVp+DOKLbKizPb5Qd/vjilaJof8Mzl6FAwp4gAhDN+2jDuKLr9DB0I0guVCCkaXXJETrrevJOmVyANU3SWNhgGIg4KDCiKvxPNm7FpiemrZw==
 
 ========================================
        ORIGINAL DATA 
@@ -51,8 +34,5 @@ t.me/ULPfile
 .netflix.com	TRUE	/	TRUE	1809684251	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABSKuJQbIktey2YZ6iKxlCp2BAKDMHVs884.%26dt%3D1778148251591
 .netflix.com	TRUE	/	FALSE	1790798572	netflix-sans-bold-3-loaded	true
 .netflix.com	TRUE	/	FALSE	1790798572	netflix-sans-normal-3-loaded	true
---------------------------------------------------
-
-
 --------------------------------------------------
 

@@ -3,30 +3,13 @@ Profiles: vimlasharma7162, arun, Children
 Country: IN
 Since: julio de 2025
 
-Token: BgiQvuvcAxLCAedzrv90vO7uCWmI15ZgrB3Yp3nGDUEUVo9lvU1t6UJSrgdcUTl1WVZFGczybOGu0szGrAy0URog4/2leNoNYSJuWv0KJ/C8QSokABDqUQD5nT RyciRt1t5zJeGl86TXDrUnGhimGHHeUFbJJEmBPnLKH5pG18px N9LUqOtLlPAd1 sAiQvt2V0JFdu6Z22zzeO2VDCS3T8igJs8M4hOLDshgpiNwQuHWfjujZ0v3vUgilif9wr5Zt5 6K1SGZdW3PGAYiDgoMcGBeounaGm2/Cyg 
+Token: BgiQvuvcAxLCAZrh uA60sDr7Ug5s0Y1RnCUzwZ9m0bS1E YDzaGAWxbJy9cK04nThz3eIVQLO 3D2x2dust38bKtBWs2nSioapeZPipgnz8D5FxZmObB5d9ivZHXpB6epgiLerP YdGSBDZjjob0Z3cCA47VjmrTyxp8GeK4sgUZB42gpfCw2v9RFvg4KtK9U2dEIjGXMbViUYbEGXUB7EIyK2JaTlCCpi VWFZXj6nXm2qayuhT0EFIaMayoE8hUe/VHY0WVB0Q13EGAYiDgoMDdv57 nbGprw2xmD
 
-Direct Watch: https://netflix.com/?nftoken=BgiQvuvcAxLCAedzrv90vO7uCWmI15ZgrB3Yp3nGDUEUVo9lvU1t6UJSrgdcUTl1WVZFGczybOGu0szGrAy0URog4/2leNoNYSJuWv0KJ/C8QSokABDqUQD5nT+RyciRt1t5zJeGl86TXDrUnGhimGHHeUFbJJEmBPnLKH5pG18px+N9LUqOtLlPAd1+sAiQvt2V0JFdu6Z22zzeO2VDCS3T8igJs8M4hOLDshgpiNwQuHWfjujZ0v3vUgilif9wr5Zt5+6K1SGZdW3PGAYiDgoMcGBeounaGm2/Cyg+
-
-Mobile Watch: To use mobile apps you need to copy the Direct Watch link and paste it to your mobile Chrome browser and enter. After you enter and open the account in the browser, change the link to https://netflix.com/unsupported. It will suggest to open the app; click that and it will direct you to the mobile app smoothly.
-
-TV Watch: https://netflix.com/tv2?nftoken=BgiQvuvcAxLCAedzrv90vO7uCWmI15ZgrB3Yp3nGDUEUVo9lvU1t6UJSrgdcUTl1WVZFGczybOGu0szGrAy0URog4/2leNoNYSJuWv0KJ/C8QSokABDqUQD5nT+RyciRt1t5zJeGl86TXDrUnGhimGHHeUFbJJEmBPnLKH5pG18px+N9LUqOtLlPAd1+sAiQvt2V0JFdu6Z22zzeO2VDCS3T8igJs8M4hOLDshgpiNwQuHWfjujZ0v3vUgilif9wr5Zt5+6K1SGZdW3PGAYiDgoMcGBeounaGm2/Cyg+
-
-========================================
-       ORIGINAL DATA 
-========================================
-
-Email: vimlasharma7162
-Profiles: vimlasharma7162, arun, Children
-Country: IN
-Since: julio de 2025
-
-Token: BgiQvuvcAxLCAXRy6lAfmmBZjMWpSdc8ZwDanl92EaeEDpBjgPAb/2sjQfapOqNNZenbWWlMdcL/j8uEC2TD0yx4PbjQAIkJjxEkMjg9gWmVYFAMF5QDdwLxQtbqLBu/Tl2ZZPinkyd8iTSUTyMx3h6g1bxtYM6C5zsPI17VEmVobjMc1hzqI aF8w yoIJG3Bhn9xPLEfC4MjHfCOAJDxlml9x5Q/JQK o1L49O gJNVjzed03uGzi7KM04/2RJLTh9ne32fuy7ZhCyGAYiDgoM04SBTbt17o5HzF0/
-
-Direct Watch: https://netflix.com/?nftoken=BgiQvuvcAxLCAXRy6lAfmmBZjMWpSdc8ZwDanl92EaeEDpBjgPAb/2sjQfapOqNNZenbWWlMdcL/j8uEC2TD0yx4PbjQAIkJjxEkMjg9gWmVYFAMF5QDdwLxQtbqLBu/Tl2ZZPinkyd8iTSUTyMx3h6g1bxtYM6C5zsPI17VEmVobjMc1hzqI+aF8w+yoIJG3Bhn9xPLEfC4MjHfCOAJDxlml9x5Q/JQK+o1L49O+gJNVjzed03uGzi7KM04/2RJLTh9ne32fuy7ZhCyGAYiDgoM04SBTbt17o5HzF0/
+Direct Watch: https://netflix.com/?nftoken=BgiQvuvcAxLCAZrh+uA60sDr7Ug5s0Y1RnCUzwZ9m0bS1E+YDzaGAWxbJy9cK04nThz3eIVQLO+3D2x2dust38bKtBWs2nSioapeZPipgnz8D5FxZmObB5d9ivZHXpB6epgiLerP+YdGSBDZjjob0Z3cCA47VjmrTyxp8GeK4sgUZB42gpfCw2v9RFvg4KtK9U2dEIjGXMbViUYbEGXUB7EIyK2JaTlCCpi+VWFZXj6nXm2qayuhT0EFIaMayoE8hUe/VHY0WVB0Q13EGAYiDgoMDdv57+nbGprw2xmD
 
 Mobile Watch: To use mobile apps you need to copy the Direct Watch link and paste it to your mobile Chrome browser and enter. After you enter and open the account in the browser, change the link to https://netflix.com/unsupported. It will suggest to open the app; click that and it will direct you to the mobile app smoothly.
 
-TV Watch: https://netflix.com/tv2?nftoken=BgiQvuvcAxLCAXRy6lAfmmBZjMWpSdc8ZwDanl92EaeEDpBjgPAb/2sjQfapOqNNZenbWWlMdcL/j8uEC2TD0yx4PbjQAIkJjxEkMjg9gWmVYFAMF5QDdwLxQtbqLBu/Tl2ZZPinkyd8iTSUTyMx3h6g1bxtYM6C5zsPI17VEmVobjMc1hzqI+aF8w+yoIJG3Bhn9xPLEfC4MjHfCOAJDxlml9x5Q/JQK+o1L49O+gJNVjzed03uGzi7KM04/2RJLTh9ne32fuy7ZhCyGAYiDgoM04SBTbt17o5HzF0/
+TV Watch: https://netflix.com/tv2?nftoken=BgiQvuvcAxLCAZrh+uA60sDr7Ug5s0Y1RnCUzwZ9m0bS1E+YDzaGAWxbJy9cK04nThz3eIVQLO+3D2x2dust38bKtBWs2nSioapeZPipgnz8D5FxZmObB5d9ivZHXpB6epgiLerP+YdGSBDZjjob0Z3cCA47VjmrTyxp8GeK4sgUZB42gpfCw2v9RFvg4KtK9U2dEIjGXMbViUYbEGXUB7EIyK2JaTlCCpi+VWFZXj6nXm2qayuhT0EFIaMayoE8hUe/VHY0WVB0Q13EGAYiDgoMDdv57+nbGprw2xmD
 
 ========================================
        ORIGINAL DATA 
@@ -53,8 +36,5 @@ t.me/ULPfile
 .netflix.com	TRUE	/	FALSE	1790798572	netflix-sans-bold-3-loaded	true
 .netflix.com	TRUE	/	FALSE	1790798572	netflix-sans-normal-3-loaded	true
 .netflix.com	TRUE	/	FALSE	1790798572	pas	%7B%22supplementals%22%3A%7B%22muted%22%3Afalse%7D%7D
---------------------------------------------------
-
-
 --------------------------------------------------
 

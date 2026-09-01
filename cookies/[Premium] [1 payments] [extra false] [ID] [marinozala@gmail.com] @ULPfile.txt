@@ -3,30 +3,13 @@ Profiles: marinozala, Lann, Kids
 Country: ID
 Since: July 2025
 
-Token: BgiQvuvcAxLCAYu2WwukPgF/pVqAntUhtrg2 5wqMIa26rJaTsfTpajQ1wBswLUVDMs2dvK4nyYOM4D3ebKPZG2MuRGxZcaueUeyIGmDq4bqzXqvNcDoSfAeFF2UGjea ZgYB3asq8WuRx4QhKkYG6tW7YgKzPxJ7Rjw0n0KSpbieLGW9 C3Kpbe5gkCEWMfF3Mb/KEoQJRK335H86gKupWGwWjRjbCHBa5YtmjJJp/UcZGgNleqt7bQi7Q9dpTQJw2g0oyFjbKyoiYHGAYiDgoMq3qrzVlJRA6qcNCa
+Token: BgiQvuvcAxLCAXVCps/U8P8gXqcXsTDuzPMYhyIcnlbqdFekaV9U1hmlbD7CckRn9Wrm0Y9Pw7n6EcT79uUL1hSu3APVXJnYteYeuziVGMXjtRBgqsqWu8y iuAW3/GliJnw2t7hs2Ich67HeGIQQXKfN52FKaJIqwkluN6MN8RZeq/MfbLIIaQf1aMkRqSLWXitzX8Cf3A4CsXL4UzJzU8IIGjtTUJTom98aial0kMGjk1TjsoCLTpfUDYXm40t0vcPeZxGoAmxOhPRGAYiDgoMe7pPMxrsoROkQY9Y
 
-Direct Watch: https://netflix.com/?nftoken=BgiQvuvcAxLCAYu2WwukPgF/pVqAntUhtrg2+5wqMIa26rJaTsfTpajQ1wBswLUVDMs2dvK4nyYOM4D3ebKPZG2MuRGxZcaueUeyIGmDq4bqzXqvNcDoSfAeFF2UGjea+ZgYB3asq8WuRx4QhKkYG6tW7YgKzPxJ7Rjw0n0KSpbieLGW9+C3Kpbe5gkCEWMfF3Mb/KEoQJRK335H86gKupWGwWjRjbCHBa5YtmjJJp/UcZGgNleqt7bQi7Q9dpTQJw2g0oyFjbKyoiYHGAYiDgoMq3qrzVlJRA6qcNCa
-
-Mobile Watch: To use mobile apps you need to copy the Direct Watch link and paste it to your mobile Chrome browser and enter. After you enter and open the account in the browser, change the link to https://netflix.com/unsupported. It will suggest to open the app; click that and it will direct you to the mobile app smoothly.
-
-TV Watch: https://netflix.com/tv2?nftoken=BgiQvuvcAxLCAYu2WwukPgF/pVqAntUhtrg2+5wqMIa26rJaTsfTpajQ1wBswLUVDMs2dvK4nyYOM4D3ebKPZG2MuRGxZcaueUeyIGmDq4bqzXqvNcDoSfAeFF2UGjea+ZgYB3asq8WuRx4QhKkYG6tW7YgKzPxJ7Rjw0n0KSpbieLGW9+C3Kpbe5gkCEWMfF3Mb/KEoQJRK335H86gKupWGwWjRjbCHBa5YtmjJJp/UcZGgNleqt7bQi7Q9dpTQJw2g0oyFjbKyoiYHGAYiDgoMq3qrzVlJRA6qcNCa
-
-========================================
-       ORIGINAL DATA 
-========================================
-
-Email: marinozala
-Profiles: marinozala, Kids
-Country: ID
-Since: July 2025
-
-Token: BgiQvuvcAxLCAWK6Fhcnua2oWxSSV5kmnxYTpxCbDeAktRQ5Y5Ps62p9j PemT58vLLp28UNnqgDJORlrgQjG9ifCSbWe4i4vrHryzQgMApcpHXNlNSYPWGpjNpgln9dcPFmocEWFUvz1aryrfRrTM/etW8BQ9 LxCYvj5DLLYEnhFLozXmVDpdLxRCsqQWZsjYsdC1DIXifj98V8ZTqWCjo1NazkY3g1Al3MGNIr7cGPAT3RMFSOe TJnUsBN7kTBt4RqskdFsBnKd4GAYiDgoMLc2NRuxkZMMU51SG
-
-Direct Watch: https://netflix.com/?nftoken=BgiQvuvcAxLCAWK6Fhcnua2oWxSSV5kmnxYTpxCbDeAktRQ5Y5Ps62p9j+PemT58vLLp28UNnqgDJORlrgQjG9ifCSbWe4i4vrHryzQgMApcpHXNlNSYPWGpjNpgln9dcPFmocEWFUvz1aryrfRrTM/etW8BQ9+LxCYvj5DLLYEnhFLozXmVDpdLxRCsqQWZsjYsdC1DIXifj98V8ZTqWCjo1NazkY3g1Al3MGNIr7cGPAT3RMFSOe+TJnUsBN7kTBt4RqskdFsBnKd4GAYiDgoMLc2NRuxkZMMU51SG
+Direct Watch: https://netflix.com/?nftoken=BgiQvuvcAxLCAXVCps/U8P8gXqcXsTDuzPMYhyIcnlbqdFekaV9U1hmlbD7CckRn9Wrm0Y9Pw7n6EcT79uUL1hSu3APVXJnYteYeuziVGMXjtRBgqsqWu8y+iuAW3/GliJnw2t7hs2Ich67HeGIQQXKfN52FKaJIqwkluN6MN8RZeq/MfbLIIaQf1aMkRqSLWXitzX8Cf3A4CsXL4UzJzU8IIGjtTUJTom98aial0kMGjk1TjsoCLTpfUDYXm40t0vcPeZxGoAmxOhPRGAYiDgoMe7pPMxrsoROkQY9Y
 
 Mobile Watch: To use mobile apps you need to copy the Direct Watch link and paste it to your mobile Chrome browser and enter. After you enter and open the account in the browser, change the link to https://netflix.com/unsupported. It will suggest to open the app; click that and it will direct you to the mobile app smoothly.
 
-TV Watch: https://netflix.com/tv2?nftoken=BgiQvuvcAxLCAWK6Fhcnua2oWxSSV5kmnxYTpxCbDeAktRQ5Y5Ps62p9j+PemT58vLLp28UNnqgDJORlrgQjG9ifCSbWe4i4vrHryzQgMApcpHXNlNSYPWGpjNpgln9dcPFmocEWFUvz1aryrfRrTM/etW8BQ9+LxCYvj5DLLYEnhFLozXmVDpdLxRCsqQWZsjYsdC1DIXifj98V8ZTqWCjo1NazkY3g1Al3MGNIr7cGPAT3RMFSOe+TJnUsBN7kTBt4RqskdFsBnKd4GAYiDgoMLc2NRuxkZMMU51SG
+TV Watch: https://netflix.com/tv2?nftoken=BgiQvuvcAxLCAXVCps/U8P8gXqcXsTDuzPMYhyIcnlbqdFekaV9U1hmlbD7CckRn9Wrm0Y9Pw7n6EcT79uUL1hSu3APVXJnYteYeuziVGMXjtRBgqsqWu8y+iuAW3/GliJnw2t7hs2Ich67HeGIQQXKfN52FKaJIqwkluN6MN8RZeq/MfbLIIaQf1aMkRqSLWXitzX8Cf3A4CsXL4UzJzU8IIGjtTUJTom98aial0kMGjk1TjsoCLTpfUDYXm40t0vcPeZxGoAmxOhPRGAYiDgoMe7pPMxrsoROkQY9Y
 
 ========================================
        ORIGINAL DATA 
@@ -51,8 +34,5 @@ t.me/ULPfile
 .netflix.com	TRUE	/	TRUE	1790798572	gsid	d8b90224-e78f-468c-80a0-4df48b91acbc
 .netflix.com	TRUE	/	FALSE	1811425752	nfvdid	BQFmAAEBELhIBkZ5Iu1I8qnlIGhfiNZgvfUo31hHLS7irkvu9oHXcYqdpkmE4sriYZ-NW-W1W-Iue6HE8jXz73l1BnX8gxeWPrgBbybyss3dah3vpYIXjl5qjKFxHoxhiMwKJObvq5vgPKPHfVCROdljeCwZlQFV
 .netflix.com	TRUE	/	FALSE	1790798572	profilesNewSession	0
---------------------------------------------------
-
-
 --------------------------------------------------
 
