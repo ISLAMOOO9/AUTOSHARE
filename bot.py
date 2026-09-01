@@ -2,6 +2,7 @@ import os
 import time
 import re
 import html
+import random
 import requests
 
 # ================= CONFIGURATION =================
@@ -11,20 +12,20 @@ COOKIES_DIR = "./cookies"
 INTERVAL_SECONDS = 2 * 60  # 2 minutes interval between each send
 # =================================================
 
-def is_cookie_valid(file_path):
-    """فحص ملف الكوكيز والتأكد من أنه يحتوي على بيانات سارية وصالحة للاستخدام"""
+def is_cookie_strong_valid(file_path):
+    """فحص قوي وصارم للتأكد أن الكوكيز شغالة وغير تالفة"""
     try:
-        if not os.path.exists(file_path) or os.path.getsize(file_path) == 0:
+        if not os.path.exists(file_path) or os.path.getsize(file_path) < 50:
             return False
             
         with open(file_path, 'r', encoding='utf-8', errors='ignore') as f:
             content = f.read()
 
-        # التأكد من وجود معرّف نتفليكس أو توكن صالح داخل الملف
-        has_netflix_id = bool(re.search(r'NetflixId', content, re.IGNORECASE))
-        has_token = bool(re.search(r'nftoken|token', content, re.IGNORECASE))
-        
-        if not (has_netflix_id or has_token):
+        has_netflix_id = bool(re.search(r'NetflixId\t|\s+NetflixId\s+', content, re.IGNORECASE))
+        has_token = bool(re.search(r'nftoken|token|Secure-FlixId', content, re.IGNORECASE))
+        is_expired = bool(re.search(r'expired|invalid|error|forbidden', content, re.IGNORECASE))
+
+        if not (has_netflix_id or has_token) or is_expired:
             return False
 
         return True
@@ -131,31 +132,50 @@ def add_reaction(message_id):
         pass
 
 def main():
-    print("[*] Automated Cookie Distributor with Validator started.")
+    print("[*] ISLAFLIX Random Secure Bot started.")
     if not os.path.exists(COOKIES_DIR):
         os.makedirs(COOKIES_DIR)
+
+    empty_alert_sent = False
 
     while True:
         files = os.listdir(COOKIES_DIR)
         txt_files = [f for f in files if f.endswith('.txt')]
 
         if not txt_files:
-            print("[i] No cookie files left in the folder. Waiting 2 minutes to check again...")
+            if not empty_alert_sent:
+                alert_msg = """⚠️ ════════════════════════════════════ ⚠️
+🎬 **ISLAFLIX SYSTEM** 🌟
+⏳ **نفدت الحسابات الحالية مؤقتاً!**
+🔄 *انتظرونا قريباً بدفعة حسابات جديدة ومفعلة.*
+
+💬 **Stay tuned for the next drop!**
+⚡ *ISLAFLIX GROUP*
+⚠️ ════════════════════════════════════ ⚠️"""
+                send_to_telegram(alert_msg)
+                print("[i] No cookie files left. Alert sent to group.")
+                empty_alert_sent = True
+
             time.sleep(INTERVAL_SECONDS)
             continue
 
-        file_name = txt_files[0]
+        empty_alert_sent = False
+
+        # اختيار ملف عشوائي من المجلد
+        file_name = random.choice(txt_files)
         file_path = os.path.join(COOKIES_DIR, file_name)
         
-        # الخطوة الذكية: فحص الكوكيز قبل الإرسال
-        if not is_cookie_valid(file_path):
-            print(f"[-] Invalid or dead cookie detected: {file_name}. Deleting it...")
-            os.remove(file_path)
+        # فحص الملف: لو خربان وتالف نحذفه فوراً
+        if not is_cookie_strong_valid(file_path):
+            print(f"[-] Corrupted or dead cookie detected: {file_name}. Deleting...")
+            try:
+                os.remove(file_path)
+            except:
+                pass
             continue
 
-        # حساب عدد الحسابات السارية المتبقية
         total_accounts = len(txt_files)
-        print(f"\n[*] Processing valid file: {file_name} ({total_accounts} accounts in queue)")
+        print(f"\n[*] Processing random verified cookie: {file_name} ({total_accounts} available)")
 
         try:
             email_full, profiles, country_display, plan_type, pc_link, android_link, ios_link, tv_link = parse_cookies_file(file_path)
@@ -164,7 +184,7 @@ def main():
 🎬 **NETFLIX VIP ACCOUNT** 🌟
 🔥 **حسابات متوفرة | Available Accounts:** `{total_accounts}` متبقية
 
-✅ **Status:** Ready For Instant Use
+✅ **Status:** Verified & Active
 📧 **Email:** `{email_full}`
 👥 **Profiles:** {profiles}
 🌍 **Country:** {country_display}
@@ -181,19 +201,19 @@ def main():
             success = send_to_telegram(msg)
             
             if success:
+                # إذا أرسل بنجاح، نحذفه عشان ما يتكرر إرسال نفس الحساب المستهلك (أو تقدر تشيل سطر الحذف لو تبيه ينشر نفس الملف مرات متعددة)
                 os.remove(file_path)
-                print(f"[+] File successfully sent and deleted: {file_name}")
+                print(f"[+] Random file sent successfully and removed: {file_name}")
             else:
-                print("[-] Failed to send message, will retry this file in the next cycle.")
+                print("[-] Failed to send message, will retry in next cycle.")
         except Exception as e:
             print(f"[-] Error processing file {file_name}: {e}")
-            # لو صار خطأ غريب بالملف، نحذفه عشان ما يعلق البوت
             try:
                 os.remove(file_path)
             except:
                 pass
 
-        print(f"[*] Waiting 2 minutes before processing the next cookie...")
+        print(f"[*] Waiting 2 minutes before the next random drop...")
         time.sleep(INTERVAL_SECONDS)
 
 if __name__ == "__main__":
