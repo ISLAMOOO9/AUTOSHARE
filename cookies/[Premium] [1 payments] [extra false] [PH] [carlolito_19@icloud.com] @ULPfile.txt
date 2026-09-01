@@ -3,30 +3,13 @@ Profiles: Yuusaku, ROberto Anonuevo, Yolanda Anonuevo, EGOY, Kids
 Country: PH
 Since: May 2025
 
-Token: BgiQvuvcAxLCAUsm0lCpHmvRp8YjpCXREqAUWiB4DctfRJJhL91EQxVB7zf13jhcSMbYrDyZg6nNOq4Y nCxQ0eZlzRt yO5P cNzyUYKP6JFdPvDgbgME0x bGbeegyD9nO9i wVxTBhlu0R7Quo7n4oYd8Ca/nFnOpydIWkHlIEq0bRYKKvrbh66OuBopAo0lwFdvjCfOADyXMebVgbCAFzmX8HoO0FmG7YRt4/l1yJ7/kX9t6D/ZCdZWsy9t5Poj3Yg9kY44FnWvEGAYiDgoMPAruzCVcCMlz9/Nv
+Token: BgiQvuvcAxLCAZJqTkt3gh0MWXhgEuS3hVbtrXFpMyB5AUkeZ4fRRpz88akAjCLEnJIDiW cUT4SE0cKRuk9HDIoh0H3ccKkRcV5Xn3kCRZpcUeTE 41vFIr6ea9UQq6VrcPqcnKvyS06LLTNrZ0BWPka h/0tl0exxWhPPulubTuPN2Sh6bWZzRscsJ5zIoXc2BFFtSl8hTRrWF/zllj/AJNwJcWAWty/q 8QHr5RhztcDja/XT2crct5G3K5yn8x0J8WC p53I6/8nGAYiDgoMZS2ZWCQSCgg93Hsu
 
-Direct Watch: https://netflix.com/?nftoken=BgiQvuvcAxLCAUsm0lCpHmvRp8YjpCXREqAUWiB4DctfRJJhL91EQxVB7zf13jhcSMbYrDyZg6nNOq4Y+nCxQ0eZlzRt+yO5P+cNzyUYKP6JFdPvDgbgME0x+bGbeegyD9nO9i+wVxTBhlu0R7Quo7n4oYd8Ca/nFnOpydIWkHlIEq0bRYKKvrbh66OuBopAo0lwFdvjCfOADyXMebVgbCAFzmX8HoO0FmG7YRt4/l1yJ7/kX9t6D/ZCdZWsy9t5Poj3Yg9kY44FnWvEGAYiDgoMPAruzCVcCMlz9/Nv
-
-Mobile Watch: To use mobile apps you need to copy the Direct Watch link and paste it to your mobile Chrome browser and enter. After you enter and open the account in the browser, change the link to https://netflix.com/unsupported. It will suggest to open the app; click that and it will direct you to the mobile app smoothly.
-
-TV Watch: https://netflix.com/tv2?nftoken=BgiQvuvcAxLCAUsm0lCpHmvRp8YjpCXREqAUWiB4DctfRJJhL91EQxVB7zf13jhcSMbYrDyZg6nNOq4Y+nCxQ0eZlzRt+yO5P+cNzyUYKP6JFdPvDgbgME0x+bGbeegyD9nO9i+wVxTBhlu0R7Quo7n4oYd8Ca/nFnOpydIWkHlIEq0bRYKKvrbh66OuBopAo0lwFdvjCfOADyXMebVgbCAFzmX8HoO0FmG7YRt4/l1yJ7/kX9t6D/ZCdZWsy9t5Poj3Yg9kY44FnWvEGAYiDgoMPAruzCVcCMlz9/Nv
-
-========================================
-       ORIGINAL DATA 
-========================================
-
-Email: Yuusaku
-Profiles: Yuusaku, ROberto Anonuevo, Yolanda Anonuevo, EGOY, Kids
-Country: PH
-Since: May 2025
-
-Token: BgiQvuvcAxLCAftO1zLiPeXfv41fC0pOGnUHHFFXpMZ4KQvXLGLGs6SSmk75 V9N4rb4QLUIwaFPuDCYjLBUqGtz1cLw162KrqdV8BbLWq61Cyy4YEkYo4s6LGdUi3MIOeQMAYV8byfOsq48P6 GFOQWQuHob43ENGgj2 bkU10ePUcOIcThBL2Z19nvr/WvVfa1BJiGh3XjOgo56YWEwtDtsbjMAB8GhInstHDxXngGmXpTLAvRLD NAa67Q66ASSMOeW3tWKTACyNLGAYiDgoMfiZqr/zltIiJapEm
-
-Direct Watch: https://netflix.com/?nftoken=BgiQvuvcAxLCAftO1zLiPeXfv41fC0pOGnUHHFFXpMZ4KQvXLGLGs6SSmk75+V9N4rb4QLUIwaFPuDCYjLBUqGtz1cLw162KrqdV8BbLWq61Cyy4YEkYo4s6LGdUi3MIOeQMAYV8byfOsq48P6+GFOQWQuHob43ENGgj2+bkU10ePUcOIcThBL2Z19nvr/WvVfa1BJiGh3XjOgo56YWEwtDtsbjMAB8GhInstHDxXngGmXpTLAvRLD+NAa67Q66ASSMOeW3tWKTACyNLGAYiDgoMfiZqr/zltIiJapEm
+Direct Watch: https://netflix.com/?nftoken=BgiQvuvcAxLCAZJqTkt3gh0MWXhgEuS3hVbtrXFpMyB5AUkeZ4fRRpz88akAjCLEnJIDiW+cUT4SE0cKRuk9HDIoh0H3ccKkRcV5Xn3kCRZpcUeTE+41vFIr6ea9UQq6VrcPqcnKvyS06LLTNrZ0BWPka+h/0tl0exxWhPPulubTuPN2Sh6bWZzRscsJ5zIoXc2BFFtSl8hTRrWF/zllj/AJNwJcWAWty/q+8QHr5RhztcDja/XT2crct5G3K5yn8x0J8WC+p53I6/8nGAYiDgoMZS2ZWCQSCgg93Hsu
 
 Mobile Watch: To use mobile apps you need to copy the Direct Watch link and paste it to your mobile Chrome browser and enter. After you enter and open the account in the browser, change the link to https://netflix.com/unsupported. It will suggest to open the app; click that and it will direct you to the mobile app smoothly.
 
-TV Watch: https://netflix.com/tv2?nftoken=BgiQvuvcAxLCAftO1zLiPeXfv41fC0pOGnUHHFFXpMZ4KQvXLGLGs6SSmk75+V9N4rb4QLUIwaFPuDCYjLBUqGtz1cLw162KrqdV8BbLWq61Cyy4YEkYo4s6LGdUi3MIOeQMAYV8byfOsq48P6+GFOQWQuHob43ENGgj2+bkU10ePUcOIcThBL2Z19nvr/WvVfa1BJiGh3XjOgo56YWEwtDtsbjMAB8GhInstHDxXngGmXpTLAvRLD+NAa67Q66ASSMOeW3tWKTACyNLGAYiDgoMfiZqr/zltIiJapEm
+TV Watch: https://netflix.com/tv2?nftoken=BgiQvuvcAxLCAZJqTkt3gh0MWXhgEuS3hVbtrXFpMyB5AUkeZ4fRRpz88akAjCLEnJIDiW+cUT4SE0cKRuk9HDIoh0H3ccKkRcV5Xn3kCRZpcUeTE+41vFIr6ea9UQq6VrcPqcnKvyS06LLTNrZ0BWPka+h/0tl0exxWhPPulubTuPN2Sh6bWZzRscsJ5zIoXc2BFFtSl8hTRrWF/zllj/AJNwJcWAWty/q+8QHr5RhztcDja/XT2crct5G3K5yn8x0J8WC+p53I6/8nGAYiDgoMZS2ZWCQSCgg93Hsu
 
 ========================================
        ORIGINAL DATA 
@@ -49,8 +32,5 @@ t.me/ULPfile
 .netflix.com	TRUE	/	FALSE	1795347783	OptanonConsent	isGpcEnabled=0&datestamp=Sat+Nov+22+2025+19%3A43%3A03+GMT%2B0800+(Philippine+Standard+Time)&version=202508.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=6abcbb25-7b7b-495b-94f7-8a73d568098c&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false
 .netflix.com	TRUE	/	TRUE	1797694609	NetflixId	ct%3DBgjHlOvcAxKhA-fzikBSD-AEbRnZr-jnZ7_jYJGxK8NtQUWoWi95S-gwV-iQQ-TWLB7TE02cLwYae7Hr_1Vx8ETaT2y3KsM-Bt49chVujee_8DjD1TqbF9q84gWNkf7hKbIwwGq89Hzb7zWFuZY7hzeKeH3KR9Usk6p3qdvBykKDVT8XbbVGEmhrQSdA2Wfd4uvowNEMJeo9Rctm95MYyBTumvG43TjpKcCY3_JXTxf8JgM0yjOXrL4kpDKYf3f5TH7-DDORBN777JKrpqVR3sx96GVWOX3iQld2Q7BWv2jdOd5siQcLlavvIpCAxVo3Mtrymi3Zz1cpWSUCpRLgqKAUjN3OAQiElH-iXl5svNeuiKY8OTyc7cRqhMVrupMG_TMUKSxX5zivP2T8Bj9PctAeMALuP4xZDcUywca3Qi1Vo-vJjmhfzJbq0lqYm5VEVmUZTB9952Ov3A8U_9jONjY7pUED5QWOfVU1bndZv30J4fko0u5wKpxx9eawVz0misgUBx6BvYgPuDkB4Y0sqNeXlRfbgT7GPnz9DpgCTDgoDhsGv_MxHz8MpxgGIg4KDARyzlCrhQ6zDSqXow..%26ch%3DAQEAEAABABTDOuQik8s2hUXslIy45l2XjNPZeSxl0fQ.%26v%3D3%26pg%3DPEXIM3U46NHHHDXAFAZWM747IY
 .netflix.com	TRUE	/	TRUE	1797694609	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABSjvcbHSbWmKnSrpy8y-aAz1kTq9XD-3Qk.%26dt%3D1766158616292
---------------------------------------------------
-
-
 --------------------------------------------------
 

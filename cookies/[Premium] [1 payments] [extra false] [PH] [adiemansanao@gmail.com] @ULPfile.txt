@@ -3,30 +3,13 @@ Profiles: Adie, The Targaryens, Utog
 Country: PH
 Since: October 2023
 
-Token: BgiQvuvcAxLCASUEvFS/zDXK5ueO0CFaUT0MFcL92hNtqvn5bR5FUvfdZYyvMCOge7QCb ASYT/9OoCn3sEmo 92h jyPXnJWkESjIXyNwQKJSXO1lVxkPvOApSZYX8XQFfciU7tubglaH/gWX0llamUJwuz9F1lFG1jWRr4HYlDqt4WFduqXVjZOuhsjBXbLi6UWU89q W6CLjM8jjKAMVs7onHXxYGlAO5G4X3zgHIuK9q8e4J5TR/52wzPka6/7mthbtOk1nab07tGAYiDgoMdANBxhAA8Y6ASOGO
+Token: BgiQvuvcAxLCAcXHWXsnb4x7RXSSrkueRURU5p0rIbRrB2zW/AVSnSTnuB9CuRzYaaQLlqL9U/o3GEH7sVtso76Vhsaxs5OXIkqN9Rs7h/EdWYyxov9Qk/NHHFf 3ret23DUuhys79j vbtU0XJApyzjPwSUti9CUqCHDgG92RJBnyqLAOgDiOOudv9i61llxjT6VXoFUiyR6cbFaGFxt6iwKLuuEQWMmSVaAzakY1RK7Lb9N3BhxhdH5dlGKVpvr81yAgowDIlCxRkYGAYiDgoMTIP/nV6caxFuaHSM
 
-Direct Watch: https://netflix.com/?nftoken=BgiQvuvcAxLCASUEvFS/zDXK5ueO0CFaUT0MFcL92hNtqvn5bR5FUvfdZYyvMCOge7QCb+ASYT/9OoCn3sEmo+92h+jyPXnJWkESjIXyNwQKJSXO1lVxkPvOApSZYX8XQFfciU7tubglaH/gWX0llamUJwuz9F1lFG1jWRr4HYlDqt4WFduqXVjZOuhsjBXbLi6UWU89q+W6CLjM8jjKAMVs7onHXxYGlAO5G4X3zgHIuK9q8e4J5TR/52wzPka6/7mthbtOk1nab07tGAYiDgoMdANBxhAA8Y6ASOGO
-
-Mobile Watch: To use mobile apps you need to copy the Direct Watch link and paste it to your mobile Chrome browser and enter. After you enter and open the account in the browser, change the link to https://netflix.com/unsupported. It will suggest to open the app; click that and it will direct you to the mobile app smoothly.
-
-TV Watch: https://netflix.com/tv2?nftoken=BgiQvuvcAxLCASUEvFS/zDXK5ueO0CFaUT0MFcL92hNtqvn5bR5FUvfdZYyvMCOge7QCb+ASYT/9OoCn3sEmo+92h+jyPXnJWkESjIXyNwQKJSXO1lVxkPvOApSZYX8XQFfciU7tubglaH/gWX0llamUJwuz9F1lFG1jWRr4HYlDqt4WFduqXVjZOuhsjBXbLi6UWU89q+W6CLjM8jjKAMVs7onHXxYGlAO5G4X3zgHIuK9q8e4J5TR/52wzPka6/7mthbtOk1nab07tGAYiDgoMdANBxhAA8Y6ASOGO
-
-========================================
-       ORIGINAL DATA 
-========================================
-
-Email: Adie
-Profiles: Adie, The Targaryens, Utog
-Country: PH
-Since: October 2023
-
-Token: BgiQvuvcAxLCAcMiMM92DDhTC1WSi4wniqpHaSDiDepqFZWkvGWnU68IIozYwk 1XrMyEcDOUjuVnxA5SbQKLJhB lOFLRV EvoCgmP67u76ejLDkm7bUp7ZAeU0jiLybcVDd4e0tHlbCd6q5upgNMoG4KKAYbCrOPE58J1asyih/GMuzL jbwJRlcqb1oRw6B54rS8lg56dVw/WpZp0w2/L0RSy6jbNg8NEJ3/kBTznUqdFIMwaF0xykss LTDVFIeofjiJ4utp 6j7GAYiDgoMBJ7jNvwX8hf5xiPg
-
-Direct Watch: https://netflix.com/?nftoken=BgiQvuvcAxLCAcMiMM92DDhTC1WSi4wniqpHaSDiDepqFZWkvGWnU68IIozYwk+1XrMyEcDOUjuVnxA5SbQKLJhB+lOFLRV+EvoCgmP67u76ejLDkm7bUp7ZAeU0jiLybcVDd4e0tHlbCd6q5upgNMoG4KKAYbCrOPE58J1asyih/GMuzL+jbwJRlcqb1oRw6B54rS8lg56dVw/WpZp0w2/L0RSy6jbNg8NEJ3/kBTznUqdFIMwaF0xykss+LTDVFIeofjiJ4utp+6j7GAYiDgoMBJ7jNvwX8hf5xiPg
+Direct Watch: https://netflix.com/?nftoken=BgiQvuvcAxLCAcXHWXsnb4x7RXSSrkueRURU5p0rIbRrB2zW/AVSnSTnuB9CuRzYaaQLlqL9U/o3GEH7sVtso76Vhsaxs5OXIkqN9Rs7h/EdWYyxov9Qk/NHHFf+3ret23DUuhys79j+vbtU0XJApyzjPwSUti9CUqCHDgG92RJBnyqLAOgDiOOudv9i61llxjT6VXoFUiyR6cbFaGFxt6iwKLuuEQWMmSVaAzakY1RK7Lb9N3BhxhdH5dlGKVpvr81yAgowDIlCxRkYGAYiDgoMTIP/nV6caxFuaHSM
 
 Mobile Watch: To use mobile apps you need to copy the Direct Watch link and paste it to your mobile Chrome browser and enter. After you enter and open the account in the browser, change the link to https://netflix.com/unsupported. It will suggest to open the app; click that and it will direct you to the mobile app smoothly.
 
-TV Watch: https://netflix.com/tv2?nftoken=BgiQvuvcAxLCAcMiMM92DDhTC1WSi4wniqpHaSDiDepqFZWkvGWnU68IIozYwk+1XrMyEcDOUjuVnxA5SbQKLJhB+lOFLRV+EvoCgmP67u76ejLDkm7bUp7ZAeU0jiLybcVDd4e0tHlbCd6q5upgNMoG4KKAYbCrOPE58J1asyih/GMuzL+jbwJRlcqb1oRw6B54rS8lg56dVw/WpZp0w2/L0RSy6jbNg8NEJ3/kBTznUqdFIMwaF0xykss+LTDVFIeofjiJ4utp+6j7GAYiDgoMBJ7jNvwX8hf5xiPg
+TV Watch: https://netflix.com/tv2?nftoken=BgiQvuvcAxLCAcXHWXsnb4x7RXSSrkueRURU5p0rIbRrB2zW/AVSnSTnuB9CuRzYaaQLlqL9U/o3GEH7sVtso76Vhsaxs5OXIkqN9Rs7h/EdWYyxov9Qk/NHHFf+3ret23DUuhys79j+vbtU0XJApyzjPwSUti9CUqCHDgG92RJBnyqLAOgDiOOudv9i61llxjT6VXoFUiyR6cbFaGFxt6iwKLuuEQWMmSVaAzakY1RK7Lb9N3BhxhdH5dlGKVpvr81yAgowDIlCxRkYGAYiDgoMTIP/nV6caxFuaHSM
 
 ========================================
        ORIGINAL DATA 
@@ -51,8 +34,5 @@ t.me/ULPfile
 .netflix.com	TRUE	/	TRUE	1813657046	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABTNleISNtfiiinjNbuU04b3JJ1ecC5yi6c.%26dt%3D1782121046584
 .netflix.com	TRUE	/	FALSE	1789897049	netflix-sans-bold-3-loaded	true
 .netflix.com	TRUE	/	FALSE	1789897049	netflix-sans-normal-3-loaded	true
---------------------------------------------------
-
-
 --------------------------------------------------
 

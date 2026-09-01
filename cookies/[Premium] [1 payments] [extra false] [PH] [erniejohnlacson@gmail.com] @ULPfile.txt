@@ -3,30 +3,13 @@ Profiles: DK-Jeng, Ylaine, Ikay, aeronshiki
 Country: PH
 Since: April 2025
 
-Token: BgiQvuvcAxLCAUkgAzuMH4qCKAiG2GTjsZ yhawRHi7Kx8np2w8eIVa3imYT6zgfl1n1THtbPH/MF9l/VoEey4wk0LqMfRpdUHaivvn4rNuCWKersHxssYRUX5rocHt3qpoGMzLtRV3xZ5JyVLqBRXX7EK/DIAULG5CUOxlVbrR8wdlhvMKpHmmREctNkTgvwNQwOUE/QEY g5JfbtNEBvYIMWLI08RTcYe2Cvzs axZXWvudrnxzHGrpSlaJO1bOlyf9MzIBdz/F6H7GAYiDgoMTJn2p9xQterKXup/
+Token: BgiQvuvcAxLCAaMyGvinpJZ8DARHBbV7U3MAcDSv2LHdzlXTLBaRtONJXWGPW3HqylOTKSrXabRrWQrZTqSXiBQxp2CPGBCPNnTEAG 8NYko6XrLCTUvGpx AyuQcsc8LLIBEZ b KICPyQrnOH/qsmSxC5IIlqcMimbVnx6 p0Q9DSYDWrw2i2whCGtBRU8Rh4 5j12KgRP4w YyFIq38rpFD4GArpUMWxJquduHqvmnrkENd09Oq0QXuPdrQKtrjVLDBLYtn1iQL9 GAYiDgoM91EmPDFkGGpylEZl
 
-Direct Watch: https://netflix.com/?nftoken=BgiQvuvcAxLCAUkgAzuMH4qCKAiG2GTjsZ+yhawRHi7Kx8np2w8eIVa3imYT6zgfl1n1THtbPH/MF9l/VoEey4wk0LqMfRpdUHaivvn4rNuCWKersHxssYRUX5rocHt3qpoGMzLtRV3xZ5JyVLqBRXX7EK/DIAULG5CUOxlVbrR8wdlhvMKpHmmREctNkTgvwNQwOUE/QEY+g5JfbtNEBvYIMWLI08RTcYe2Cvzs+axZXWvudrnxzHGrpSlaJO1bOlyf9MzIBdz/F6H7GAYiDgoMTJn2p9xQterKXup/
-
-Mobile Watch: To use mobile apps you need to copy the Direct Watch link and paste it to your mobile Chrome browser and enter. After you enter and open the account in the browser, change the link to https://netflix.com/unsupported. It will suggest to open the app; click that and it will direct you to the mobile app smoothly.
-
-TV Watch: https://netflix.com/tv2?nftoken=BgiQvuvcAxLCAUkgAzuMH4qCKAiG2GTjsZ+yhawRHi7Kx8np2w8eIVa3imYT6zgfl1n1THtbPH/MF9l/VoEey4wk0LqMfRpdUHaivvn4rNuCWKersHxssYRUX5rocHt3qpoGMzLtRV3xZ5JyVLqBRXX7EK/DIAULG5CUOxlVbrR8wdlhvMKpHmmREctNkTgvwNQwOUE/QEY+g5JfbtNEBvYIMWLI08RTcYe2Cvzs+axZXWvudrnxzHGrpSlaJO1bOlyf9MzIBdz/F6H7GAYiDgoMTJn2p9xQterKXup/
-
-========================================
-       ORIGINAL DATA 
-========================================
-
-Email: DK-Jeng
-Profiles: DK-Jeng, Ylaine, Ikay, aeronshiki
-Country: PH
-Since: April 2025
-
-Token: BgiQvuvcAxLCAdIz8 ZrLqZtKGbhJC IDorCQaFAt0tTVAIGl58gdTL18yOmPMX EXFggW5YShMw2rRLxU5KZ3e7 d3BjmcGkKiF1xfKS/16nbNTPGpMnsbQFZc9tbWG9oUChN8VIQXQ2Zm Or25sY19gF2Zu5Ia1m/dOkgOtcjx3/ZdMLbXH c8AUZMin1F/93RGNXSqh4wPIDTjg4yjQ2fzjgL6XLdJy/0fczBQLK cfMcEs6VHRgi 4X50EFFMY3Z1r 9y74jHlEaGAYiDgoMPHyl0N KWuuZQpnl
-
-Direct Watch: https://netflix.com/?nftoken=BgiQvuvcAxLCAdIz8+ZrLqZtKGbhJC+IDorCQaFAt0tTVAIGl58gdTL18yOmPMX+EXFggW5YShMw2rRLxU5KZ3e7+d3BjmcGkKiF1xfKS/16nbNTPGpMnsbQFZc9tbWG9oUChN8VIQXQ2Zm+Or25sY19gF2Zu5Ia1m/dOkgOtcjx3/ZdMLbXH+c8AUZMin1F/93RGNXSqh4wPIDTjg4yjQ2fzjgL6XLdJy/0fczBQLK+cfMcEs6VHRgi+4X50EFFMY3Z1r+9y74jHlEaGAYiDgoMPHyl0N+KWuuZQpnl
+Direct Watch: https://netflix.com/?nftoken=BgiQvuvcAxLCAaMyGvinpJZ8DARHBbV7U3MAcDSv2LHdzlXTLBaRtONJXWGPW3HqylOTKSrXabRrWQrZTqSXiBQxp2CPGBCPNnTEAG+8NYko6XrLCTUvGpx+AyuQcsc8LLIBEZ+b+KICPyQrnOH/qsmSxC5IIlqcMimbVnx6+p0Q9DSYDWrw2i2whCGtBRU8Rh4+5j12KgRP4w+YyFIq38rpFD4GArpUMWxJquduHqvmnrkENd09Oq0QXuPdrQKtrjVLDBLYtn1iQL9+GAYiDgoM91EmPDFkGGpylEZl
 
 Mobile Watch: To use mobile apps you need to copy the Direct Watch link and paste it to your mobile Chrome browser and enter. After you enter and open the account in the browser, change the link to https://netflix.com/unsupported. It will suggest to open the app; click that and it will direct you to the mobile app smoothly.
 
-TV Watch: https://netflix.com/tv2?nftoken=BgiQvuvcAxLCAdIz8+ZrLqZtKGbhJC+IDorCQaFAt0tTVAIGl58gdTL18yOmPMX+EXFggW5YShMw2rRLxU5KZ3e7+d3BjmcGkKiF1xfKS/16nbNTPGpMnsbQFZc9tbWG9oUChN8VIQXQ2Zm+Or25sY19gF2Zu5Ia1m/dOkgOtcjx3/ZdMLbXH+c8AUZMin1F/93RGNXSqh4wPIDTjg4yjQ2fzjgL6XLdJy/0fczBQLK+cfMcEs6VHRgi+4X50EFFMY3Z1r+9y74jHlEaGAYiDgoMPHyl0N+KWuuZQpnl
+TV Watch: https://netflix.com/tv2?nftoken=BgiQvuvcAxLCAaMyGvinpJZ8DARHBbV7U3MAcDSv2LHdzlXTLBaRtONJXWGPW3HqylOTKSrXabRrWQrZTqSXiBQxp2CPGBCPNnTEAG+8NYko6XrLCTUvGpx+AyuQcsc8LLIBEZ+b+KICPyQrnOH/qsmSxC5IIlqcMimbVnx6+p0Q9DSYDWrw2i2whCGtBRU8Rh4+5j12KgRP4w+YyFIq38rpFD4GArpUMWxJquduHqvmnrkENd09Oq0QXuPdrQKtrjVLDBLYtn1iQL9+GAYiDgoM91EmPDFkGGpylEZl
 
 ========================================
        ORIGINAL DATA 
@@ -50,8 +33,5 @@ t.me/ULPfile
 .netflix.com	TRUE	/	TRUE	1790798572	gsid	93faba00-1095-4be7-8494-da75ccc5fbb9
 .netflix.com	TRUE	/	FALSE	1801937162	nfvdid	BQFmAAEBEE2DZY2_IvIwMwZ9kAPzzDBgjcSIVOw1DaSi-WgROkZ1svGno3L_e8tYihxahDRu6iHsA11g4KyZM8OMiYM1M5yybEMFG47HE_aH4y5Yd06awsvuexmOnWhharPUGCXiD-SYDpSd8vd-HefjQ3RSCNtl
 .netflix.com	TRUE	/	FALSE	1801951962	OptanonConsent	isGpcEnabled=0&datestamp=Sat+Feb+07+2026+06%3A12%3A42+GMT%2B0800+(Singapore+Standard+Time)&version=202512.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=1e3a2d91-e378-430b-838b-bb441afd3ea2&interactionCount=1&isAnonUser=1&landingPath=https%3A%2F%2Fwww.netflix.com%2Faccount%2Ftravel%2Fverify&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&crTime=1770415962190
---------------------------------------------------
-
-
 --------------------------------------------------
 

@@ -1,0 +1,41 @@
+Email: 묘묘
+Profiles: &#xBB18;&#xBB18;, &#xC548;&#xB155;&#xD558;&#xAD6C;&#xB9AC;, &#xB2E4;&#xC778;, &#xD0A4;&#xFEFF;&#xC988;
+Country: KR
+Since: 2025년 6월
+
+Token: BgiQvuvcAxLDAc/j3IUU7u6fqrUNcdd B7DgwudNYpOW44GImn1v88yQrAFq0FgIuhAAIUjFAAn56 ANhf5Qm87HRhrvfeFTr6M1zpjtF/vMThFgWvw89IsTZvrsp2O1AEiXx656GEoMTISkeD4RCtv/0JhdJSaBUF/U OhjrM C5 w6Jzfkgm7ehVykcxBAJEirV2oYFMdbzIH2qUMBK5ajrodZ1oz29w6TFzvfIkja6JbVM4xjVkPTo1ymvCIjtS6C GyieLnPsJIL9hgGIg4KDLdeMMe/Av1aJnoSwA==
+
+Direct Watch: https://netflix.com/?nftoken=BgiQvuvcAxLDAc/j3IUU7u6fqrUNcdd+B7DgwudNYpOW44GImn1v88yQrAFq0FgIuhAAIUjFAAn56+ANhf5Qm87HRhrvfeFTr6M1zpjtF/vMThFgWvw89IsTZvrsp2O1AEiXx656GEoMTISkeD4RCtv/0JhdJSaBUF/U+OhjrM+C5+w6Jzfkgm7ehVykcxBAJEirV2oYFMdbzIH2qUMBK5ajrodZ1oz29w6TFzvfIkja6JbVM4xjVkPTo1ymvCIjtS6C+GyieLnPsJIL9hgGIg4KDLdeMMe/Av1aJnoSwA==
+
+Mobile Watch: To use mobile apps you need to copy the Direct Watch link and paste it to your mobile Chrome browser and enter. After you enter and open the account in the browser, change the link to https://netflix.com/unsupported. It will suggest to open the app; click that and it will direct you to the mobile app smoothly.
+
+TV Watch: https://netflix.com/tv2?nftoken=BgiQvuvcAxLDAc/j3IUU7u6fqrUNcdd+B7DgwudNYpOW44GImn1v88yQrAFq0FgIuhAAIUjFAAn56+ANhf5Qm87HRhrvfeFTr6M1zpjtF/vMThFgWvw89IsTZvrsp2O1AEiXx656GEoMTISkeD4RCtv/0JhdJSaBUF/U+OhjrM+C5+w6Jzfkgm7ehVykcxBAJEirV2oYFMdbzIH2qUMBK5ajrodZ1oz29w6TFzvfIkja6JbVM4xjVkPTo1ymvCIjtS6C+GyieLnPsJIL9hgGIg4KDLdeMMe/Av1aJnoSwA==
+
+========================================
+       ORIGINAL DATA 
+========================================
+
+﻿Valid Cookie / Every day!
+t.me/ULPfile
+
+– Email: twinkle2924@naver.com
+– Verified: false
+– Profile: 안녕하구리
+– Plan: Premium
+– Next billing: 
+– Extra members: false
+– Country: KR
+– Payments: 1 | NAVER_BILLED ( )
+– Cookies: @ULPfile Join
+
+.netflix.com	TRUE	/	TRUE	1790798572	gsid	e519a872-7909-4e14-a7c3-710d8e40adec
+.netflix.com	TRUE	/	TRUE	1815732757	NetflixId	v%3D3%26ct%3DBgjHlOvcAxKjA2tCKPPOHEg5YZTWqeQla8MiubAN9GS-GYgwlNT69BNVo1Plw7TvQH0jsQNLL5X7VNrZ5NlUSdACECsgz-1HxAWQilYx3vsOg1hP5Z0qrAx1S4PxGj_CDA85_KL5wSc4ry5eBgeyfREBS3OUkxV7JVIycHpI36K7weBl3-r_YFW0rhgpoQvGZdxiqEwnx7GObzyWDbuIHdQNBLH8EesKpuAD4Bfl5QkxZDbAF6PALaOqKzxhIQ87mNXZki_UAtGNCmdLPXWeiPeHFb-IaGzSML9s4jOoQarXUxxaO-e1rjZgXxb6KGFvEhJ31sIK26eH67VUIrbeBF6v_x8IOwJ06fyVfpFx49dcwTOL-S7MziuTYjH2ugrimbG7j-4QZHVcy6hur1LVEJ_qzfV3H1oqEqwb4lu3NL6Wz9k1uA9DrXIb6AyQUt4soe6QGD7a7xdL74ptLsI2ILY0Oryq6vl1CIq8fY51vlto76oRTBESh3MsNl7LXtNgMwRq7yq8IfDAM7R7f9qFB5TgaUWhRqCuqNk-D6XOrYWYAN2DNYUjQANcB0qBGAYiDgoMx3lC7t3z0tXqnvy2%26pg%3DOXRYTJELCRC33JU3TA3TPZPWCM%26ch%3DAQEAEAABABTLtpKmWQTEpAQ5atfMiR2dcsEPtXJDf1w.
+.netflix.com	TRUE	/	FALSE	1815732767	OptanonConsent	isGpcEnabled=0&datestamp=Thu+Jul+16+2026+19%3A12%3A47+GMT%2B0900+(%ED%95%9C%EA%B5%AD+%ED%91%9C%EC%A4%80%EC%8B%9C)&version=202604.2.0&browserGpcFlag=0&isDntEnabled=0&isIABGlobal=false&hosts=&consentId=a9a8521c-2283-4bec-9c70-c0c371fda9af&interactionCount=1&isAnonUser=1&prevHadToken=0&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&crTime=1784196750621&AwaitingReconsent=false
+.netflix.com	TRUE	/	TRUE	1815732757	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABQ0wfBzBcbJUhiPFdvvzu47g56ApYzobjM.%26dt%3D1784196757144
+.netflix.com	TRUE	/	FALSE	1790798572	flwssn	6a9e4f92-b937-4fc3-b5f9-b95e53fdce9e
+.netflix.com	TRUE	/	FALSE	1791972767	netflix-sans-bold-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1791972767	netflix-sans-normal-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1815732753	nfvdid	BQFmAAEBEASNOWg_w7C_DXlV4_L4e3Bgkqjd0q6r0L3-C5kBQGcT58-soG-5GOAq4pIttVtgRI3O_njsU3UWKX1VawuNA_fCSknnnz_su1Qz_EITevxCRyh-eHrXbBw9BBTF_bk2Y7Yfzi3L0taq5romvjW2K4eq
+.netflix.com	TRUE	/	FALSE	1790798572	profilesNewSession	0
+--------------------------------------------------
+

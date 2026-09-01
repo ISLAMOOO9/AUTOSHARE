@@ -3,30 +3,13 @@ Profiles: Hernandez, Chixmagnet01, Pogi01, Kids
 Country: PH
 Since: September 2024
 
-Token: BgiQvuvcAxLCAUqxwiXU/Wk/KwpUzMeySNmRt79Ejixvox1l6kUYTpMSW I3P1x8Os3PBic72t5nqQ2U4yGJpX2/XEtRGDzptssoey5u8TDMcemeo5AdzXRbRlaA4y4dAYg8IgdismHjd6EBBuDyoY/sD3CYg/tSBW9YTK4bhKyVTcJJiSLPZ9NQRBmD3/pL0ETFe2bMI1enPK9SYnskALTCUP2a5O7quUiLNl0l40OkUhCDZckC4AyE1GbQfyQvsIVevFnANKpi ScIGAYiDgoMnZ4u7RwUFeGQ Rg4
+Token: BgiQvuvcAxLCASrdmpOMrVC8RYz1ZhB704nz4gh77mMMEbOjR0OGIcU9QBJ6ithGzYWq5s5rSXRXVCJJgn6l1Uy yjaMKsQpq71k2VGvaB4w/YE tEahmGV70suAuxVjaY/xguX7tPzI1bCoeOwQcYi/VvqE7jXYbsIbFv9XIz5dakAj0So tGvtDT8GuxKJYXqYq3Jhp8voHrULBT01/0qOaudGXxoMpDkUTS7YmxGc 9OVJo3glaaOAXTj1HNE8z3ZDYTN/xKkNzEpGAYiDgoMDS5hxfqJBY0/dbSd
 
-Direct Watch: https://netflix.com/?nftoken=BgiQvuvcAxLCAUqxwiXU/Wk/KwpUzMeySNmRt79Ejixvox1l6kUYTpMSW+I3P1x8Os3PBic72t5nqQ2U4yGJpX2/XEtRGDzptssoey5u8TDMcemeo5AdzXRbRlaA4y4dAYg8IgdismHjd6EBBuDyoY/sD3CYg/tSBW9YTK4bhKyVTcJJiSLPZ9NQRBmD3/pL0ETFe2bMI1enPK9SYnskALTCUP2a5O7quUiLNl0l40OkUhCDZckC4AyE1GbQfyQvsIVevFnANKpi+ScIGAYiDgoMnZ4u7RwUFeGQ+Rg4
-
-Mobile Watch: To use mobile apps you need to copy the Direct Watch link and paste it to your mobile Chrome browser and enter. After you enter and open the account in the browser, change the link to https://netflix.com/unsupported. It will suggest to open the app; click that and it will direct you to the mobile app smoothly.
-
-TV Watch: https://netflix.com/tv2?nftoken=BgiQvuvcAxLCAUqxwiXU/Wk/KwpUzMeySNmRt79Ejixvox1l6kUYTpMSW+I3P1x8Os3PBic72t5nqQ2U4yGJpX2/XEtRGDzptssoey5u8TDMcemeo5AdzXRbRlaA4y4dAYg8IgdismHjd6EBBuDyoY/sD3CYg/tSBW9YTK4bhKyVTcJJiSLPZ9NQRBmD3/pL0ETFe2bMI1enPK9SYnskALTCUP2a5O7quUiLNl0l40OkUhCDZckC4AyE1GbQfyQvsIVevFnANKpi+ScIGAYiDgoMnZ4u7RwUFeGQ+Rg4
-
-========================================
-       ORIGINAL DATA 
-========================================
-
-Email: Hernandez
-Profiles: Hernandez, Chixmagnet01, Pogi01, Kids
-Country: PH
-Since: September 2024
-
-Token: BgiQvuvcAxLCAf4kPufg/cqHqjTCDNW2k00UGySNUVrROoJmIM0oGdmV0Q1/t SQpVkBbCAOJH2L2vfl8EKTick4kteGWejmSuzS74Nfg1sr1Z5CNgFnGWc52mW6jAaWMFA0O9qMGpdKh/4rxdH4faVU3GR0DON6maHbraP8zy13viKV0jM/4zVY H40AtA8quN8s1XLCy1AYre vzoviAS9NnqHfbpDbZaRbRuIup1A7enweO3B/0cQl2c 75KrRlP7qsuQf6wjBAWoGAYiDgoMUyaNbdbK52oqXZqt
-
-Direct Watch: https://netflix.com/?nftoken=BgiQvuvcAxLCAf4kPufg/cqHqjTCDNW2k00UGySNUVrROoJmIM0oGdmV0Q1/t+SQpVkBbCAOJH2L2vfl8EKTick4kteGWejmSuzS74Nfg1sr1Z5CNgFnGWc52mW6jAaWMFA0O9qMGpdKh/4rxdH4faVU3GR0DON6maHbraP8zy13viKV0jM/4zVY+H40AtA8quN8s1XLCy1AYre+vzoviAS9NnqHfbpDbZaRbRuIup1A7enweO3B/0cQl2c+75KrRlP7qsuQf6wjBAWoGAYiDgoMUyaNbdbK52oqXZqt
+Direct Watch: https://netflix.com/?nftoken=BgiQvuvcAxLCASrdmpOMrVC8RYz1ZhB704nz4gh77mMMEbOjR0OGIcU9QBJ6ithGzYWq5s5rSXRXVCJJgn6l1Uy+yjaMKsQpq71k2VGvaB4w/YE+tEahmGV70suAuxVjaY/xguX7tPzI1bCoeOwQcYi/VvqE7jXYbsIbFv9XIz5dakAj0So+tGvtDT8GuxKJYXqYq3Jhp8voHrULBT01/0qOaudGXxoMpDkUTS7YmxGc+9OVJo3glaaOAXTj1HNE8z3ZDYTN/xKkNzEpGAYiDgoMDS5hxfqJBY0/dbSd
 
 Mobile Watch: To use mobile apps you need to copy the Direct Watch link and paste it to your mobile Chrome browser and enter. After you enter and open the account in the browser, change the link to https://netflix.com/unsupported. It will suggest to open the app; click that and it will direct you to the mobile app smoothly.
 
-TV Watch: https://netflix.com/tv2?nftoken=BgiQvuvcAxLCAf4kPufg/cqHqjTCDNW2k00UGySNUVrROoJmIM0oGdmV0Q1/t+SQpVkBbCAOJH2L2vfl8EKTick4kteGWejmSuzS74Nfg1sr1Z5CNgFnGWc52mW6jAaWMFA0O9qMGpdKh/4rxdH4faVU3GR0DON6maHbraP8zy13viKV0jM/4zVY+H40AtA8quN8s1XLCy1AYre+vzoviAS9NnqHfbpDbZaRbRuIup1A7enweO3B/0cQl2c+75KrRlP7qsuQf6wjBAWoGAYiDgoMUyaNbdbK52oqXZqt
+TV Watch: https://netflix.com/tv2?nftoken=BgiQvuvcAxLCASrdmpOMrVC8RYz1ZhB704nz4gh77mMMEbOjR0OGIcU9QBJ6ithGzYWq5s5rSXRXVCJJgn6l1Uy+yjaMKsQpq71k2VGvaB4w/YE+tEahmGV70suAuxVjaY/xguX7tPzI1bCoeOwQcYi/VvqE7jXYbsIbFv9XIz5dakAj0So+tGvtDT8GuxKJYXqYq3Jhp8voHrULBT01/0qOaudGXxoMpDkUTS7YmxGc+9OVJo3glaaOAXTj1HNE8z3ZDYTN/xKkNzEpGAYiDgoMDS5hxfqJBY0/dbSd
 
 ========================================
        ORIGINAL DATA 
@@ -50,8 +33,5 @@ t.me/ULPfile
 .netflix.com	TRUE	/	TRUE	1796300373	NetflixId	ct%3DBgjHlOvcAxLjA9KvWmJaN1P8mWsXhe6zagHVYzdbPpF3n8VhD8ubEGxhGfN6fpRRPDq_JbtpjQuK0cBa1sI9nAU6JhB8Dfv5Tt4qsscI9IrdmJJGO-9QDw8uSY_NCBAO1sK6mMc3qj5EhVHv3OjyqJyw0MJJA5sKhdRNnSFjMW-2cgndkfGluSSKSvW4cEdvnxvBOBaDyLHnlUHCTEv4Og0gPtwClqqqjuDQDU_LskrzNgj2tNkeD6PlNqeydaln5XBVimzpIVuUCHaPxsmI319tis6u8Wa_s-pIivPFgDqjWC6cjPsOhloVcvEfvW7Ke3MprmBG6Dh7A-iR_vD2i1cdr_T-LM3geP2pLbsBYAttxI50PgW3fBWLj_-yih0tsmI72i4QaKNKzk-LBEbnyc_XaZaPD9ge1GndK1lne2MvZWaUyLFIM8Xet4JYv2_3aa6q-v53QVQFNPLTcmn8A5zqwkIX__w9PH2eMYXLTNKi66rRk7ZukfSW9H3a0UCr2awq9Zdk7MzopiLNfSr6BwG0gNQvGVTEPMHVThSfIWmJ7lNsskpp3VAHsYYL5UUTmJYKpb9hN7Ia372KcEpLjfIZHzBh5RI74K5gMf-38K7Hft9c-5qRDMajkzpGaSiLp2uRuFw1UzMYEKX78xgGIg4KDJ1ZhFBrKlPiM39R0g..%26ch%3DAQEAEAABABSNxOON8tcCA63-1QPg2JxuUHvPhBTq3dw.%26v%3D3%26pg%3DFB2UVNKANBHPXH2MYSNV42UCKU
 .netflix.com	TRUE	/	TRUE	1796300373	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABSNgyrjxkV9PavhoE0AQGZs1UjYAas1Vlk.%26dt%3D1764764372940
 .netflix.com	TRUE	/	TRUE	1790798572	gsid	c028afa4-f8ff-4a24-abd6-84831c8942d4
---------------------------------------------------
-
-
 --------------------------------------------------
 

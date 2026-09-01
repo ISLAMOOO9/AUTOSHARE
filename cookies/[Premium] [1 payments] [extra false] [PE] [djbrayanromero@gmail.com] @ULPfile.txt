@@ -3,30 +3,13 @@ Profiles: Brayan, Carlos, Bryan fake, Henry, Ni&ntilde;os
 Country: PE
 Since: octubre de 2024
 
-Token: BgiQvuvcAxLCAaF5oRs5SWWpqC7JEpI5q/uQjS88XiJWcjYOI9VD3plpZLSO /4mqxjxFgLI5MZW3vMnSo/AsHBOKRa2EEieLe8yq0u2B3WmPu28nT D1INjyqS7TqbW0/4ivLX9ezwxJSTPRNpCfeit8SjpH3OL gSq3zilvf0S3qbWz2PWVyWgzHctLhS2P2x2K4RK5PoESKgIGk/GB/JcckJb2Tcxd SEPlVQ41A8biDaFkLhpbfuc5xSX8E4jtIHQl9jk/PqVW24GAYiDgoMQXhKWJUY oXXyJbL
+Token: BgiQvuvcAxLCASWCdoAr5vvNF6gulcdnedy6qbX /nBrsx9yT RV4F Do5Wm/BsU9hbq6rMu0AFmqbL7e42Ea4Xlk52EAnUzyFDs6zYVgrWOTx1ky9G4/B78/iA96DId 3ytXSZSMUgrIcprx3u44mXKW0DGVrnqdzVSwJogLmxj2OFZr8b IzQn9GPzRJmDaZc1/SuNxv1IhhHwnO/73RyszrfLhN16939/TFTKP7X8A 06tYs3NR6EGKnfXH46Qe1DYbzebeHHkv2cGAYiDgoMBmhoDNtqs1etBjD5
 
-Direct Watch: https://netflix.com/?nftoken=BgiQvuvcAxLCAaF5oRs5SWWpqC7JEpI5q/uQjS88XiJWcjYOI9VD3plpZLSO+/4mqxjxFgLI5MZW3vMnSo/AsHBOKRa2EEieLe8yq0u2B3WmPu28nT+D1INjyqS7TqbW0/4ivLX9ezwxJSTPRNpCfeit8SjpH3OL+gSq3zilvf0S3qbWz2PWVyWgzHctLhS2P2x2K4RK5PoESKgIGk/GB/JcckJb2Tcxd+SEPlVQ41A8biDaFkLhpbfuc5xSX8E4jtIHQl9jk/PqVW24GAYiDgoMQXhKWJUY+oXXyJbL
-
-Mobile Watch: To use mobile apps you need to copy the Direct Watch link and paste it to your mobile Chrome browser and enter. After you enter and open the account in the browser, change the link to https://netflix.com/unsupported. It will suggest to open the app; click that and it will direct you to the mobile app smoothly.
-
-TV Watch: https://netflix.com/tv2?nftoken=BgiQvuvcAxLCAaF5oRs5SWWpqC7JEpI5q/uQjS88XiJWcjYOI9VD3plpZLSO+/4mqxjxFgLI5MZW3vMnSo/AsHBOKRa2EEieLe8yq0u2B3WmPu28nT+D1INjyqS7TqbW0/4ivLX9ezwxJSTPRNpCfeit8SjpH3OL+gSq3zilvf0S3qbWz2PWVyWgzHctLhS2P2x2K4RK5PoESKgIGk/GB/JcckJb2Tcxd+SEPlVQ41A8biDaFkLhpbfuc5xSX8E4jtIHQl9jk/PqVW24GAYiDgoMQXhKWJUY+oXXyJbL
-
-========================================
-       ORIGINAL DATA 
-========================================
-
-Email: Brayan
-Profiles: Brayan, Carlos, Bryan fake, Henry, Ni&ntilde;os
-Country: PE
-Since: octubre de 2024
-
-Token: BgiQvuvcAxLCAUD6VUiWl7JL4v9VBvxVfvTnbiHs1RDHt9nOYR8AWhdw2Nu0twl8kOwy1Int89wEtC3goGbstQKatalQu9amzVopzt9M7l9wBR0fDvQ/Kn Wtasp1gfdOqYfjCcLjWDK/ERgmPfMjvjSJyINYlOFkX5cwnDaIo1hVQFTlNdYNq14lrHxk3HSTt1hp1r92Co5UnjTaAV98bH2clu188EAdX0o7T4DyH0/ vWRGHUXe6RXtZYLYRPXsGKlZdIT48HJwXO4GAYiDgoMdA0pTSk/mkzHMdaa
-
-Direct Watch: https://netflix.com/?nftoken=BgiQvuvcAxLCAUD6VUiWl7JL4v9VBvxVfvTnbiHs1RDHt9nOYR8AWhdw2Nu0twl8kOwy1Int89wEtC3goGbstQKatalQu9amzVopzt9M7l9wBR0fDvQ/Kn+Wtasp1gfdOqYfjCcLjWDK/ERgmPfMjvjSJyINYlOFkX5cwnDaIo1hVQFTlNdYNq14lrHxk3HSTt1hp1r92Co5UnjTaAV98bH2clu188EAdX0o7T4DyH0/+vWRGHUXe6RXtZYLYRPXsGKlZdIT48HJwXO4GAYiDgoMdA0pTSk/mkzHMdaa
+Direct Watch: https://netflix.com/?nftoken=BgiQvuvcAxLCASWCdoAr5vvNF6gulcdnedy6qbX+/nBrsx9yT+RV4F+Do5Wm/BsU9hbq6rMu0AFmqbL7e42Ea4Xlk52EAnUzyFDs6zYVgrWOTx1ky9G4/B78/iA96DId+3ytXSZSMUgrIcprx3u44mXKW0DGVrnqdzVSwJogLmxj2OFZr8b+IzQn9GPzRJmDaZc1/SuNxv1IhhHwnO/73RyszrfLhN16939/TFTKP7X8A+06tYs3NR6EGKnfXH46Qe1DYbzebeHHkv2cGAYiDgoMBmhoDNtqs1etBjD5
 
 Mobile Watch: To use mobile apps you need to copy the Direct Watch link and paste it to your mobile Chrome browser and enter. After you enter and open the account in the browser, change the link to https://netflix.com/unsupported. It will suggest to open the app; click that and it will direct you to the mobile app smoothly.
 
-TV Watch: https://netflix.com/tv2?nftoken=BgiQvuvcAxLCAUD6VUiWl7JL4v9VBvxVfvTnbiHs1RDHt9nOYR8AWhdw2Nu0twl8kOwy1Int89wEtC3goGbstQKatalQu9amzVopzt9M7l9wBR0fDvQ/Kn+Wtasp1gfdOqYfjCcLjWDK/ERgmPfMjvjSJyINYlOFkX5cwnDaIo1hVQFTlNdYNq14lrHxk3HSTt1hp1r92Co5UnjTaAV98bH2clu188EAdX0o7T4DyH0/+vWRGHUXe6RXtZYLYRPXsGKlZdIT48HJwXO4GAYiDgoMdA0pTSk/mkzHMdaa
+TV Watch: https://netflix.com/tv2?nftoken=BgiQvuvcAxLCASWCdoAr5vvNF6gulcdnedy6qbX+/nBrsx9yT+RV4F+Do5Wm/BsU9hbq6rMu0AFmqbL7e42Ea4Xlk52EAnUzyFDs6zYVgrWOTx1ky9G4/B78/iA96DId+3ytXSZSMUgrIcprx3u44mXKW0DGVrnqdzVSwJogLmxj2OFZr8b+IzQn9GPzRJmDaZc1/SuNxv1IhhHwnO/73RyszrfLhN16939/TFTKP7X8A+06tYs3NR6EGKnfXH46Qe1DYbzebeHHkv2cGAYiDgoMBmhoDNtqs1etBjD5
 
 ========================================
        ORIGINAL DATA 
@@ -51,8 +34,5 @@ t.me/ULPfile
 .netflix.com	TRUE	/	TRUE	1814453127	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABTSWINLAfK_9INxkyoW8VZGektE2bcne2o.%26dt%3D1782917126331
 .netflix.com	TRUE	/	FALSE	1790693128	netflix-sans-normal-3-loaded	true
 .netflix.com	TRUE	/	FALSE	1790693128	pas	%7B%22supplementals%22%3A%7B%22muted%22%3Afalse%7D%7D
---------------------------------------------------
-
-
 --------------------------------------------------
 

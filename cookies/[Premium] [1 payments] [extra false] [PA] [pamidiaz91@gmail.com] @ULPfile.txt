@@ -3,30 +3,13 @@ Profiles: Pamela, Dylan , Abuela Pamela, Dereck, Bebes
 Country: PA
 Since: julio de 2018
 
-Token: BgiQvuvcAxLEAULEbaHAeBERpzYdAQVio2s43W0g1P2MDdHhwdjpc JFsAYkyH9q4oS892JRtNoIRj1rmkdxqyVSprytJJPOcrXDQuFbGXQsGiECrJ7RcPuBvbc3qalzPGOOj/OgVQ9w4vH4GkkNDXL87SqLNqWJ8qF/5yY2qU7ETOWe0Amt9xT3T2g31I92kcOxvPuHGSfLxCW3rM4MYMApZ0XdY5pT5KXK2aA4Zef1xhrtrXpuLYB IC1RMlOOeMw RBR09SwYn0Ky/dEYBiIOCgzGnKgvFBvpxZLEfyA=
+Token: BgiQvuvcAxLEASOzOAkoiZO nb1NYhkS3WhznCKA8a4CyADsrIgpjmEKLaXqydjTjQ7S/BM8 MPHRh7/Rc5ck6jIdYCx6Q4vTim8CF/wePp LdUbtYZJvcnCBvlFkKCfdT BrbZ0xn3e02dVozu Dnr5W85AAIf 6KT5jHtllvpPWFXcwfv8xupsG1gP2dQr1SuXTJ2Od8ufQTcleTExTGywomPkxgxf0kAVEBc4OSjM9 o7KtZR2IhMpHxrflIYSH1NOzFt/OY2CEDLw9wYBiIOCgwpneafKE2Hpv pwIg=
 
-Direct Watch: https://netflix.com/?nftoken=BgiQvuvcAxLEAULEbaHAeBERpzYdAQVio2s43W0g1P2MDdHhwdjpc+JFsAYkyH9q4oS892JRtNoIRj1rmkdxqyVSprytJJPOcrXDQuFbGXQsGiECrJ7RcPuBvbc3qalzPGOOj/OgVQ9w4vH4GkkNDXL87SqLNqWJ8qF/5yY2qU7ETOWe0Amt9xT3T2g31I92kcOxvPuHGSfLxCW3rM4MYMApZ0XdY5pT5KXK2aA4Zef1xhrtrXpuLYB+IC1RMlOOeMw+RBR09SwYn0Ky/dEYBiIOCgzGnKgvFBvpxZLEfyA=
-
-Mobile Watch: To use mobile apps you need to copy the Direct Watch link and paste it to your mobile Chrome browser and enter. After you enter and open the account in the browser, change the link to https://netflix.com/unsupported. It will suggest to open the app; click that and it will direct you to the mobile app smoothly.
-
-TV Watch: https://netflix.com/tv2?nftoken=BgiQvuvcAxLEAULEbaHAeBERpzYdAQVio2s43W0g1P2MDdHhwdjpc+JFsAYkyH9q4oS892JRtNoIRj1rmkdxqyVSprytJJPOcrXDQuFbGXQsGiECrJ7RcPuBvbc3qalzPGOOj/OgVQ9w4vH4GkkNDXL87SqLNqWJ8qF/5yY2qU7ETOWe0Amt9xT3T2g31I92kcOxvPuHGSfLxCW3rM4MYMApZ0XdY5pT5KXK2aA4Zef1xhrtrXpuLYB+IC1RMlOOeMw+RBR09SwYn0Ky/dEYBiIOCgzGnKgvFBvpxZLEfyA=
-
-========================================
-       ORIGINAL DATA 
-========================================
-
-Email: Pamela
-Profiles: Pamela, Dylan , Abuela Pamela, Dereck, Bebes
-Country: PA
-Since: julio de 2018
-
-Token: BgiQvuvcAxLEATSAvivqMSl9h91myE4mbFI58lF0Kr9sm9zW3ykqHhs/S//AGJCNCpbmTSm7YJb69 YcpwaOHOIEZWLwC1XRsyH7rJyA5jQCahwaiDkiaqTWjq5tsynZlyERgXlcVwzqkINnB5aLTTek2KNLungHRaPTXz1nAZdxcEkED8O5TXrskoTyE3rc4aI5V5FlVBzsJwGZzVOaDgLdGEA/yIKZjeOEsoCfgwpoYsLsphLwQi hxEJiMlJEfwjrKZgTfdwPhti5UesYBiIOCgy2FYKMDTSduKWGlVw=
-
-Direct Watch: https://netflix.com/?nftoken=BgiQvuvcAxLEATSAvivqMSl9h91myE4mbFI58lF0Kr9sm9zW3ykqHhs/S//AGJCNCpbmTSm7YJb69+YcpwaOHOIEZWLwC1XRsyH7rJyA5jQCahwaiDkiaqTWjq5tsynZlyERgXlcVwzqkINnB5aLTTek2KNLungHRaPTXz1nAZdxcEkED8O5TXrskoTyE3rc4aI5V5FlVBzsJwGZzVOaDgLdGEA/yIKZjeOEsoCfgwpoYsLsphLwQi+hxEJiMlJEfwjrKZgTfdwPhti5UesYBiIOCgy2FYKMDTSduKWGlVw=
+Direct Watch: https://netflix.com/?nftoken=BgiQvuvcAxLEASOzOAkoiZO+nb1NYhkS3WhznCKA8a4CyADsrIgpjmEKLaXqydjTjQ7S/BM8+MPHRh7/Rc5ck6jIdYCx6Q4vTim8CF/wePp+LdUbtYZJvcnCBvlFkKCfdT+BrbZ0xn3e02dVozu+Dnr5W85AAIf+6KT5jHtllvpPWFXcwfv8xupsG1gP2dQr1SuXTJ2Od8ufQTcleTExTGywomPkxgxf0kAVEBc4OSjM9+o7KtZR2IhMpHxrflIYSH1NOzFt/OY2CEDLw9wYBiIOCgwpneafKE2Hpv+pwIg=
 
 Mobile Watch: To use mobile apps you need to copy the Direct Watch link and paste it to your mobile Chrome browser and enter. After you enter and open the account in the browser, change the link to https://netflix.com/unsupported. It will suggest to open the app; click that and it will direct you to the mobile app smoothly.
 
-TV Watch: https://netflix.com/tv2?nftoken=BgiQvuvcAxLEATSAvivqMSl9h91myE4mbFI58lF0Kr9sm9zW3ykqHhs/S//AGJCNCpbmTSm7YJb69+YcpwaOHOIEZWLwC1XRsyH7rJyA5jQCahwaiDkiaqTWjq5tsynZlyERgXlcVwzqkINnB5aLTTek2KNLungHRaPTXz1nAZdxcEkED8O5TXrskoTyE3rc4aI5V5FlVBzsJwGZzVOaDgLdGEA/yIKZjeOEsoCfgwpoYsLsphLwQi+hxEJiMlJEfwjrKZgTfdwPhti5UesYBiIOCgy2FYKMDTSduKWGlVw=
+TV Watch: https://netflix.com/tv2?nftoken=BgiQvuvcAxLEASOzOAkoiZO+nb1NYhkS3WhznCKA8a4CyADsrIgpjmEKLaXqydjTjQ7S/BM8+MPHRh7/Rc5ck6jIdYCx6Q4vTim8CF/wePp+LdUbtYZJvcnCBvlFkKCfdT+BrbZ0xn3e02dVozu+Dnr5W85AAIf+6KT5jHtllvpPWFXcwfv8xupsG1gP2dQr1SuXTJ2Od8ufQTcleTExTGywomPkxgxf0kAVEBc4OSjM9+o7KtZR2IhMpHxrflIYSH1NOzFt/OY2CEDLw9wYBiIOCgwpneafKE2Hpv+pwIg=
 
 ========================================
        ORIGINAL DATA 
@@ -53,8 +36,5 @@ t.me/ULPfile
 .netflix.com	TRUE	/	FALSE	1791657789	netflix-sans-bold-3-loaded	true
 .netflix.com	TRUE	/	FALSE	1791657789	netflix-sans-normal-3-loaded	true
 .netflix.com	TRUE	/	FALSE	1791657789	pas	%7B%22supplementals%22%3A%7B%22muted%22%3Atrue%7D%7D
---------------------------------------------------
-
-
 --------------------------------------------------
 
